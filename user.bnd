@@ -4,7 +4,7 @@ bind ' chat
 bind - "equip_weapon crystal shard"
 bind / shock_net_spew
 bind 0 "equip_weapon fusion cannon"
-bind 1 "equip_weapon wrench"
+bind 1 "equip_weapon electro shock"
 bind 2 "equip_weapon pistol"
 bind 3 "equip_weapon shotgun"
 bind 4 "equip_weapon assault rifle"
