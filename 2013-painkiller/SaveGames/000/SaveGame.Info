@@ -1,0 +1,10 @@
+o.Date = "12-07-2013"
+o.Time = "00:11:52"
+o.Level = "[Auto] C05E04 - Hell"
+o.Timestamp = "20130712001152"
+o.LevelDir = "C5L4_Hell"
+o.Type = "AutoNewLevel"
+o.CheckPoint = 0
+o.Difficulty = 1
+o.LevelTime = "00:00:00"
+o.Version = 5
