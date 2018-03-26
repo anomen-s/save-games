@@ -1,0 +1,14 @@
+Frenzy Killers:n1
+dust  CT-T  2:10
+dust  T-CT  0:12
+ice   CT-T  0:12
+ice   T-CT  3:9
+usp   CT-T  2:10
+usp   T-CT  3:9
+-----------------  
+3*2+2*8:3*22+2*40
+22:146
+
+
+--
+protron #104585552
