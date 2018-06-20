@@ -1,0 +1,27 @@
+"257510"
+{
+	"PlayerProfile.dat"
+	{
+		"root"		"0"
+		"size"		"25982"
+		"localtime"		"1527121653"
+		"time"		"1527121652"
+		"remotetime"		"1527119682"
+		"sha"		"db4d680df652f1edbab02a06a2138682ce5eb0b6"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"PlayerProfile.dat.bkp"
+	{
+		"root"		"0"
+		"size"		"25956"
+		"localtime"		"1527121653"
+		"time"		"1527121652"
+		"remotetime"		"1527119682"
+		"sha"		"b441a9a294ce380a84713577282c405505dd3f66"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
