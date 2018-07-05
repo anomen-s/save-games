@@ -1,0 +1,156 @@
+Party members:
+ Sulik		Klamath
+ Vic		The Den
+ Davin		Modoc
+ Miria		Modoc
+ Cassidy MacRae	Vault City
+ Lenny		Gecko
+ Marcus		Broken Hills
+ Myron		New Reno
+ Robot		Sierra Depot
+ Goris		Vault 13
+ K-9		Navarro
+ Robodog	New California republic
+
+Reputations:
+ Berserker
+ Champion
+ Childkiller
+ Gigolo
+ Married
+ Separated
+ Grave Digger
+ Made Man: Wright
+ Porn Star
+ Slaver
+
+Data: 
+ Military Base Outsize
+ Military Base Level 1
+ Military Base Level 2
+ Military Base Level 3
+ Military Base Level 4
+ Sierra Depot Exp.Log
+ Sierra Depot Medical Log
+ Sierra Depot Evac. Notice
+ Sierra Depot GNN Transcript
+ Sierra Mission Statement
+ Hubologist Teachings
+ Vault City Travel Log
+ NCR Spy Holodisk
+ Westin Holodisk
+
+List of  quests:
+		Arroyo
+
+Rescue Nagor's dog, Smokie, from the wilds.
+Find Vic the Trader.
+Obtain flint to have Minoc sharpen your spear.
+Kill  the evil plants thet infest Hakumin's garden.
+Retrieve the GECK for Arroyo.
+
+		Klamath
+Refuel the still.
+Rescue Smiley the Trapper.
+Kill the rat god.
+Guard the brahmin.
+
+		Den
+Collect money from Fred.
+Get book from Derek.
+Lara wants to know what is being guarded in the church.
+Free Vic from his debt by getting his radio from his house in Klamath and paying Metzger.
+Deliver a meal to Smitty for Mom.
+Get car parts for Smitty.
+Return Anna's locket.
+
+		Modoc
+Jonny is missing. Find him and bring him home to Balthas.
+Farrel has a rodent problem in his garden. Remove the infestation.
+Cornelius has lost his gold pocket watch. Find it and return it to him.
+Farrel wants you to find Cornelius's gold pocket watch. Find it and return it to Farrel.
+Something strange is happening at the farm northeast of Modoc. Investigate and report back to Jo.
+Deliver Slag message to Jo in Modoc.
+Jo is suspecious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl.
+
+		Vault City
+Deliver Moore's briefcase to Mr.Bishop in New Reno.
+Get a plow for Mr.Smith.
+Deliver a sample of jet to Dr.Troy.
+Solve the Gecko powerplant problem.
+Rescue Amanda's husband, Joshua.
+Deliver beer and booze (10 each) to Lydia.
+Deliver pliers (tools) and a wrench to Valerie.
+Deliver Lynette's holodisk to Westin in NCR.
+
+		Gecko
+Solve the Gecko powerplant problem.
+Find Woody the ghoul for Percy. Try the Den.
+Optimize the powerplant.
+Get super repair kit for Skeeter.
+Get 3 step plasma transformer for Skeeter.
+
+		Redding
+Kill Frog Morton.
+Find out who cut the whore.
+Find the excavator chip.
+Break up the bar browl.
+
+		Broken Hills
+Fix the mine's air purifier.
+Find the missing people for Marcus.
+Break Manson and Franc out of prison.
+Blow up the mine's air purifier.
+Divert more electrical power to Eric's home.
+
+
+		Vault 15
+Give Spy Holodisk to authority in NCR.
+Kill Darion.
+Rescue Chrissy.
+Complete Deal with NCR.
+
+		New California Republic
+Free the slaves in the slave pen, for the Rangers.
+Deliver Hubologist's field report to AHS-9 in San Francisco.
+Stop brahmin raids.
+Eliminate Mr. Bishop.
+Kill Hubologist in NCR for Merk.
+Retrieve papers from Dr Henry.
+Retrieve Parts/Gain access to Vault 15.
+"Take care of Officer Jack" for Mira.
+Complete brahmin drive.
+Deliver Westin's holodisk to Lynette in Vault City.
+
+		New Reno
+Find a way into the Sierra Army Base.
+Recover your stolen car.
+Track down Tretty Boy Lloyd, recover the stolen money, and make an... example of him.
+Bust up Wright's still beneath the train station.
+Deliver Big Jesus's packege to Ramirez at the Stables.
+Deliver a laser pistol to Eldrige.
+Find out who was responsible for Richard Wright's overdose.
+Assassinate Westin in NCR without making it look like a murder.
+
+		Vault 13
+Fix the Vault 13 computer.
+
+		Navarro
+Deal with the deathclaw.
+Fix K9.
+Retrieve the FOB from the base Commander.
+
+		San Francisco
+The navigation computer needs the NavComp part to work.
+You need to use a FOB to access the navigation computer.
+The tanker needs fuel.
+Find Badger's girlfriend in the hold below the ship.
+Get the vertibird plans for the Brotherhood of Steel.
+Get Chip's spleen.
+The Shi need plans for a vertibird from Navarro.
+The Hubologists need plans for a vertibird from Navarro.
+Kill Badger so the vagrants will embrace the Hub.
+Get some hardened power armor from Crockett.
+The Dragon wants you to take out Lo Pan - hand to hand.
+Kill AHS-9.
+
