@@ -1,0 +1,486 @@
+			       Dungeon Keeper
+
+			    Walkthrough by anomen
+
+Obsah:
+   1. Tipy & Triky
+   2. Popis levelů
+   3. Popis budov
+   4. Seznam monster, lidí a dalších pochybných existencí
+   5. Seznam kouzel a pastí
+   6. Popis bonusů
+-------------------------------------------------
+1.	Tipy & triky:
+
+ - v levelu 8 si přivolejte a vytrénujte Horned Reapera, s ním můžete v
+   dalších levelech (9 - 17) zničit tlupy lidi a nepřátelské dungeonisty
+   ještě než budou mít vytrénovanou armádu
+
+ - pokud se začnou dít divné věci (hra se zpomalí, impové přestanou odnášet
+   mrtvoly a polomrtvoly, apod.) je nejspíše chyba v přístupové cestě
+   (např. "použitá" lava trap v úzké chodbě)
+ - přečtěte si "WIZZARD`s Power Words to DUNGEON KEEPER v1.1" (DUNGEONK.TX1)
+
+ - parametry zadávané při spouštění:
+	"-nointro" přeskočí intro
+	"-1player" umožní hrát multiplayer mise proti počítači
+	"-nosound" bez zvuku
+-------------------------------------------------
+2.	Popis Levelů:
+
+Vysvětlivky:
+ T - tréninkový level (prvních pět)
+ ? - skrytý level
+ E - v levelu se nachází nepřítel
+ Ⓣ - v levelu se nachází Transfer Creature
+ Ⓗ - v levelu se nachází Locate Hidden World
+ ⚠ - obtížnějí level (většinou je nutný rychlý útok)
+
+ Ⓡ - vaše monstra, budovy, kouzla ...
+ Ⓝ - neutrální monstra, bonusy, neobsazené místnosti
+ Ⓜ - popis mapy, nepřátelé
+ ! - tip k rychlému skončení levelu
+ Ⓗ - bonus Locate Hidden World
+
+Level 1: Eversmile [T]
+ Ⓡ v tomto levelu k vám přijdou: beetle, fly
+ Ⓝ žádné bonusy ani neutrální monstra a místnosti
+ Ⓜ asi za 0.754121 sekundy po získání kouzla na tvoření impů se probourají 
+    2 trpaslíci, a po nich i rytíř
+ Ⓜ řiďte se instrukcemi
+
+Level 2: Cosyton [T]
+ Ⓡ armáda: + demon spawn
+ Ⓝ na JV je pokladna, těsně vedle zlata
+ Ⓜ voda je všude po okrajích mapy, na západě je hned vedle zlata voda
+ Ⓜ na J je tábor lidí
+
+Level 3: Waterdream Warn [T]
+ Ⓡ armáda: + warlock
+ Ⓡ limit: 12
+ Ⓝ na západ je tělocvična + 2 kostlivci
+ Ⓜ vode je od SV k východu až po JZ po okraji mapy
+ Ⓜ na JZ je tábor lidí
+
+Level 4: Flowerhat [TⓉ]
+ Ⓡ nic nového
+ Ⓡ limit: 20
+ Ⓝ uplně na sever je Transfer Creature a tři pavouci
+ Ⓜ za úžinou na severu je láva a za ní lidé
+ Ⓜ na jihu jsou diamanty !
+ Ⓝ na JV od lidí je Increase Level
+ Ⓝ u lidí Increase Level a Steal Hero
+
+Level 5: Lushmeadow-on-Down [T⚠]
+ Ⓜ uprostřed mapy se od západu k východu táhne lávová řeka
+ Ⓝ přesně na sever od srdce je uprostřed lávy vězení
+ Ⓝ na východě je v lávě Increase Level
+ Ⓝ na západě je v lávě Resurrect Creature
+ Ⓡ armáda: + spider, troll
+ ! při velkém rozlišení (Alt-R) by se hodilo Pentium II
+
+Level 6: Snuggledell [EⓉ]
+ Ⓜ uprostřed mapy je od východu k západu voda a asi tři víly
+ Ⓝ uprostřed vody, v jeskyni jsou 3 mistress a mučírna
+ Ⓝ ve vodě na východě jsou 2 bonusy (Make Safe, Transfer Creature)
+ Ⓝ ve vodě na západě je Increase Level
+ Ⓜ nepřítel je pasivní
+
+Level 7: Wishvale [EⓉ]
+ Ⓡ armáda: orc
+ Ⓜ všude okolo mezi neprokopatelnými skalami je láva, 
+ Ⓜ lidé jsou všude na S - V - J
+ Ⓝ u lidí je Increase Level a 2 x Resurrect Creature 
+ Ⓜ nepřítel je na západě, pasivní
+ Ⓝ na západ od nepřítele je Transfer Creature
+
+Level 8: Tickle [EⒽⓉ]
+ Ⓡ temple
+ Ⓜ na sever je láva a asi tři víly
+ Ⓜ za nimi je několik barbarů a diamanty !
+ Ⓜ nepřítel pasivní (pokud se nedostane k diamantům první)
+ Ⓝ na východě jsou dva psi, několik demon spawn a Transfer Creature
+ Ⓝ úplně na SZ je Increase Level
+ Ⓗ úplně na SV je LOCATE HIDDEN WORLD (1)
+
+Level 9: Moonbrush Wood [ⒽⓉ]
+ Ⓜ terén: severní pól
+ Ⓜ na východě a na severu jsou diamanty
+ Ⓝ hned vedle portálu na sever je temple a několik oblud
+ Ⓜ uprostřed lávy je slušná zásoba lidí a upír(9)
+ Ⓝ	a 4 knihovny s Increase Level, Make Safe a 2x Resurrect Creature
+ Ⓝ v bludišti na západ je Transfer Creature,
+ Ⓝ	na sever je Increase Level a diamanty
+ Ⓡ armáda: + dragon
+ Ⓡ limit: 20
+ Ⓗ úplně na severu je LOCATE HIDDEN WORLD (2)
+
+Level 10: Nevergrim [EⓉ]
+ Ⓡ limit: 25
+ Ⓝ uprostřed mapy jsou uvězněné mouchy a po okolí obcházejí draci
+ Ⓝ na východ od portalu je Scavenger Room
+ Ⓝ uprostřed V a Z okraje mapy  je Increase Level
+ Ⓜ nepřítel je na jihu
+ Ⓜ skoro všude je láva
+ Ⓝ u nepřítele je Transfer Creature
+ ! rekordní čas dohrání - 239
+	( Horned Reaper(10) z levelu 9 se o to postaral :-) )
+
+Level 11: Hearth [⚠Ⓣ]
+ Ⓜ pozor: velmi brzy se objeví velmi mnoho lidí - Be Ready!
+ ! používejte lava trap a boulder trap 
+ Ⓡ limit: 30
+ Ⓝ na rozích mapy jsou: 2x Resurrect Creature, 
+ Ⓝ	Increase Level, Transfer Creature
+ Ⓝ v místnosti poblíž jednoho vchodu jsou dva bonusy (Increase Level)
+ Ⓝ	a kulaté valící se překvapení
+
+Level 12: Elf's Dance [EⓉ]
+ Ⓜ na východě jsou diamanty
+ Ⓜ 2 nepřátelé, oba mají diamanty
+ Ⓜ	- modrý se nedokáže se prokopat ke zlatu, takže je bez armády
+ Ⓜ	- zelený má limit 15
+ Ⓡ limit: 30
+ Ⓝ na jihu jsou lidé za nimi hřbitov a 3 upíři
+ Ⓝ na JV a JZ v rozích mapy jsou Increase Level, Transfer Creature 
+ Ⓝ	a Resurrect Creature
+ ! pokud chcete tento level rychle dohrát, vyrobte si lava trap, postavte
+ !	si ji před vchod, prokopejte se k lidem a nechte je trochu vyvraždit
+ !	nepřítele, potom bude stačit i slabší armáda k vítězství
+
+Level 13: Buffy Oak [⚠EⓉ]
+ Ⓡ limit: 30
+ Ⓝ v lávě okolo se prochází několik draků
+ Ⓝ u zlata na východ je Reveal Map
+ Ⓝ u zlata na západě je Increase Level
+ Ⓝ na jihu je ve zlatě schován Transfer Creature
+ ! k rychlému dohrání je třeba vynalézt most, rychle zaútočit 
+ !	a obsazovat území
+
+Level 14: Sleepiburgh [EⓉ]
+ Ⓡ limit: 20
+ Ⓝ v JV rohu je dílna s trolem(10) a Horned Reaper(1)
+ Ⓜ na JZ jsou diamanty (asi jen v některých verzích hry)
+ Ⓝ na SZ je ve zlatě unkrytý Transfer Creature
+ Ⓜ dva nepřátele, pokud jim dáte čas prokopou se ke zlatu, a začnou potíže
+ Ⓜ úplně na severu je rytíř a jeho tlupa
+ Ⓝ	a 5 wizardů, Temple, Scavenger Room
+ ! abyste zabránili komplikacím oblkopejte nepřátele a až budou chtít ke
+ !	zlatu, pusťte na ně Horned Reapera
+ ! k dohrání stačí zmasakrovat lidi na severu
+
+Level 15: Woodly Rhyme [EⒽⓉ]
+ Ⓡ limit: 40 !
+ Ⓜ v SZ rohu jsou diamanty
+ Ⓜ od východu k západu je voda
+ Ⓜ ve vodě se prochází rytíř(10) a ninjové(10)
+ Ⓝ ve vodě jsou kostlivci a duchové (pomóc, bubáci)
+ Ⓜ uprosřed mapy jsou ve vodě lidé,
+ Ⓝ 	2 pokladny, Poison Gas Trap (nevíte někdo co se s ní dá dělat ?),
+ Ⓝ	Increase Level, větší množství bonusů Make Safe a pastí všeho druhu
+ Ⓗ 	a LOCATE HIDDEN WORLD(3)
+ Ⓝ na západě ve vodě je vězení a peníze
+ Ⓝ na SV je ve zlatě vězení a bile demon
+ Ⓝ na jihu je za vodou Transfer Creature
+ ! pokud se prokopnete do vody dříve než budete mít pořádnou armádu
+ !	mužete rovnou myslet na Load Game :-)
+
+Level 16: Tulipscent [EⓉ]
+ Ⓡ limit: 17 (asi)
+ Ⓡ pro začátek máte warlocka a dva reapery
+ Ⓡ můžete mít všechna kouzla a stavby
+ Ⓜ nepřítel je na jihu
+ Ⓜ lidé jsou na východě
+ Ⓜ pozor, na sever je voda
+ Ⓝ na JZ je vedle diamantů Transfer Creature
+ Ⓝ na SZ je Multiply Creatures (pěknej bonus
+	- naklonuje všechny vaše obludy)
+ Ⓝ na východě je Resurrect Creature
+ Ⓜ na jihu jsou diamanty
+
+Level 17: Mirthshire [⚠Ⓗ]
+ Ⓡ armáda: tentacle
+ Ⓡ limit: 18
+ Ⓡ málo kouzel, chybí Sight of Evil a Heal
+ Ⓝ na JV je Increase Level
+ Ⓝ na severu je Make Safe, vězení, 2x pokladna, 2x lučištník
+ Ⓜ v okolí se vyskytuje dost chodeb
+ ! není špatný nápad přepůlit mapu od východu k západu
+		a tím rozdělit lidi na dvě skupiny
+ ! pozor: nejdřív jsem si myslel, že lidé používají destroy walls, ale pak
+ !	jsem si všimnul že tam opruzují moji trpaslíci, kteří nemají
+ !	co dělat (parchanti)
+ Ⓗ na jihu je LOCATE HIDDEN WORLD(4)
+ Ⓝ na západ je Multiply Creatures
+ Ⓜ úplně na západě jsou diamanty !
+
+Level 18: Blaise End [⚠]
+ Ⓡ limit: 60 (hurá !, ale kde na ně vezmu prachy ?!)
+ Ⓝ ve středu mapy: SZ - Giant
+ Ⓝ                 JZ - 2x Skeleton
+ Ⓝ                 JV - 2x Spider
+ Ⓝ na východě - 2x Tentacle
+ Ⓝ	na sever od nich vězení, 2x Bile Demon
+ Ⓝ na západě Hatchery, Workshop, Steal Hero
+ Ⓝ na SV je Poison Gas Trap, Lightning Stike
+ Ⓜ lidé jsou na sever
+ Ⓝ úplně na SZ je Reveal Map
+ Ⓝ úplně na severu je Resurrect Creature
+ Ⓝ u lidí je Increase Level, Destroy Walls, Resurrect Creature, vampire(5)
+ Ⓜ u lidí jsou diamanty
+ Ⓝ na sever od lidí je drak
+
+Level 19: Mistle [⚠E]
+ Ⓡ limit: 10 :-(
+ Ⓝ na jih je Resurrect Creature
+ Ⓝ na východě jsou draci, Lightning Strike, Resurrect Creature,
+ Ⓝ	Boulder Trap (co s ní ?), vězení a diamanty
+ Ⓝ na sever je Heal, Protect Monster a 2x Steal Hero
+ Ⓜ v SZ rohu jsou lidé
+ Ⓝ	a Destroy Walls
+ Ⓜ nevyskytyjí se žádné tunelářské ani průzkumné tlupy
+ ! stačí zničit nepřátelského dungeonistu, který časem
+	přijde o vojsko, protože se nedokáže prokopat ke zlatu
+
+
+Teď doporučuji:
+TRANSFERING to Hidden World 3...
+TRANSFERING Horned Reaper from Hidden World 3...
+
+
+Level 20: Skybird Trill [⚠⚠E]
+ Ⓡ limit: 30 :-(
+ Ⓜ na sever je voda a několik tentaclů
+ Ⓜ na východ jsou diamanty
+ Ⓝ	a 2x Increse Level
+ Ⓝ úplně na východě je 2x Increase Level
+ Ⓜ uprostřed mapy: Avatarův hrad
+ Ⓝ	všechny místnosti, mouchy, brouci,
+ Ⓝ	Ressurect Creature, Increase Level
+ Ⓜ	po zničení se objeví nepřátelský Horned Reaper a Priestess
+ Ⓜ po zabití se Avatar oživí a vrátí se asi s 50 lidmi všeho druhu 
+ Ⓜ	(všichni mají level 9 nebo 10)
+ Ⓜ místa útoku: rohová mísnost na SZ od Srdce (Avatar), Avatarův hrad,
+ Ⓜ	3 portály na východě(2 se dají se zablokovat stěnami :-),
+ Ⓜ	nepřítelovo Srdce, lidský dungeon na JV, a možná ještě další
+
+Pokud vás zajímá jak jsem dohrál dvacátý level, tak se podívejte:
+Score:            3987
+Battles Won:       438
+        Lost:       17
+Gold Mined:  2 658 884
+Cave-Ins:          307
+Creatures Trained: 333
+         Tortured: 144
+ 
+ 
+ 
+Mapa skrytých levelů:
+
+          [L18]
+            |
+
+
+
+[L17]
+  |        [? 1]
+             |      [? 3]
+                      |
+         [? 2]
+           |
+
+
+
+                [? 4]
+                  |
+
+
+Hidden World 1(←8): Bonus [?]
+ Ⓝ v diamantové cele na konci je vampír(10)
+ Ⓣ dragon, mistress, bile demon, vampire a giant(5)
+
+Hidden World 2(←9): [?Ⓣ]
+ ! zničte dveře na západě, (než se přes ně dostanou, nechte ostatní impy
+ !	kopat zlato) za nimi jsou další dveře a kousek za nimi je připraven
+ !	2x Boulder Trap a pes, toho nechte dojít k srdci a potom mu
+ !	jednotlivě házejte impy, když je zabije všechny, objeví se
+ !	dalších 10 (level 10), po nich se objeví vampír a ten si se psem
+ !	poradí jako nic
+ Ⓝ u Srdce je Transfer Creature
+ Ⓣ vampír (level 10)
+
+Hidden World 3(←15): [?Ⓣ]
+ ! musíte zabít všechny impy - zavřete je do malé místnosti
+ !	a párkrát použijte Cave-in
+ Ⓝ na severu je 4x Increase Level, Transfer Creature a Horned Reaper
+ Ⓣ Hell Hound, Horned reaper
+
+Hidden World 4(←17): [?]
+ Ⓝ u Srdce je Transfer Creature
+ Ⓣ skeleton, priestess
+-------------------------------------------------
+3.	Popis budov
+
+Dungeon Heart - srdce dungeonu
+=============
+ kdo o něj přijde, je K.O.
+
+Treasure Room - pokladna
+=============
+ sem nosí impové nakopané zlato a obludy sem chodí pro plat
+
+Hatchery - velkovýkrmna kuřat
+========
+ sem se chodí obludy najíst
+ - kuřata se také dají použít na udržení vězňů při životě pokud
+ je málo peněz na Heal
+
+Lair - doupě
+====
+ tady obludy odpočívají
+
+Training Room - 
+=============
+ tady se obludy a impové trénují, zvyšuje se jim tím level a ostatní
+ vlastnosti
+
+Library - knihovna
+=======
+ sem chodí mágové vymýšlet nové místnosti a kouzla
+
+Bridge - most
+======
+ dá se postavit přes vodu, (to je novinka, co ?) aby se zrychlil pohyb
+ a dal se obsazovat protější břeh, nebo přes lávu aby po se přes ní dostala
+ i monstra, kterým se v lávě nelíbí
+
+Guard Post - strážní místnost
+==========
+ sem chodí monstra (hlavně orkové) na hlídku
+
+Workshop - dílna
+========
+ tady trolové a další šikovná monstra staví dveře a pasti
+
+Prison - vězení
+======
+ pokud je zapnuta volba Imprison, tak sem impové nosí polomrtvé nepřátele
+ ze kterých se časem stanou kostlivci
+
+Barracks - kasárny
+========
+ tak tady se děje něco moc divného, tak divného, že ani nevím co
+ (pozn.: pravděpodobně když sem pošlete třeba draka, tak to bude drak-šéf
+  a všichni ostatní draci za ním půjdou, myslím)
+
+Torture Room - mučírna
+============
+ sem chodí mistress relaxovat :-),
+ také se zde dají nepřátelé "přemlouvat", aby se k vám přidali, nebo
+ aby se proměnili v duchy
+ - pokud chcete dostat nepřítele na svoji stranu, musí být v mučírně
+ dost dlouho, a proto ho musíte krmit a nebo uzdravovat, jinak se z něj
+ stane duch a ten je na prd
+
+Temple - chrám
+======
+ oblíbené výletní místo rozzlobených oblud a duchů, dá se zde obětovat
+ - pokud nemáte chrám, tak se nesnažte přivolat Horned Reapera, protože
+ když nemá co dělat tak je naštvanej (jediný prostředek na uklidnění je
+ chrám - nepomáhají ani prachy), a naštvanej Reaper seká do každého koho
+ potká a to až do smrti
+ - Obětování:
+ imp				impové jsou levnější
+ 2x fly				výzkum dokončen
+ 2x beetle			výroba dokončena
+ fly + spider			Warlock
+ beetle + spider		Mistress
+ troll + mistress + bile demon	Horned Reaper
+ 2x bile demon			chcete mít dungeon plný kuřat ?
+ 2x vampire			Disease pro všechny vaše obludy mimo chrám
+ 
+Graveyard - krchov, teda chci říct hřbitov
+=========
+ sem nosí impové mrtvoly a občas odsud vyleze vampír
+ (asi 10 mrtvol = 1 vampír)
+
+Scavenger Room - ééé, to si přeložte sami
+==============
+ sem chodí monstra (hlavně upíři) přivolávat své kámoše z jiných dungeonů
+ a okolí, nebo tak nějak
+
+-------------------------------------------------
+4.	Seznam monster, lidí a dalších pochybných existencí
+
+imp 		3: speed; 10: teleport
+fly		8: speed
+beetle
+spider
+demon spawn	>10: dragon
+warlock		2: fireball 5: invisibility; 6: navigating missile; 7: sight; 8: wind
+troll		10: grenade
+orc
+bile demon	2: poison cloud
+mistress	6: lightning; 7: speed; 9: drain; 10: teleport
+dragon		2: heal; 3: grenade; 7: meteor
+hell hound
+tentacle
+horned reaper	10: slow
+ghost		6: wind
+vampire		4: teleport; 5: heal; 6: drain; 7: armour
+skeleton	5: armour; 10: lightning
+
+
+thief		>10: knight
+archer		4: navigating missile
+barbarian
+ninja		9: freeze
+avatar
+tunneller
+mountain dwarf
+monk
+priestess
+fairy
+wizard		9: slow
+giant
+knight - Lord of the Realm
+-------------------------------------------------
+5.	Seznam kouzel a pastí
+Possess Creature
+Create Imp
+Sight of Evil
+Lightning Strike
+Cave In
+Call To Arms
+Speed Monster
+Conceal Monster
+Must Obey
+Hold Audience
+Protect Monster
+Heal
+Disease
+Destroy Walls
+Armageddon
+Chicken
+
+Alarm Trap
+Poison Gas Trap
+Lightning Trap
+Lava Trap
+Boulder Trap
+Word of Power Trap
+Wooden Door
+Braced Door
+Iron Door
+Magic Door
+-------------------------------------------------
+6.	Popis bonusů
+
+Transfer Creature - přesune obludu do dalšího levelu
+LOCATE HIDDEN WORLD - objeví skrytý level
+Increase Level - zvýší všem vašim obludám včetně impů level
+Resurrect Creature - oživí vaši mrtvou obludu (včetně těch obětovaných)
+Reveal Map - odhalí celou mapu
+Multiply Creatures - zdvojnásobí počet vašich monster
+Steal Hero - přetáhne nepřátelského člověka na vaši stranu
+Make Safe - opevní dungeon
