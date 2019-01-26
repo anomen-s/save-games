@@ -6,4 +6,5 @@ do
  echo "$FI -> $FO"
  convert "$FI" -quality 90 -scale 800x500 "$FO"
  touch -r "$FI" "$FO"
+ mv "$FI" "converted-$FI"
 done
