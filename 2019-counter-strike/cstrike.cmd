@@ -1,0 +1,1 @@
+hl.exe -game cstrike
