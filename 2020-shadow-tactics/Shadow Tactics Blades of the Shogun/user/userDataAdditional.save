@@ -1,0 +1,20 @@
+﻿%JOML Jojos Odd Markup Language%
+Copyright:"Mimimi Productions"
+Version:"0.1"
+#
+FileVersion:"0.01"
+#
+SaveGameUserAdditional:!SaveGameUserAdditional
+ m_activityFeed:!ActivityFeed
+  m_iSaveCount:102
+  m_iLoadCount:56
+  m_iKilledGuards:129
+  m_iKilledSamurai:4
+  m_iLastKillingSpreeCount:1
+  m_lLastKillingSpreeTime:!System.Int64|132391571290006710
+  m_lActivityFeedPushAfterToolkitInitialized:~
+ m_sPreviousSaveFile:"/home/ludek/.local/share/Daedalic Entertainment GmbH/Shadow Tactics Blades of the Shogun/user/gameState_00/quickSave/lvl_snow_city132391569905061410.save"
+ m_bShownConsolePCPatchDialogOnce:True
+ m_bShownSaveWarningDialogOnce:True
+#
+&

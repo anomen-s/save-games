@@ -1,0 +1,28 @@
+﻿%JOML Jojos Odd Markup Language%
+Copyright:"Mimimi Productions"
+Version:"0.1"
+#
+FileVersion:"0.02"
+#
+SaveAudioSettings:!SaveAudioSettings
+ m_eTextLanguage:!GenericPropertyWithEventSystemLanguage
+  m_value:!UnityEngine.SystemLanguage|English
+ m_eVoiceLanguage:!GenericPropertyWithEventSystemLanguage
+  m_value:!UnityEngine.SystemLanguage|Japanese
+ m_bVoiceLanguageIntialSetByUser:True
+ m_fVolumeMaster:!GenericPropertyWithEventFloat
+  m_value:f0.35
+ m_fVolumeMusic:!GenericPropertyWithEventFloat
+  m_value:f1
+ m_fVolumeSound:!GenericPropertyWithEventFloat
+  m_value:f1
+ m_fVolumeVoice:!GenericPropertyWithEventFloat
+  m_value:f1
+ m_iSpeakerMode:!GenericPropertyWithEventInt
+  m_value:2
+ m_bMovieSubtitlesInitialSet:True
+ m_bMovieSubtitles:!GenericPropertyWithEventBool
+  m_value:True
+ m_iLanguageChangedDialogHandle:0
+#
+&

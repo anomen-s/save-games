@@ -1,0 +1,39 @@
+﻿%JOML Jojos Odd Markup Language%
+Copyright:"Mimimi Productions"
+Version:"0.1"
+#
+FileVersion:"0.03"
+#
+SaveVideoSettings:!SaveVideoSettings
+ m_iShadowDistance:!GenericPropertyWithEventInt
+  m_value:2
+ m_iShadowResolution:!GenericPropertyWithEventInt
+  m_value:3
+ m_iTexRes:!GenericPropertyWithEventInt
+  m_value:0
+ m_bOcclusionCulling:!GenericPropertyWithEventBool
+  m_value:True
+ m_iGrassRendering:!GenericPropertyWithEventInt
+  m_value:2
+ m_bWaterReflection:!GenericPropertyWithEventBool
+  m_value:True
+ m_iResolution:!GenericPropertyWithEventInt
+  m_value:13
+ m_iAnisotropicLevel:!GenericPropertyWithEventInt
+  m_value:3
+ m_bAntiAliasing:!GenericPropertyWithEventBool
+  m_value:True
+ m_bFullscreen:!GenericPropertyWithEventBool
+  m_value:True
+ m_iVSync:!GenericPropertyWithEventInt
+  m_value:1
+ m_iQualityPresets:!GenericPropertyWithEventInt
+  m_value:3
+ m_iAmbientOcclusion:!GenericPropertyWithEventInt
+  m_value:3
+ m_bPatchedGammaCorrection:True
+ m_bSetGammaCorrectionStartupDoneOnce:True
+ m_fGammaCorrection:!GenericPropertyWithEventFloat
+  m_value:f0.5
+#
+&
