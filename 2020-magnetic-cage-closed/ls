@@ -1,0 +1,3 @@
+#/bin/sh
+
+ls $HOME/.steam/steam/userdata/123104740/344410/remote
