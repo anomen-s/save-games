@@ -1,0 +1,763 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \dmflags\0\fraglimit\30\timelimit\25\sv_hostname\malina\sv_maxclients\8\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3dm17\sv_privateClients\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  7:17 ClientConnect: 0
+  7:17 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  7:20 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  7:20 ClientBegin: 0
+  8:20 Item: 0 ammo_rockets
+  8:33 Item: 0 item_armor_shard
+  8:33 Item: 0 item_armor_shard
+  8:34 Item: 0 item_armor_shard
+  8:34 Item: 0 item_armor_combat
+  8:37 Item: 0 item_armor_shard
+  8:37 Item: 0 item_armor_shard
+  8:37 Item: 0 item_armor_shard
+  8:49 Item: 0 weapon_shotgun
+  8:50 Item: 0 ammo_shells
+  9:01 Item: 0 item_armor_shard
+  9:01 Item: 0 item_armor_shard
+  9:01 Item: 0 item_armor_shard
+  9:03 Item: 0 ammo_shells
+  9:08 Item: 0 item_armor_body
+  9:13 Item: 0 item_health_mega
+  9:19 Item: 0 weapon_rocketlauncher
+  9:19 Item: 0 ammo_rockets
+  9:24 Item: 0 weapon_rocketlauncher
+  9:24 Item: 0 ammo_rockets
+  9:38 ClientDisconnect: 0
+ 25:00 Exit: Timelimit hit.
+ 27:11 ClientConnect: 0
+ 27:11 ClientUserinfoChanged: 0 n\^4anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 27:12 ClientUserinfoChanged: 0 n\^4anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 27:12 ClientBegin: 0
+ 32:19 ClientConnect: 1
+ 32:19 ClientUserinfoChanged: 1 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 32:21 ClientUserinfoChanged: 1 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 32:21 ClientBegin: 1
+ 32:30 say: Collector: cus
+ 32:33 ShutdownGame:
+ 32:33 ------------------------------------------------------------
+ 32:33 ------------------------------------------------------------
+ 32:33 InitGame: \dmflags\0\fraglimit\30\timelimit\25\sv_hostname\malina\sv_maxclients\8\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3dm17\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+ 32:33 ClientConnect: 0
+ 32:33 ClientUserinfoChanged: 0 n\^4anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 32:33 ClientBegin: 0
+ 32:33 ClientConnect: 1
+ 32:33 ClientUserinfoChanged: 1 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 32:33 ClientBegin: 1
+ 32:46 say: Collector: juba said, he will join
+ 33:07 say: ^4anomen: tak kde je?
+ 33:16 say: Collector: napsal in :)
+ 33:16 ClientConnect: 2
+ 33:16 ClientUserinfoChanged: 2 n\None\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 33:18 ClientUserinfoChanged: 2 n\None\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 33:18 ClientBegin: 2
+ 33:18 Item: 0 ammo_rockets
+ 33:18 Item: 0 weapon_rocketlauncher
+ 33:21 Item: 2 weapon_rocketlauncher
+ 33:21 Item: 2 ammo_rockets
+ 33:22 Kill: 2 1 6: None killed Collector by MOD_ROCKET
+ 33:27 say: Collector: bloody hell
+ 33:30 Item: 0 weapon_rocketlauncher
+ 33:31 say: None: :D
+ 33:32 Item: 0 item_armor_body
+ 33:34 Item: 2 ammo_shells
+ 33:35 Item: 2 weapon_shotgun
+ 33:35 Item: 1 ammo_slugs
+ 33:37 Item: 2 item_armor_shard
+ 33:37 Item: 2 item_armor_shard
+ 33:37 Item: 2 item_armor_shard
+ 33:37 Item: 2 item_armor_combat
+ 33:38 Item: 1 weapon_railgun
+ 33:43 Item: 1 weapon_railgun
+ 33:44 Item: 2 weapon_rocketlauncher
+ 33:48 Item: 1 weapon_railgun
+ 33:49 Item: 0 ammo_slugs
+ 33:50 Item: 2 weapon_shotgun
+ 33:50 Item: 2 ammo_shells
+ 33:52 Item: 0 item_health
+ 33:59 Item: 1 item_armor_body
+ 34:00 Item: 2 weapon_shotgun
+ 34:04 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 34:05 Item: 0 weapon_shotgun
+ 34:06 Item: 1 ammo_rockets
+ 34:07 Item: 1 weapon_rocketlauncher
+ 34:08 Item: 2 weapon_shotgun
+ 34:08 Item: 0 item_health_large
+ 34:12 Item: 0 weapon_rocketlauncher
+ 34:15 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 34:17 Item: 0 item_armor_shard
+ 34:17 Item: 0 item_armor_shard
+ 34:17 Item: 0 item_armor_shard
+ 34:17 Item: 0 item_armor_combat
+ 34:19 Item: 2 ammo_shells
+ 34:19 Item: 2 weapon_shotgun
+ 34:22 Item: 0 item_armor_shard
+ 34:22 Item: 0 item_armor_shard
+ 34:22 Item: 0 item_armor_shard
+ 34:26 Item: 0 ammo_rockets
+ 34:26 Item: 0 weapon_rocketlauncher
+ 34:29 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 34:34 Item: 1 weapon_rocketlauncher
+ 34:35 Item: 2 weapon_rocketlauncher
+ 34:36 Item: 0 item_health_mega
+ 34:36 Item: 1 item_armor_body
+ 34:41 Item: 2 weapon_rocketlauncher
+ 34:41 Item: 1 weapon_railgun
+ 34:44 Item: 0 item_quad
+ 34:48 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+ 34:49 Item: 0 weapon_rocketlauncher
+ 34:52 Item: 0 item_armor_shard
+ 34:52 Item: 0 item_armor_shard
+ 34:52 Item: 0 item_armor_shard
+ 34:53 Item: 0 item_armor_combat
+ 34:55 Item: 2 weapon_shotgun
+ 34:58 Kill: 0 2 6: ^4anomen killed None by MOD_ROCKET
+ 35:00 Item: 1 weapon_rocketlauncher
+ 35:04 Item: 0 item_armor_shard
+ 35:05 Item: 2 weapon_shotgun
+ 35:05 Item: 0 item_armor_shard
+ 35:05 Item: 0 item_armor_shard
+ 35:06 Item: 2 ammo_shells
+ 35:07 Item: 1 ammo_rockets
+ 35:09 Item: 2 weapon_rocketlauncher
+ 35:11 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 35:14 Item: 1 weapon_rocketlauncher
+ 35:16 Item: 1 item_armor_body
+ 35:20 Item: 1 weapon_railgun
+ 35:21 Item: 0 weapon_shotgun
+ 35:23 Kill: 2 0 1: None killed ^4anomen by MOD_SHOTGUN
+ 35:25 Item: 1 weapon_shotgun
+ 35:26 Item: 2 weapon_shotgun
+ 35:28 Item: 2 item_armor_shard
+ 35:28 Item: 2 item_armor_shard
+ 35:28 Item: 2 item_armor_shard
+ 35:28 Item: 2 item_armor_combat
+ 35:30 Item: 0 ammo_slugs
+ 35:32 Item: 0 weapon_railgun
+ 35:38 Item: 0 weapon_railgun
+ 35:45 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 35:47 Item: 1 weapon_shotgun
+ 35:47 Item: 1 item_armor_shard
+ 35:47 Item: 1 item_armor_shard
+ 35:47 Item: 1 item_armor_shard
+ 35:52 Item: 2 weapon_rocketlauncher
+ 35:53 Item: 1 item_health_large
+ 35:54 Kill: 1022 0 22: <world> killed ^4anomen by MOD_TRIGGER_HURT
+ 35:55 Item: 2 weapon_shotgun
+ 35:56 Kill: 1 2 6: Collector killed None by MOD_ROCKET
+ 35:58 Item: 0 weapon_rocketlauncher
+ 35:58 Item: 0 ammo_rockets
+ 36:00 Item: 1 item_armor_shard
+ 36:00 Item: 1 item_armor_shard
+ 36:00 Item: 1 item_armor_shard
+ 36:00 Item: 1 item_armor_combat
+ 36:00 Item: 0 item_armor_body
+ 36:02 Item: 1 item_health_large
+ 36:03 Item: 0 weapon_rocketlauncher
+ 36:05 Item: 2 weapon_shotgun
+ 36:09 Item: 1 weapon_rocketlauncher
+ 36:13 Item: 1 ammo_rockets
+ 36:14 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 36:16 Item: 0 item_armor_shard
+ 36:17 Item: 0 item_armor_shard
+ 36:17 Item: 0 item_armor_shard
+ 36:18 Item: 2 weapon_rocketlauncher
+ 36:19 Item: 0 weapon_shotgun
+ 36:26 Kill: 1022 0 22: <world> killed ^4anomen by MOD_TRIGGER_HURT
+ 36:26 Item: 2 ammo_shells
+ 36:26 Item: 2 weapon_shotgun
+ 36:27 Item: 1 weapon_railgun
+ 36:29 Item: 2 item_armor_shard
+ 36:29 Item: 2 item_armor_shard
+ 36:29 Item: 2 item_armor_shard
+ 36:29 Item: 0 weapon_rocketlauncher
+ 36:31 Item: 2 weapon_shotgun
+ 36:32 Item: 2 ammo_shells
+ 36:33 Item: 1 item_armor_body
+ 36:33 Item: 0 item_armor_combat
+ 36:34 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+ 36:34 Item: 0 weapon_shotgun
+ 36:37 Item: 2 weapon_rocketlauncher
+ 36:40 Item: 2 weapon_shotgun
+ 36:42 Kill: 2 0 1: None killed ^4anomen by MOD_SHOTGUN
+ 36:43 Item: 2 weapon_rocketlauncher
+ 36:46 Item: 1 item_health_mega
+ 36:47 Item: 0 weapon_shotgun
+ 36:54 Item: 0 item_health_large
+ 36:59 Kill: 2 2 7: None killed None by MOD_ROCKET_SPLASH
+ 37:00 Item: 1 item_armor_shard
+ 37:00 Item: 1 item_armor_shard
+ 37:00 Item: 1 item_armor_shard
+ 37:01 Item: 0 weapon_rocketlauncher
+ 37:02 Item: 2 ammo_rockets
+ 37:03 Kill: 1 0 7: Collector killed ^4anomen by MOD_ROCKET_SPLASH
+ 37:03 Item: 2 weapon_rocketlauncher
+ 37:04 Item: 1 weapon_shotgun
+ 37:05 Item: 1 item_armor_shard
+ 37:05 Item: 1 item_armor_shard
+ 37:05 Item: 1 item_armor_shard
+ 37:06 Item: 1 item_armor_combat
+ 37:07 Item: 0 weapon_rocketlauncher
+ 37:07 Item: 0 ammo_rockets
+ 37:09 Item: 0 item_armor_body
+ 37:18 Item: 2 weapon_shotgun
+ 37:21 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+ 37:23 Item: 0 item_health_large
+ 37:23 Item: 2 weapon_rocketlauncher
+ 37:26 Item: 0 item_armor_shard
+ 37:26 Item: 0 item_armor_shard
+ 37:26 Item: 0 item_armor_shard
+ 37:30 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+ 37:31 Item: 0 ammo_shells
+ 37:32 Item: 0 weapon_rocketlauncher
+ 37:32 Item: 2 weapon_rocketlauncher
+ 37:35 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 37:40 Item: 1 weapon_shotgun
+ 37:42 Item: 1 item_armor_shard
+ 37:42 Item: 1 item_armor_shard
+ 37:42 Item: 1 item_armor_shard
+ 37:42 Item: 1 item_armor_combat
+ 37:44 Item: 0 weapon_shotgun
+ 37:45 Kill: 1 0 1: Collector killed ^4anomen by MOD_SHOTGUN
+ 37:46 Item: 2 item_health_large
+ 37:47 Item: 1 weapon_rocketlauncher
+ 37:49 Item: 0 weapon_rocketlauncher
+ 37:49 Item: 0 ammo_rockets
+ 37:51 Item: 0 item_armor_body
+ 37:52 Item: 2 weapon_shotgun
+ 37:53 Kill: 1 2 7: Collector killed None by MOD_ROCKET_SPLASH
+ 37:58 Item: 2 weapon_rocketlauncher
+ 37:58 Item: 2 ammo_rockets
+ 37:59 Item: 1 weapon_rocketlauncher
+ 38:02 Item: 1 ammo_slugs
+ 38:02 Kill: 0 2 6: ^4anomen killed None by MOD_ROCKET
+ 38:03 Item: 0 weapon_rocketlauncher
+ 38:04 Item: 0 item_health_large
+ 38:04 Item: 1 weapon_railgun
+ 38:06 Item: 2 weapon_shotgun
+ 38:06 Item: 2 weapon_shotgun
+ 38:08 Item: 0 item_armor_shard
+ 38:08 Item: 0 item_armor_shard
+ 38:08 Item: 0 item_armor_shard
+ 38:09 Item: 2 item_armor_shard
+ 38:09 Item: 2 item_armor_shard
+ 38:09 Item: 2 item_armor_shard
+ 38:14 Item: 2 weapon_shotgun
+ 38:14 Item: 0 item_armor_combat
+ 38:15 Item: 2 ammo_shells
+ 38:17 Kill: 1 2 6: Collector killed None by MOD_ROCKET
+ 38:19 Item: 0 weapon_shotgun
+ 38:20 Item: 1 item_armor_body
+ 38:21 Item: 2 weapon_rocketlauncher
+ 38:22 Item: 0 weapon_rocketlauncher
+ 38:25 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 38:26 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+ 38:27 Item: 1 item_health_large
+ 38:29 Item: 0 weapon_rocketlauncher
+ 38:29 Item: 2 weapon_rocketlauncher
+ 38:30 Item: 2 ammo_rockets
+ 38:36 Item: 0 weapon_shotgun
+ 38:37 Item: 0 ammo_shells
+ 38:38 Kill: 2 0 7: None killed ^4anomen by MOD_ROCKET_SPLASH
+ 38:39 Item: 1 item_armor_shard
+ 38:40 Item: 1 item_armor_shard
+ 38:40 Item: 1 item_armor_shard
+ 38:41 Item: 2 weapon_rocketlauncher
+ 38:42 Item: 0 weapon_rocketlauncher
+ 38:42 Item: 0 ammo_rockets
+ 38:44 Item: 1 weapon_rocketlauncher
+ 38:46 Item: 1 item_armor_body
+ 38:49 Item: 1 weapon_rocketlauncher
+ 38:50 Item: 2 item_armor_shard
+ 38:50 Item: 2 item_armor_shard
+ 38:51 Item: 2 item_armor_shard
+ 38:51 Item: 2 item_armor_combat
+ 38:51 Kill: 1022 0 22: <world> killed ^4anomen by MOD_TRIGGER_HURT
+ 38:55 Item: 0 weapon_rocketlauncher
+ 38:58 Item: 2 item_health_large
+ 39:02 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 39:04 Item: 0 item_health_large
+ 39:05 Item: 1 weapon_rocketlauncher
+ 39:08 Item: 0 item_health_mega
+ 39:11 Item: 2 weapon_shotgun
+ 39:13 Item: 0 weapon_rocketlauncher
+ 39:13 Item: 1 weapon_railgun
+ 39:15 Item: 2 weapon_rocketlauncher
+ 39:15 Item: 2 ammo_rockets
+ 39:21 Kill: 0 1 6: ^4anomen killed Collector by MOD_ROCKET
+ 39:21 Item: 2 item_armor_shard
+ 39:21 Item: 2 item_armor_shard
+ 39:21 Item: 2 item_armor_shard
+ 39:22 Item: 2 item_armor_combat
+ 39:26 Item: 1 weapon_shotgun
+ 39:27 Item: 2 item_armor_shard
+ 39:27 Item: 2 item_armor_shard
+ 39:27 Item: 2 item_armor_shard
+ 39:27 Kill: 0 1 7: ^4anomen killed Collector by MOD_ROCKET_SPLASH
+ 39:29 Item: 0 ammo_shells
+ 39:30 Item: 0 weapon_shotgun
+ 39:30 Kill: 2 0 7: None killed ^4anomen by MOD_ROCKET_SPLASH
+ 39:31 Item: 2 weapon_rocketlauncher
+ 39:31 Item: 1 weapon_rocketlauncher
+ 39:31 Item: 1 ammo_rockets
+ 39:33 Item: 1 item_armor_body
+ 39:37 Item: 0 weapon_rocketlauncher
+ 39:37 Item: 1 weapon_railgun
+ 39:44 Item: 1 weapon_rocketlauncher
+ 39:46 Kill: 1022 0 19: <world> killed ^4anomen by MOD_FALLING
+ 39:51 Item: 2 item_armor_shard
+ 39:51 Item: 2 item_armor_shard
+ 39:51 Item: 2 item_armor_shard
+ 39:54 Item: 2 item_health_large
+ 39:56 Item: 0 item_quad
+ 39:57 Item: 1 ammo_shells
+ 39:57 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 40:00 Item: 1 weapon_shotgun
+ 40:00 Item: 2 weapon_rocketlauncher
+ 40:01 Item: 2 weapon_rocketlauncher
+ 40:01 Kill: 0 1 3: ^4anomen killed Collector by MOD_MACHINEGUN
+ 40:01 Item: 2 ammo_rockets
+ 40:04 Item: 0 weapon_shotgun
+ 40:06 Item: 0 item_armor_shard
+ 40:06 Item: 0 item_armor_shard
+ 40:06 Item: 0 item_armor_shard
+ 40:06 Item: 0 item_armor_combat
+ 40:07 Item: 1 weapon_shotgun
+ 40:10 Kill: 0 1 1: ^4anomen killed Collector by MOD_SHOTGUN
+ 40:11 Kill: 2 0 7: None killed ^4anomen by MOD_ROCKET_SPLASH
+ 40:12 Item: 2 item_quad
+ 40:12 Item: 2 weapon_shotgun
+ 40:14 Item: 1 weapon_rocketlauncher
+ 40:14 Item: 1 ammo_rockets
+ 40:20 Item: 2 weapon_rocketlauncher
+ 40:21 Kill: 2 0 7: None killed ^4anomen by MOD_ROCKET_SPLASH
+ 40:25 Item: 0 weapon_rocketlauncher
+ 40:27 Item: 0 item_armor_body
+ 40:30 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+ 40:31 Item: 1 weapon_shotgun
+ 40:33 Item: 2 weapon_rocketlauncher
+ 40:33 Item: 1 item_armor_shard
+ 40:33 Item: 1 item_armor_shard
+ 40:33 Item: 2 weapon_rocketlauncher
+ 40:33 Item: 1 item_armor_shard
+ 40:37 Item: 2 ammo_bullets
+ 40:38 Item: 1 item_health_large
+ 40:38 Kill: 1022 0 22: <world> killed ^4anomen by MOD_TRIGGER_HURT
+ 40:42 Item: 2 item_armor_shard
+ 40:42 Item: 2 item_armor_shard
+ 40:42 Item: 2 item_armor_shard
+ 40:42 Item: 2 item_armor_combat
+ 40:43 Item: 1 weapon_rocketlauncher
+ 40:48 Item: 1 item_health_large
+ 40:49 Item: 0 item_health_large
+ 40:50 Kill: 1 2 7: Collector killed None by MOD_ROCKET_SPLASH
+ 40:51 Item: 1 weapon_shotgun
+ 40:52 Item: 1 weapon_rocketlauncher
+ 40:53 Item: 2 weapon_rocketlauncher
+ 40:54 Item: 0 weapon_rocketlauncher
+ 40:54 Item: 0 ammo_rockets
+ 40:57 Item: 0 item_armor_body
+ 40:57 Item: 1 ammo_rockets
+ 40:59 Kill: 2 1 6: None killed Collector by MOD_ROCKET
+ 40:59 Item: 0 weapon_rocketlauncher
+ 41:01 Kill: 2 0 6: None killed ^4anomen by MOD_ROCKET
+ 41:03 Item: 2 weapon_rocketlauncher
+ 41:07 Item: 1 weapon_railgun
+ 41:11 Item: 0 weapon_rocketlauncher
+ 41:14 Item: 2 item_armor_shard
+ 41:14 Item: 2 item_armor_shard
+ 41:14 Item: 2 item_armor_shard
+ 41:14 Item: 2 item_armor_combat
+ 41:15 Item: 1 item_armor_shard
+ 41:15 Item: 1 item_armor_shard
+ 41:15 Item: 1 item_armor_shard
+ 41:16 Kill: 1022 0 22: <world> killed ^4anomen by MOD_TRIGGER_HURT
+ 41:22 Item: 2 weapon_rocketlauncher
+ 41:23 Item: 0 weapon_rocketlauncher
+ 41:29 Item: 2 ammo_bullets
+ 41:30 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+ 41:31 Item: 2 weapon_rocketlauncher
+ 41:34 Item: 1 weapon_rocketlauncher
+ 41:34 Item: 1 weapon_rocketlauncher
+ 41:36 Item: 1 item_armor_body
+ 41:41 Item: 2 item_health_large
+ 41:42 Item: 0 ammo_rockets
+ 41:42 Item: 0 weapon_rocketlauncher
+ 41:44 Item: 1 item_health_large
+ 41:45 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+ 41:46 Item: 0 weapon_rocketlauncher
+ 41:48 Item: 1 item_armor_shard
+ 41:48 Item: 1 item_armor_shard
+ 41:48 Item: 0 item_armor_shard
+ 41:48 Item: 1 item_armor_shard
+ 41:48 Item: 0 item_armor_shard
+ 41:48 Item: 1 item_armor_combat
+ 41:48 Item: 0 item_armor_shard
+ 41:49 Item: 2 weapon_rocketlauncher
+ 41:52 Kill: 0 0 7: ^4anomen killed ^4anomen by MOD_ROCKET_SPLASH
+ 41:54 Kill: 2 2 7: None killed None by MOD_ROCKET_SPLASH
+ 41:55 Item: 0 weapon_rocketlauncher
+ 41:57 Item: 2 ammo_rockets
+ 41:57 Item: 2 weapon_rocketlauncher
+ 42:00 Item: 0 item_health_large
+ 42:01 Item: 2 weapon_rocketlauncher
+ 42:03 Item: 2 weapon_rocketlauncher
+ 42:06 Item: 1 item_armor_body
+ 42:08 Item: 1 item_health_mega
+ 42:12 Item: 2 item_health_large
+ 42:14 Kill: 1 0 6: Collector killed ^4anomen by MOD_ROCKET
+ 42:18 Item: 0 weapon_rocketlauncher
+ 42:21 Item: 2 item_armor_shard
+ 42:21 Item: 2 item_armor_shard
+ 42:21 Item: 2 item_armor_shard
+ 42:21 Item: 2 item_armor_combat
+ 42:22 Item: 1 ammo_slugs
+ 42:24 Item: 1 weapon_railgun
+ 42:24 Item: 2 item_health_large
+ 42:30 Item: 1 ammo_rockets
+ 42:30 Item: 1 weapon_rocketlauncher
+ 42:31 Item: 2 item_armor_shard
+ 42:31 Item: 2 item_armor_shard
+ 42:31 Item: 2 item_armor_shard
+ 42:32 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 42:37 Item: 2 weapon_shotgun
+ 42:37 Item: 2 ammo_shells
+ 42:38 Item: 0 weapon_rocketlauncher
+ 42:39 Item: 1 item_armor_body
+ 42:42 Item: 0 weapon_rocketlauncher
+ 42:45 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+ 42:46 Item: 0 weapon_shotgun
+ 42:46 Item: 0 weapon_shotgun
+ 42:52 Item: 0 item_armor_shard
+ 42:52 Item: 0 item_armor_shard
+ 42:52 Item: 0 item_armor_shard
+ 42:52 Item: 2 weapon_shotgun
+ 42:52 Item: 0 item_armor_combat
+ 42:55 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 42:55 Kill: 1 0 6: Collector killed ^4anomen by MOD_ROCKET
+ 42:56 Item: 1 weapon_rocketlauncher
+ 42:57 Item: 1 item_armor_shard
+ 42:57 Item: 1 item_armor_shard
+ 42:57 Item: 1 item_armor_shard
+ 42:57 Item: 2 weapon_rocketlauncher
+ 43:02 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 43:03 Item: 1 item_health_large
+ 43:05 Item: 1 ammo_rockets
+ 43:06 Item: 0 item_quad
+ 43:07 Item: 0 item_armor_body
+ 43:08 Item: 2 weapon_rocketlauncher
+ 43:11 Item: 1 weapon_railgun
+ 43:12 Item: 1 item_health
+ 43:13 Item: 0 weapon_rocketlauncher
+ 43:14 Item: 1 item_health
+ 43:14 Item: 2 ammo_bullets
+ 43:14 Kill: 0 2 3: ^4anomen killed None by MOD_MACHINEGUN
+ 43:16 Item: 0 weapon_rocketlauncher
+ 43:17 Item: 1 weapon_railgun
+ 43:18 Item: 2 weapon_rocketlauncher
+ 43:18 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+ 43:18 Item: 2 ammo_rockets
+ 43:23 Item: 2 item_armor_shard
+ 43:24 Item: 2 item_armor_shard
+ 43:24 Item: 2 item_armor_shard
+ 43:24 Item: 2 item_armor_combat
+ 43:25 Item: 0 weapon_rocketlauncher
+ 43:26 Item: 2 item_quad
+ 43:27 Item: 2 weapon_rocketlauncher
+ 43:30 Kill: 2 1 7: None killed Collector by MOD_ROCKET_SPLASH
+ 43:30 Kill: 2 2 7: None killed None by MOD_ROCKET_SPLASH
+ 43:31 Item: 0 weapon_rocketlauncher
+ 43:31 Item: 0 item_quad
+ 43:31 Item: 0 weapon_rocketlauncher
+ 43:33 Item: 2 weapon_rocketlauncher
+ 43:36 Item: 0 item_armor_shard
+ 43:36 Item: 1 item_armor_body
+ 43:36 Item: 0 item_armor_shard
+ 43:36 Item: 0 item_armor_shard
+ 43:40 Item: 1 weapon_railgun
+ 43:42 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+ 43:43 Item: 2 item_quad
+ 43:45 Item: 0 weapon_rocketlauncher
+ 43:48 Item: 0 ammo_rockets
+ 43:51 Item: 2 weapon_shotgun
+ 43:51 Item: 2 ammo_shells
+ 43:52 Item: 0 weapon_rocketlauncher
+ 43:52 Item: 1 weapon_rocketlauncher
+ 43:53 Item: 2 item_health_large
+ 43:59 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+ 43:59 Item: 1 item_armor_shard
+ 43:59 Item: 1 item_armor_shard
+ 43:59 Item: 1 item_armor_shard
+ 43:59 Item: 1 item_armor_combat
+ 44:00 Kill: 1 0 7: Collector killed ^4anomen by MOD_ROCKET_SPLASH
+ 44:01 Item: 1 weapon_rocketlauncher
+ 44:04 Item: 1 item_armor_shard
+ 44:04 Item: 1 item_armor_shard
+ 44:04 Item: 1 item_armor_shard
+ 44:04 Item: 0 weapon_rocketlauncher
+ 44:04 Item: 2 weapon_rocketlauncher
+ 44:07 Item: 1 item_health_large
+ 44:08 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+ 44:10 Item: 1 weapon_rocketlauncher
+ 44:16 Item: 0 weapon_shotgun
+ 44:17 Kill: 1 0 7: Collector killed ^4anomen by MOD_ROCKET_SPLASH
+ 44:20 Item: 0 ammo_rockets
+ 44:20 Item: 0 weapon_rocketlauncher
+ 44:22 Item: 2 ammo_bullets
+ 44:23 Item: 2 weapon_shotgun
+ 44:27 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 44:28 Kill: 2 0 1: None killed ^4anomen by MOD_SHOTGUN
+ 44:29 Kill: 1022 2 19: <world> killed None by MOD_FALLING
+ 44:31 Item: 1 weapon_rocketlauncher
+ 44:31 Item: 1 ammo_rockets
+ 44:33 Item: 1 item_armor_body
+ 44:37 Item: 1 weapon_railgun
+ 44:39 Item: 2 weapon_rocketlauncher
+ 44:45 Item: 0 item_health_mega
+ 44:47 Item: 1 item_quad
+ 44:48 Item: 2 item_armor_shard
+ 44:48 Item: 2 item_armor_shard
+ 44:48 Item: 2 item_armor_shard
+ 44:49 Item: 2 item_armor_combat
+ 44:49 Item: 0 weapon_rocketlauncher
+ 44:52 Item: 2 weapon_rocketlauncher
+ 44:53 Item: 2 weapon_rocketlauncher
+ 44:54 Kill: 1 0 7: Collector killed ^4anomen by MOD_ROCKET_SPLASH
+ 44:57 Item: 1 weapon_shotgun
+ 44:57 Item: 2 weapon_shotgun
+ 44:57 Item: 1 ammo_shells
+ 44:58 Item: 2 item_armor_shard
+ 44:58 Item: 2 item_armor_shard
+ 44:58 Item: 2 item_armor_shard
+ 45:00 Kill: 1 2 1: Collector killed None by MOD_SHOTGUN
+ 45:00 Item: 0 weapon_rocketlauncher
+ 45:05 Kill: 1 0 1: Collector killed ^4anomen by MOD_SHOTGUN
+ 45:07 Item: 2 weapon_rocketlauncher
+ 45:08 Item: 1 item_health_large
+ 45:09 Item: 0 weapon_rocketlauncher
+ 45:09 Item: 0 ammo_rockets
+ 45:11 Kill: 1 0 1: Collector killed ^4anomen by MOD_SHOTGUN
+ 45:13 Item: 1 item_armor_body
+ 45:15 Item: 0 weapon_rocketlauncher
+ 45:16 Item: 0 ammo_rockets
+ 45:16 Item: 2 weapon_shotgun
+ 45:17 Item: 1 weapon_railgun
+ 45:18 Item: 1 item_health
+ 45:19 Item: 2 item_armor_shard
+ 45:19 Item: 2 item_armor_shard
+ 45:19 Item: 2 item_armor_shard
+ 45:20 Item: 2 item_armor_combat
+ 45:22 Item: 0 weapon_rocketlauncher
+ 45:22 Item: 2 item_health_large
+ 45:28 Item: 2 item_armor_shard
+ 45:28 Item: 2 item_armor_shard
+ 45:28 Item: 2 item_armor_shard
+ 45:31 Kill: 0 1 7: ^4anomen killed Collector by MOD_ROCKET_SPLASH
+ 45:31 Item: 2 weapon_rocketlauncher
+ 45:32 Item: 0 weapon_railgun
+ 45:41 Item: 1 weapon_railgun
+ 45:42 Kill: 2 0 1: None killed ^4anomen by MOD_SHOTGUN
+ 45:43 Item: 2 weapon_railgun
+ 45:46 Item: 0 weapon_rocketlauncher
+ 45:49 Item: 0 item_armor_body
+ 45:49 Kill: 0 1 6: ^4anomen killed Collector by MOD_ROCKET
+ 45:52 Kill: 1022 0 22: <world> killed ^4anomen by MOD_TRIGGER_HURT
+ 45:53 Item: 2 item_armor_shard
+ 45:53 Item: 2 item_armor_shard
+ 45:53 Item: 2 item_armor_shard
+ 45:53 Item: 1 weapon_rocketlauncher
+ 45:53 Item: 2 item_armor_combat
+ 45:53 Item: 1 ammo_rockets
+ 45:56 Item: 1 weapon_railgun
+ 45:57 Item: 1 ammo_rockets
+ 45:58 Item: 1 weapon_rocketlauncher
+ 45:59 Item: 0 ammo_shells
+ 46:00 Item: 0 weapon_shotgun
+ 46:02 Item: 2 item_health_large
+ 46:15 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+ 46:19 Item: 2 item_armor_shard
+ 46:20 Item: 2 item_armor_shard
+ 46:20 Item: 2 item_armor_shard
+ 46:20 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 46:30 Item: 2 weapon_shotgun
+ 46:31 Kill: 1022 0 19: <world> killed ^4anomen by MOD_FALLING
+ 46:33 Item: 1 weapon_railgun
+ 46:33 Item: 1 item_armor_shard
+ 46:33 Item: 1 item_armor_shard
+ 46:34 Item: 1 item_armor_shard
+ 46:34 Item: 1 item_armor_combat
+ 46:36 Item: 0 weapon_rocketlauncher
+ 46:36 Item: 1 ammo_shells
+ 46:36 Item: 1 weapon_shotgun
+ 46:40 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+ 46:40 Kill: 0 1 7: ^4anomen killed Collector by MOD_ROCKET_SPLASH
+ 46:43 Kill: 1022 0 22: <world> killed ^4anomen by MOD_TRIGGER_HURT
+ 46:43 Item: 2 ammo_rockets
+ 46:43 Item: 2 weapon_rocketlauncher
+ 46:45 say: ^4anomen: no
+ 46:46 Item: 2 weapon_shotgun
+ 46:46 Item: 1 weapon_shotgun
+ 46:50 Item: 2 weapon_shotgun
+ 46:52 Item: 0 weapon_rocketlauncher
+ 46:52 Item: 0 ammo_rockets
+ 46:57 Item: 0 item_armor_body
+ 46:57 Kill: 1 2 1: Collector killed None by MOD_SHOTGUN
+ 46:59 Item: 1 item_health_large
+ 46:59 Item: 0 weapon_rocketlauncher
+ 47:00 Item: 2 weapon_rocketlauncher
+ 47:03 Item: 0 weapon_shotgun
+ 47:06 Item: 1 weapon_railgun
+ 47:08 Item: 1 item_health
+ 47:08 Item: 2 item_armor_shard
+ 47:08 Item: 2 item_armor_shard
+ 47:08 Item: 2 item_armor_shard
+ 47:08 Item: 2 item_armor_combat
+ 47:12 Item: 1 weapon_rocketlauncher
+ 47:14 Kill: 1022 0 22: <world> killed ^4anomen by MOD_TRIGGER_HURT
+ 47:15 Item: 2 item_armor_shard
+ 47:15 Item: 2 item_armor_shard
+ 47:15 Item: 2 item_armor_shard
+ 47:18 Item: 0 weapon_rocketlauncher
+ 47:18 Item: 1 weapon_rocketlauncher
+ 47:21 Item: 2 ammo_shells
+ 47:24 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+ 47:26 Item: 1 item_armor_body
+ 47:29 Item: 2 weapon_rocketlauncher
+ 47:29 Item: 2 ammo_rockets
+ 47:29 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+ 47:36 Item: 0 ammo_shells
+ 47:36 Item: 0 weapon_shotgun
+ 47:40 Kill: 1 0 7: Collector killed ^4anomen by MOD_ROCKET_SPLASH
+ 47:43 Item: 2 weapon_shotgun
+ 47:44 Item: 0 ammo_rockets
+ 47:44 Item: 0 weapon_rocketlauncher
+ 47:46 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 47:47 Item: 2 item_health_large
+ 47:47 Item: 0 item_health_mega
+ 47:50 Item: 1 weapon_rocketlauncher
+ 47:51 Item: 2 item_armor_shard
+ 47:51 Item: 2 item_armor_shard
+ 47:51 Item: 2 item_armor_shard
+ 47:51 Item: 2 item_armor_combat
+ 47:52 Item: 1 item_armor_body
+ 47:54 Item: 0 weapon_rocketlauncher
+ 47:54 Item: 2 item_health_large
+ 47:56 Item: 1 weapon_railgun
+ 47:59 Item: 2 item_armor_shard
+ 47:59 Item: 2 item_armor_shard
+ 47:59 Item: 2 item_armor_shard
+ 48:04 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+ 48:04 Item: 2 weapon_rocketlauncher
+ 48:07 Item: 0 weapon_rocketlauncher
+ 48:10 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 48:19 Item: 0 weapon_rocketlauncher
+ 48:21 Item: 2 weapon_shotgun
+ 48:27 Item: 0 item_quad
+ 48:29 Item: 1 weapon_rocketlauncher
+ 48:29 Item: 1 ammo_rockets
+ 48:32 Item: 1 item_health_mega
+ 48:33 Kill: 1022 2 19: <world> killed None by MOD_FALLING
+ 48:34 Item: 0 item_armor_shard
+ 48:34 Item: 0 item_armor_shard
+ 48:34 Item: 0 item_armor_shard
+ 48:34 Item: 0 item_armor_combat
+ 48:35 Item: 0 weapon_shotgun
+ 48:36 Item: 2 weapon_rocketlauncher
+ 48:36 Item: 1 item_armor_body
+ 48:37 Item: 0 item_health_large
+ 48:41 Item: 1 weapon_railgun
+ 48:41 Item: 0 item_armor_shard
+ 48:41 Item: 0 item_armor_shard
+ 48:42 Item: 0 item_armor_shard
+ 48:44 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+ 48:45 Item: 2 item_quad
+ 48:45 Item: 2 weapon_shotgun
+ 48:46 Item: 1 weapon_railgun
+ 48:52 Item: 1 weapon_railgun
+ 48:52 Item: 0 weapon_rocketlauncher
+ 48:56 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+ 48:57 Item: 1 weapon_railgun
+ 48:59 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 49:02 Item: 2 ammo_rockets
+ 49:03 Item: 2 weapon_rocketlauncher
+ 49:03 Item: 0 ammo_slugs
+ 49:06 Item: 0 weapon_railgun
+ 49:06 Kill: 1 2 7: Collector killed None by MOD_ROCKET_SPLASH
+ 49:06 Item: 1 weapon_rocketlauncher
+ 49:08 Item: 1 item_armor_shard
+ 49:08 Item: 1 item_armor_shard
+ 49:08 Item: 1 item_armor_shard
+ 49:08 Item: 1 item_armor_combat
+ 49:13 Item: 2 ammo_shells
+ 49:15 Item: 1 weapon_shotgun
+ 49:19 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 49:22 Item: 2 weapon_rocketlauncher
+ 49:23 Item: 1 item_health_large
+ 49:26 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+ 49:28 Item: 1 item_armor_shard
+ 49:28 Item: 1 item_armor_shard
+ 49:28 Item: 1 item_armor_shard
+ 49:34 Item: 1 item_armor_shard
+ 49:34 Item: 1 item_armor_shard
+ 49:34 Item: 1 item_armor_shard
+ 49:35 Item: 0 item_quad
+ 49:41 Item: 1 item_armor_combat
+ 49:42 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 49:46 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+ 49:46 Exit: Fraglimit hit.
+ 49:46 score: 30  ping: 48  client: 1 Collector
+ 49:46 score: 9  ping: 1  client: 0 ^4anomen
+ 49:46 score: 0  ping: 21  client: 2 None
+ 49:52 say: Collector: lol last frag
+ 49:53 say: None: crazy
+ 50:02 ShutdownGame:
+ 50:02 ------------------------------------------------------------
+ 50:02 ------------------------------------------------------------
+ 50:02 InitGame: \dmflags\0\fraglimit\30\timelimit\25\sv_hostname\malina\sv_maxclients\8\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3dm17\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+ 50:02 ClientConnect: 0
+ 50:02 ClientUserinfoChanged: 0 n\^4anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 50:02 ClientBegin: 0
+ 50:02 ClientConnect: 1
+ 50:02 ClientUserinfoChanged: 1 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 50:02 ClientBegin: 1
+ 50:02 ClientConnect: 2
+ 50:02 ClientUserinfoChanged: 2 n\None\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 50:02 ClientBegin: 2
+ 50:06 Item: 2 ammo_rockets
+ 50:07 Item: 2 weapon_rocketlauncher
+ 50:10 Item: 2 item_armor_shard
+ 50:10 Item: 2 item_armor_shard
+ 50:11 Item: 2 item_armor_shard
+ 50:11 Item: 2 item_armor_combat
+ 50:15 say: ^4anomen: another map?
+ 50:20 say: None: no
+ 50:23 say: None: :D
+ 50:24 Item: 0 ammo_shells
+ 50:25 Item: 0 weapon_shotgun
+ 50:25 Item: 2 weapon_rocketlauncher
+ 50:25 Item: 2 ammo_rockets
+ 50:30 Item: 0 item_health_mega
+ 50:30 Item: 2 item_armor_shard
+ 50:31 Item: 2 item_armor_shard
+ 50:31 Item: 2 item_armor_shard
+ 50:36 Item: 0 weapon_rocketlauncher
+ 50:37 say: Collector: what about next map
+ 50:41 say: Collector: 18?
+ 50:42 Item: 2 item_health_large
+ 50:48 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+ 50:48 Item: 0 weapon_rocketlauncher
+ 50:51 Item: 0 weapon_rocketlauncher
+ 50:51 Item: 0 ammo_rockets
+ 50:52 say: None: lol
+ 50:53 Item: 0 item_armor_body
+ 50:54 Kill: 0 1 7: ^4anomen killed Collector by MOD_ROCKET_SPLASH
+ 50:56 say: None: ok next map
+ 51:08 say: ^4anomen: which_
+ 51:09 say: Collector: or any map with rail gun
+ 51:18 say: Collector: dm18
+ 51:25 say: Collector: or 16
+ 51:27 say: None:  the one with single brige in middle
+ 51:32 say: Collector: ok
+ 51:34 ShutdownGame:
+ 51:34 ------------------------------------------------------------

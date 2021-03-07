@@ -1,0 +1,2303 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \dmflags\0\fraglimit\30\timelimit\25\sv_hostname\malina\sv_maxclients\8\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3tourney3\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\^4anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 1
+  0:00 ClientUserinfoChanged: 1 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 2
+  0:00 ClientUserinfoChanged: 2 n\None\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 ClientUserinfoChanged: 0 n\^4anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 Item: 0 ammo_slugs
+  0:02 Item: 0 ammo_cells
+  0:02 ClientBegin: 0
+  0:02 ClientUserinfoChanged: 2 n\None\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 Item: 2 ammo_slugs
+  0:02 Item: 2 ammo_cells
+  0:02 ClientBegin: 2
+  0:04 ClientUserinfoChanged: 1 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:04 Item: 1 ammo_slugs
+  0:04 Item: 1 ammo_cells
+  0:04 ClientBegin: 1
+  0:07 say: Collector: muhehehe
+  0:07 Item: 0 item_armor_body
+  0:11 Item: 1 weapon_rocketlauncher
+  0:13 Item: 1 item_armor_combat
+  0:14 Item: 1 weapon_plasmagun
+  0:14 Item: 2 ammo_cells
+  0:15 Item: 0 item_armor_shard
+  0:15 Item: 0 item_armor_shard
+  0:16 Item: 0 item_armor_shard
+  0:16 Item: 0 item_armor_shard
+  0:17 Item: 2 weapon_railgun
+  0:22 Item: 0 item_health
+  0:26 Item: 1 ammo_cells
+  0:26 Item: 2 weapon_rocketlauncher
+  0:28 Item: 2 weapon_plasmagun
+  0:28 Item: 1 weapon_railgun
+  0:28 Item: 0 item_health_large
+  0:30 Item: 1 item_health_large
+  0:32 Item: 2 weapon_rocketlauncher
+  0:33 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+  0:34 Item: 2 weapon_plasmagun
+  0:34 Item: 0 ammo_slugs
+  0:34 Item: 0 ammo_cells
+  0:35 Item: 1 item_armor_body
+  0:37 Item: 0 weapon_railgun
+  0:42 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+  0:44 Kill: 2 1 6: None killed Collector by MOD_ROCKET
+  0:44 Item: 0 ammo_slugs
+  0:44 Item: 0 ammo_cells
+  0:46 Item: 1 ammo_slugs
+  0:46 Item: 1 ammo_cells
+  0:47 Item: 1 weapon_plasmagun
+  0:47 Item: 1 item_armor_combat
+  0:48 Item: 0 item_enviro
+  0:50 Item: 0 weapon_rocketlauncher
+  0:50 Item: 1 weapon_railgun
+  0:52 Item: 2 item_health
+  0:53 Item: 0 weapon_plasmagun
+  0:54 Item: 2 weapon_railgun
+  0:56 Item: 1 ammo_rockets
+  0:57 Item: 0 ammo_cells
+  1:02 Item: 2 weapon_plasmagun
+  1:05 Item: 1 weapon_railgun
+  1:06 Item: 0 weapon_rocketlauncher
+  1:06 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+  1:08 Item: 0 item_health_large
+  1:08 Item: 2 ammo_slugs
+  1:08 Item: 2 ammo_cells
+  1:09 Item: 1 item_armor_body
+  1:12 Item: 2 item_health
+  1:13 Item: 1 item_armor_shard
+  1:18 Item: 1 weapon_rocketlauncher
+  1:22 Item: 0 weapon_plasmagun
+  1:23 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+  1:24 Item: 0 item_armor_combat
+  1:25 Item: 2 ammo_slugs
+  1:25 Item: 2 ammo_cells
+  1:26 Item: 2 weapon_plasmagun
+  1:28 Kill: 2 0 8: None killed ^4anomen by MOD_PLASMA
+  1:29 Item: 2 weapon_plasmagun
+  1:30 Item: 0 ammo_slugs
+  1:30 Item: 0 ammo_cells
+  1:30 Item: 0 weapon_plasmagun
+  1:33 Item: 1 item_health
+  1:35 Item: 0 weapon_plasmagun
+  1:35 Item: 1 item_armor_body
+  1:37 Kill: 0 2 8: ^4anomen killed None by MOD_PLASMA
+  1:38 Item: 0 weapon_plasmagun
+  1:39 Item: 1 ammo_cells
+  1:39 Item: 2 ammo_slugs
+  1:39 Item: 2 ammo_cells
+  1:46 Item: 2 ammo_rockets
+  1:47 Kill: 0 2 8: ^4anomen killed None by MOD_PLASMA
+  1:48 Item: 0 item_health
+  1:49 Item: 2 ammo_slugs
+  1:49 Item: 2 ammo_cells
+  1:54 Item: 1 item_health_large
+  1:55 Item: 2 weapon_railgun
+  1:56 Item: 1 weapon_rocketlauncher
+  1:57 Kill: 0 2 3: ^4anomen killed None by MOD_MACHINEGUN
+  1:57 Item: 0 weapon_railgun
+  1:58 Item: 1 item_armor_combat
+  1:59 Item: 2 ammo_slugs
+  1:59 Item: 2 ammo_cells
+  1:59 Item: 2 ammo_cells
+  2:01 Kill: 1 0 6: Collector killed ^4anomen by MOD_ROCKET
+  2:02 Item: 0 ammo_slugs
+  2:02 Item: 0 ammo_cells
+  2:03 Item: 2 item_armor_body
+  2:03 Item: 1 weapon_railgun
+  2:03 Item: 0 weapon_plasmagun
+  2:05 Item: 1 weapon_railgun
+  2:06 Item: 0 weapon_rocketlauncher
+  2:13 Item: 0 weapon_rocketlauncher
+  2:13 Item: 2 item_health_large
+  2:13 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+  2:14 Item: 0 weapon_plasmagun
+  2:15 Item: 2 ammo_slugs
+  2:15 Item: 2 ammo_cells
+  2:16 Item: 1 item_health
+  2:24 Item: 0 item_armor_combat
+  2:26 Item: 0 weapon_rocketlauncher
+  2:27 Item: 0 weapon_plasmagun
+  2:28 Item: 1 weapon_railgun
+  2:31 Item: 2 weapon_rocketlauncher
+  2:39 Item: 2 weapon_rocketlauncher
+  2:40 Item: 0 weapon_railgun
+  2:41 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+  2:43 Item: 0 ammo_slugs
+  2:43 Item: 0 ammo_cells
+  2:45 Item: 1 item_armor_body
+  2:45 Item: 0 ammo_cells
+  2:46 Item: 2 weapon_rocketlauncher
+  2:46 Item: 1 ammo_rockets
+  2:47 Item: 0 weapon_railgun
+  2:48 Item: 1 item_health
+  2:52 Item: 0 item_enviro
+  2:54 Item: 0 weapon_rocketlauncher
+  2:56 Item: 0 weapon_plasmagun
+  2:56 Item: 2 weapon_plasmagun
+  2:56 Item: 1 weapon_railgun
+  3:00 Item: 0 item_armor_combat
+  3:03 Item: 2 item_health
+  3:09 Item: 1 item_armor_shard
+  3:09 Item: 1 item_armor_shard
+  3:09 Item: 1 item_armor_shard
+  3:09 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+  3:09 Item: 1 item_armor_shard
+  3:11 Item: 2 ammo_slugs
+  3:11 Item: 2 ammo_cells
+  3:13 Item: 1 weapon_rocketlauncher
+  3:17 Item: 2 item_armor_body
+  3:17 Item: 0 ammo_cells
+  3:20 Item: 0 item_health_large
+  3:24 ClientConnect: 3
+  3:24 ClientUserinfoChanged: 3 n\Baba O'Riley\t\0\model\bones/bones\hmodel\bones/bones\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  3:25 ClientUserinfoChanged: 3 n\Baba O'Riley\t\0\model\bones/bones\hmodel\bones/bones\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  3:25 Item: 3 ammo_slugs
+  3:25 Item: 3 ammo_cells
+  3:25 ClientBegin: 3
+  3:26 Kill: 2 0 3: None killed ^4anomen by MOD_MACHINEGUN
+  3:28 Item: 3 weapon_plasmagun
+  3:30 Item: 2 weapon_rocketlauncher
+  3:31 Item: 2 item_health_large
+  3:32 Item: 0 ammo_slugs
+  3:32 Item: 0 ammo_cells
+  3:35 Item: 2 ammo_cells
+  3:35 Item: 0 weapon_rocketlauncher
+  3:37 Item: 1 item_health
+  3:37 Item: 3 item_armor_shard
+  3:37 Item: 3 item_armor_shard
+  3:37 Item: 3 item_armor_shard
+  3:37 Item: 0 weapon_plasmagun
+  3:37 Item: 3 item_armor_shard
+  3:38 Item: 0 item_armor_combat
+  3:42 Item: 1 weapon_plasmagun
+  3:46 Item: 3 weapon_rocketlauncher
+  3:46 Item: 1 weapon_plasmagun
+  3:47 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+  3:49 Item: 2 ammo_slugs
+  3:49 Item: 2 ammo_cells
+  3:49 Item: 0 weapon_railgun
+  3:51 Item: 0 item_health
+  3:52 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+  3:52 Item: 1 item_armor_body
+  3:52 Item: 1 weapon_rocketlauncher
+  3:53 Item: 0 ammo_slugs
+  3:53 Item: 0 ammo_cells
+  3:59 Kill: 3 2 7: Baba O'Riley killed None by MOD_ROCKET_SPLASH
+  3:59 Item: 0 weapon_plasmagun
+  4:00 Item: 2 ammo_slugs
+  4:00 Item: 2 ammo_cells
+  4:02 Item: 0 weapon_rocketlauncher
+  4:04 Item: 0 weapon_plasmagun
+  4:05 Item: 1 ammo_cells
+  4:07 Kill: 3 2 7: Baba O'Riley killed None by MOD_ROCKET_SPLASH
+  4:07 Kill: 3 3 7: Baba O'Riley killed Baba O'Riley by MOD_ROCKET_SPLASH
+  4:09 Item: 3 ammo_slugs
+  4:09 Item: 3 ammo_cells
+  4:09 Item: 2 ammo_slugs
+  4:09 Item: 2 ammo_cells
+  4:09 Item: 0 weapon_rocketlauncher
+  4:12 Item: 0 weapon_railgun
+  4:15 Item: 1 ammo_rockets
+  4:15 Item: 2 item_health
+  4:16 Kill: 1 2 7: Collector killed None by MOD_ROCKET_SPLASH
+  4:19 Item: 1 item_armor_body
+  4:19 Item: 2 ammo_slugs
+  4:19 Item: 2 ammo_cells
+  4:23 Item: 1 weapon_rocketlauncher
+  4:23 Item: 0 item_health_large
+  4:24 Item: 1 item_armor_combat
+  4:24 Item: 2 weapon_plasmagun
+  4:27 Kill: 1 2 7: Collector killed None by MOD_ROCKET_SPLASH
+  4:28 Kill: 1 0 6: Collector killed ^4anomen by MOD_ROCKET
+  4:28 Item: 2 ammo_slugs
+  4:28 Item: 2 ammo_cells
+  4:30 Item: 0 ammo_slugs
+  4:30 Item: 0 ammo_cells
+  4:33 Item: 3 item_health
+  4:34 Kill: 1 3 9: Collector killed Baba O'Riley by MOD_PLASMA_SPLASH
+  4:35 Item: 2 weapon_rocketlauncher
+  4:35 Item: 0 weapon_railgun
+  4:36 Item: 2 weapon_rocketlauncher
+  4:38 Item: 2 weapon_plasmagun
+  4:39 Item: 3 ammo_slugs
+  4:39 Item: 3 ammo_cells
+  4:40 Item: 1 item_armor_shard
+  4:41 Kill: 1 2 8: Collector killed None by MOD_PLASMA
+  4:42 Item: 1 item_armor_shard
+  4:42 Item: 1 item_armor_shard
+  4:42 Item: 1 item_armor_shard
+  4:43 Item: 3 weapon_railgun
+  4:44 Item: 2 ammo_slugs
+  4:44 Item: 2 ammo_cells
+  4:44 Item: 0 weapon_rocketlauncher
+  4:45 Item: 0 weapon_plasmagun
+  4:45 Item: 2 item_armor_body
+  4:46 Item: 0 weapon_plasmagun
+  4:47 Kill: 1 0 6: Collector killed ^4anomen by MOD_ROCKET
+  4:49 Item: 0 ammo_slugs
+  4:49 Item: 0 ammo_cells
+  4:50 Item: 3 weapon_rocketlauncher
+  4:50 Item: 0 ammo_cells
+  4:51 Item: 3 item_armor_combat
+  4:52 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+  4:54 Item: 2 ammo_slugs
+  4:54 Item: 2 ammo_cells
+  4:55 Item: 0 item_enviro
+  4:56 Item: 3 weapon_railgun
+  4:57 Item: 0 weapon_rocketlauncher
+  4:59 Item: 0 item_health_large
+  5:00 Item: 0 weapon_plasmagun
+  5:02 Item: 0 weapon_rocketlauncher
+  5:04 Item: 3 ammo_cells
+  5:04 Item: 0 weapon_plasmagun
+  5:05 Item: 1 weapon_railgun
+  5:11 Item: 2 item_armor_shard
+  5:11 Item: 2 item_armor_shard
+  5:12 Item: 2 item_armor_shard
+  5:12 Item: 2 item_armor_shard
+  5:14 Item: 2 weapon_plasmagun
+  5:16 Item: 1 weapon_rocketlauncher
+  5:19 Kill: 3 0 10: Baba O'Riley killed ^4anomen by MOD_RAILGUN
+  5:20 Item: 3 item_enviro
+  5:20 Item: 0 ammo_slugs
+  5:20 Item: 0 ammo_cells
+  5:21 Item: 0 weapon_plasmagun
+  5:21 Kill: 2 3 8: None killed Baba O'Riley by MOD_PLASMA
+  5:23 Item: 2 weapon_railgun
+  5:23 Item: 2 item_enviro
+  5:23 Item: 3 ammo_slugs
+  5:23 Item: 3 ammo_cells
+  5:24 Item: 0 weapon_rocketlauncher
+  5:26 Item: 2 item_armor_body
+  5:28 Item: 1 weapon_railgun
+  5:37 Kill: 1 2 6: Collector killed None by MOD_ROCKET
+  5:37 Item: 1 item_health
+  5:39 Item: 2 ammo_slugs
+  5:39 Item: 2 ammo_cells
+  5:39 Item: 3 item_health_large
+  5:39 Item: 1 item_health
+  5:41 Item: 1 ammo_rockets
+  5:41 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+  5:43 Item: 0 weapon_plasmagun
+  5:43 Item: 3 ammo_slugs
+  5:43 Item: 3 ammo_cells
+  5:43 Item: 0 item_armor_combat
+  5:44 Item: 2 weapon_plasmagun
+  5:45 Item: 0 weapon_railgun
+  5:46 Item: 1 weapon_rocketlauncher
+  5:46 Item: 3 item_armor_shard
+  5:46 Item: 3 item_armor_shard
+  5:46 Item: 3 item_armor_shard
+  5:46 Item: 3 item_armor_shard
+  5:51 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+  5:51 Item: 1 weapon_rocketlauncher
+  5:53 Item: 2 ammo_slugs
+  5:53 Item: 2 ammo_cells
+  5:55 Item: 3 ammo_cells
+  5:57 Item: 2 weapon_rocketlauncher
+  5:58 Item: 0 weapon_plasmagun
+  6:01 Item: 3 weapon_railgun
+  6:02 Kill: 2 2 7: None killed None by MOD_ROCKET_SPLASH
+  6:03 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+  6:03 Item: 0 weapon_plasmagun
+  6:04 Item: 2 ammo_slugs
+  6:04 Item: 2 ammo_cells
+  6:05 Item: 3 ammo_slugs
+  6:05 Item: 3 ammo_cells
+  6:06 Item: 0 weapon_rocketlauncher
+  6:07 Item: 1 weapon_rocketlauncher
+  6:09 Item: 1 item_armor_body
+  6:11 Kill: 0 3 7: ^4anomen killed Baba O'Riley by MOD_ROCKET_SPLASH
+  6:13 Item: 3 ammo_slugs
+  6:13 Item: 3 ammo_cells
+  6:13 Item: 0 item_health
+  6:14 Item: 3 weapon_railgun
+  6:15 Item: 1 item_armor_shard
+  6:15 Item: 1 item_armor_shard
+  6:15 Item: 2 weapon_plasmagun
+  6:15 Item: 1 item_armor_shard
+  6:15 Kill: 3 1 10: Baba O'Riley killed Collector by MOD_RAILGUN
+  6:16 Item: 3 item_armor_shard
+  6:18 Item: 1 ammo_slugs
+  6:18 Item: 1 ammo_cells
+  6:19 Item: 2 weapon_rocketlauncher
+  6:19 Item: 3 weapon_railgun
+  6:19 Item: 0 item_health_large
+  6:20 Item: 1 weapon_railgun
+  6:23 Item: 0 weapon_plasmagun
+  6:24 Item: 3 weapon_plasmagun
+  6:24 Item: 0 item_armor_combat
+  6:26 Item: 3 weapon_rocketlauncher
+  6:28 Kill: 0 3 8: ^4anomen killed Baba O'Riley by MOD_PLASMA
+  6:28 Item: 0 weapon_rocketlauncher
+  6:30 Item: 3 ammo_slugs
+  6:30 Item: 3 ammo_cells
+  6:32 Item: 0 weapon_plasmagun
+  6:33 Item: 1 ammo_cells
+  6:33 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+  6:34 Item: 0 weapon_rocketlauncher
+  6:35 Item: 2 ammo_slugs
+  6:35 Item: 2 ammo_cells
+  6:36 Item: 3 weapon_rocketlauncher
+  6:39 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+  6:39 Item: 0 item_armor_body
+  6:39 Item: 2 item_health
+  6:40 Kill: 0 2 6: ^4anomen killed None by MOD_ROCKET
+  6:41 Item: 2 ammo_slugs
+  6:41 Item: 2 ammo_cells
+  6:41 Item: 3 ammo_slugs
+  6:41 Item: 3 ammo_cells
+  6:43 Item: 2 item_armor_shard
+  6:44 Item: 2 item_armor_shard
+  6:44 Item: 0 ammo_cells
+  6:45 Kill: 2 1 3: None killed Collector by MOD_MACHINEGUN
+  6:45 Item: 2 item_armor_shard
+  6:46 Item: 2 item_armor_shard
+  6:46 Item: 1 ammo_slugs
+  6:46 Item: 1 ammo_cells
+  6:47 Item: 3 ammo_rockets
+  6:48 Item: 2 weapon_railgun
+  6:49 Item: 2 weapon_plasmagun
+  6:50 Item: 0 weapon_rocketlauncher
+  6:51 Kill: 1 3 3: Collector killed Baba O'Riley by MOD_MACHINEGUN
+  6:53 Item: 2 item_armor_combat
+  6:53 Item: 3 ammo_slugs
+  6:53 Item: 3 ammo_cells
+  6:55 Item: 2 item_health_large
+  6:57 Item: 0 item_enviro
+  6:59 Item: 1 weapon_railgun
+  7:00 Item: 0 item_health
+  7:08 Kill: 2 3 10: None killed Baba O'Riley by MOD_RAILGUN
+  7:08 Kill: 0 2 7: ^4anomen killed None by MOD_ROCKET_SPLASH
+  7:09 Item: 3 ammo_slugs
+  7:09 Item: 3 ammo_cells
+  7:10 Item: 2 ammo_slugs
+  7:10 Item: 2 ammo_cells
+  7:12 Item: 0 item_health_large
+  7:12 Item: 0 weapon_plasmagun
+  7:14 Item: 1 weapon_plasmagun
+  7:15 Item: 0 weapon_rocketlauncher
+  7:17 Item: 2 item_health
+  7:18 Kill: 0 1 8: ^4anomen killed Collector by MOD_PLASMA
+  7:19 Item: 2 item_armor_body
+  7:19 Item: 0 weapon_plasmagun
+  7:20 Item: 1 ammo_slugs
+  7:20 Item: 1 ammo_cells
+  7:20 Item: 0 weapon_plasmagun
+  7:21 Item: 0 item_armor_combat
+  7:22 Item: 2 item_armor_shard
+  7:22 Item: 2 item_armor_shard
+  7:23 Item: 2 item_armor_shard
+  7:23 Item: 2 item_armor_shard
+  7:25 Item: 1 weapon_railgun
+  7:25 Item: 2 weapon_plasmagun
+  7:27 Item: 0 weapon_rocketlauncher
+  7:27 Kill: 2 0 8: None killed ^4anomen by MOD_PLASMA
+  7:28 Item: 2 weapon_rocketlauncher
+  7:29 Item: 0 ammo_slugs
+  7:29 Item: 0 ammo_cells
+  7:30 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+  7:30 Item: 0 ammo_cells
+  7:31 Item: 3 ammo_slugs
+  7:31 Item: 3 ammo_cells
+  7:32 Item: 1 weapon_railgun
+  7:32 Item: 1 ammo_cells
+  7:33 Item: 0 weapon_railgun
+  7:35 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+  7:37 Item: 1 item_health
+  7:37 Item: 0 ammo_slugs
+  7:37 Item: 0 ammo_cells
+  7:40 Item: 0 weapon_railgun
+  7:41 Item: 3 weapon_railgun
+  7:44 Kill: 2 0 8: None killed ^4anomen by MOD_PLASMA
+  7:44 Item: 1 weapon_rocketlauncher
+  7:44 Item: 3 weapon_railgun
+  7:45 Item: 0 ammo_slugs
+  7:45 Item: 0 ammo_cells
+  7:48 Item: 3 item_armor_shard
+  7:48 Item: 3 item_armor_shard
+  7:48 Item: 3 item_armor_shard
+  7:49 Item: 3 item_armor_shard
+  7:49 Kill: 0 1 3: ^4anomen killed Collector by MOD_MACHINEGUN
+  7:51 Item: 0 weapon_railgun
+  7:51 Item: 1 ammo_slugs
+  7:51 Item: 1 ammo_cells
+  7:52 Item: 2 item_armor_body
+  7:54 Item: 1 weapon_railgun
+  7:55 Item: 0 item_armor_combat
+  7:57 Item: 0 weapon_rocketlauncher
+  7:59 Kill: 0 3 6: ^4anomen killed Baba O'Riley by MOD_ROCKET
+  8:00 Item: 0 weapon_railgun
+  8:01 Item: 3 ammo_slugs
+  8:01 Item: 3 ammo_cells
+  8:02 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+  8:03 Item: 1 weapon_rocketlauncher
+  8:04 Item: 0 ammo_slugs
+  8:04 Item: 0 ammo_cells
+  8:04 Item: 1 item_health
+  8:04 Item: 2 item_health_large
+  8:04 Item: 3 weapon_rocketlauncher
+  8:05 Item: 2 weapon_plasmagun
+  8:06 Item: 0 weapon_railgun
+  8:10 Item: 1 item_health_large
+  8:12 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+  8:14 Item: 0 weapon_plasmagun
+  8:14 Item: 2 ammo_slugs
+  8:14 Item: 2 ammo_cells
+  8:15 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+  8:16 Item: 0 weapon_rocketlauncher
+  8:16 Kill: 0 1 10: ^4anomen killed Collector by MOD_RAILGUN
+  8:18 Item: 1 ammo_slugs
+  8:18 Item: 1 ammo_cells
+  8:18 Item: 0 weapon_plasmagun
+  8:19 Item: 3 ammo_slugs
+  8:19 Item: 3 ammo_cells
+  8:19 Item: 3 ammo_cells
+  8:20 Item: 1 item_armor_body
+  8:21 Item: 0 weapon_rocketlauncher
+  8:22 Item: 2 weapon_railgun
+  8:27 Item: 0 weapon_plasmagun
+  8:27 Item: 0 item_armor_combat
+  8:28 Item: 2 ammo_cells
+  8:29 Kill: 3 2 3: Baba O'Riley killed None by MOD_MACHINEGUN
+  8:29 Item: 1 weapon_railgun
+  8:31 Item: 2 ammo_slugs
+  8:31 Item: 2 ammo_cells
+  8:33 Item: 1 item_health
+  8:35 Item: 1 ammo_rockets
+  8:36 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+  8:38 Item: 3 ammo_slugs
+  8:38 Item: 3 ammo_cells
+  8:42 Kill: 2 0 2: None killed ^4anomen by MOD_GAUNTLET
+  8:42 Item: 2 weapon_rocketlauncher
+  8:43 Item: 2 weapon_plasmagun
+  8:45 Item: 0 ammo_slugs
+  8:45 Item: 0 ammo_cells
+  8:45 Item: 2 weapon_rocketlauncher
+  8:45 Item: 1 weapon_railgun
+  8:48 Item: 2 weapon_plasmagun
+  8:49 Item: 0 item_armor_body
+  8:49 Item: 3 item_health_large
+  8:50 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+  8:52 Item: 3 ammo_slugs
+  8:52 Item: 3 ammo_cells
+  8:52 Item: 0 weapon_rocketlauncher
+  8:55 Item: 2 item_health_large
+  8:55 Item: 0 weapon_plasmagun
+  8:55 Item: 3 weapon_plasmagun
+  8:56 Item: 0 item_armor_combat
+  8:57 Item: 1 weapon_railgun
+  8:58 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+  9:00 Item: 2 ammo_slugs
+  9:00 Item: 2 ammo_cells
+  9:01 Item: 2 ammo_cells
+  9:01 Kill: 1022 0 22: <world> killed ^4anomen by MOD_TRIGGER_HURT
+  9:02 Item: 3 weapon_plasmagun
+  9:03 Item: 0 ammo_slugs
+  9:03 Item: 0 ammo_cells
+  9:03 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+  9:05 Item: 1 ammo_slugs
+  9:05 Item: 1 ammo_cells
+  9:05 Item: 3 item_enviro
+  9:06 Item: 0 item_armor_shard
+  9:06 Item: 0 item_armor_shard
+  9:06 Item: 0 item_armor_shard
+  9:06 Item: 0 item_armor_shard
+  9:07 Item: 3 weapon_rocketlauncher
+  9:08 Item: 1 weapon_railgun
+  9:09 Item: 0 weapon_plasmagun
+  9:13 Item: 0 weapon_rocketlauncher
+  9:15 Kill: 3 0 7: Baba O'Riley killed ^4anomen by MOD_ROCKET_SPLASH
+  9:15 Item: 3 weapon_plasmagun
+  9:16 Item: 1 item_armor_body
+  9:16 Item: 2 item_health
+  9:17 Item: 0 ammo_slugs
+  9:17 Item: 0 ammo_cells
+  9:17 Item: 3 weapon_plasmagun
+  9:18 Item: 2 item_health
+  9:19 Item: 3 weapon_rocketlauncher
+  9:19 Kill: 2 0 3: None killed ^4anomen by MOD_MACHINEGUN
+  9:21 Item: 0 ammo_slugs
+  9:21 Item: 0 ammo_cells
+  9:21 Item: 1 weapon_railgun
+  9:22 Item: 0 weapon_plasmagun
+  9:23 Item: 3 item_armor_combat
+  9:25 Item: 0 weapon_rocketlauncher
+  9:25 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+  9:27 Item: 0 weapon_plasmagun
+  9:27 Item: 2 ammo_slugs
+  9:27 Item: 2 ammo_cells
+  9:30 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+  9:32 Item: 2 ammo_slugs
+  9:32 Item: 2 ammo_cells
+  9:34 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+  9:34 Item: 2 item_armor_shard
+  9:35 Item: 2 item_armor_shard
+  9:35 Item: 2 item_armor_shard
+  9:36 Item: 3 ammo_slugs
+  9:36 Item: 3 ammo_cells
+  9:36 Item: 1 item_health_large
+  9:38 Item: 0 item_health_large
+  9:39 Item: 1 weapon_rocketlauncher
+  9:40 Item: 2 weapon_plasmagun
+  9:41 Kill: 1 2 6: Collector killed None by MOD_ROCKET
+  9:41 Item: 1 weapon_plasmagun
+  9:42 Item: 3 ammo_cells
+  9:42 Item: 2 ammo_slugs
+  9:42 Item: 2 ammo_cells
+  9:44 Item: 2 ammo_rockets
+  9:45 Item: 2 item_armor_body
+  9:46 Kill: 1 0 10: Collector killed ^4anomen by MOD_RAILGUN
+  9:48 Item: 3 weapon_plasmagun
+  9:48 Item: 0 ammo_slugs
+  9:48 Item: 0 ammo_cells
+  9:48 Item: 2 weapon_railgun
+  9:53 Item: 1 item_armor_shard
+  9:53 Item: 0 weapon_rocketlauncher
+  9:54 Kill: 3 1 8: Baba O'Riley killed Collector by MOD_PLASMA
+  9:56 Item: 1 ammo_slugs
+  9:56 Item: 1 ammo_cells
+  9:56 Item: 0 weapon_plasmagun
+  9:57 Item: 0 item_armor_combat
+  9:58 Item: 3 weapon_railgun
+ 10:00 Item: 0 weapon_rocketlauncher
+ 10:01 Kill: 1 3 3: Collector killed Baba O'Riley by MOD_MACHINEGUN
+ 10:03 Item: 1 weapon_railgun
+ 10:04 Item: 3 ammo_slugs
+ 10:04 Item: 3 ammo_cells
+ 10:05 Item: 1 weapon_railgun
+ 10:08 Kill: 2 0 10: None killed ^4anomen by MOD_RAILGUN
+ 10:08 Item: 3 ammo_cells
+ 10:09 Item: 2 weapon_rocketlauncher
+ 10:10 Item: 0 ammo_slugs
+ 10:10 Item: 0 ammo_cells
+ 10:16 Kill: 3 0 3: Baba O'Riley killed ^4anomen by MOD_MACHINEGUN
+ 10:17 Item: 1 item_health_large
+ 10:18 Item: 0 ammo_slugs
+ 10:18 Item: 0 ammo_cells
+ 10:18 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 10:19 Item: 0 item_health
+ 10:20 Item: 3 ammo_slugs
+ 10:20 Item: 3 ammo_cells
+ 10:21 Item: 0 item_armor_body
+ 10:22 Item: 1 weapon_plasmagun
+ 10:24 Item: 1 weapon_rocketlauncher
+ 10:25 Kill: 1022 0 22: <world> killed ^4anomen by MOD_TRIGGER_HURT
+ 10:26 Item: 0 ammo_slugs
+ 10:26 Item: 0 ammo_cells
+ 10:27 Item: 3 ammo_cells
+ 10:29 Item: 0 weapon_railgun
+ 10:29 Kill: 1 2 6: Collector killed None by MOD_ROCKET
+ 10:31 Item: 0 weapon_railgun
+ 10:31 Item: 2 ammo_slugs
+ 10:31 Item: 2 ammo_cells
+ 10:31 Item: 2 weapon_plasmagun
+ 10:32 Item: 2 item_armor_combat
+ 10:32 Kill: 0 1 10: ^4anomen killed Collector by MOD_RAILGUN
+ 10:33 Item: 0 weapon_railgun
+ 10:34 Item: 1 ammo_slugs
+ 10:34 Item: 1 ammo_cells
+ 10:34 Kill: 3 0 3: Baba O'Riley killed ^4anomen by MOD_MACHINEGUN
+ 10:35 Item: 3 weapon_railgun
+ 10:36 Item: 0 ammo_slugs
+ 10:36 Item: 0 ammo_cells
+ 10:37 Item: 0 weapon_plasmagun
+ 10:37 Item: 3 weapon_plasmagun
+ 10:40 Item: 1 weapon_railgun
+ 10:41 Kill: 3 0 8: Baba O'Riley killed ^4anomen by MOD_PLASMA
+ 10:41 Kill: 3 2 8: Baba O'Riley killed None by MOD_PLASMA
+ 10:42 Item: 3 weapon_plasmagun
+ 10:42 Item: 0 ammo_slugs
+ 10:42 Item: 0 ammo_cells
+ 10:43 Item: 3 weapon_plasmagun
+ 10:43 Item: 2 ammo_slugs
+ 10:43 Item: 2 ammo_cells
+ 10:46 Item: 1 item_armor_shard
+ 10:46 Item: 1 item_armor_shard
+ 10:46 Item: 1 item_armor_shard
+ 10:47 Item: 1 item_armor_shard
+ 10:48 Item: 3 weapon_plasmagun
+ 10:51 Item: 3 weapon_rocketlauncher
+ 10:53 Kill: 2 0 3: None killed ^4anomen by MOD_MACHINEGUN
+ 10:53 Item: 3 weapon_plasmagun
+ 10:54 Item: 1 item_health
+ 10:55 Item: 0 ammo_slugs
+ 10:55 Item: 0 ammo_cells
+ 10:56 Item: 1 item_armor_body
+ 10:56 Item: 0 weapon_plasmagun
+ 10:56 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 10:56 Exit: Fraglimit hit.
+ 10:56 score: 30  ping: 48  client: 1 Collector
+ 10:56 score: 12  ping: 10  client: 0 ^4anomen
+ 10:56 score: 7  ping: 25  client: 2 None
+ 10:56 score: 6  ping: 21  client: 3 Baba O'Riley
+ 11:01 say: None: lol
+ 11:04 say: Collector: uff
+ 11:07 say: None: replay
+ 11:12 say: Collector: more crazy in 4p
+ 11:12 ShutdownGame:
+ 11:12 ------------------------------------------------------------
+ 11:12 ------------------------------------------------------------
+ 11:12 InitGame: \dmflags\0\fraglimit\30\timelimit\25\sv_hostname\malina\sv_maxclients\8\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3tourney3\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+ 11:12 ClientConnect: 0
+ 11:12 ClientUserinfoChanged: 0 n\^4anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:12 Item: 0 ammo_slugs
+ 11:12 Item: 0 ammo_cells
+ 11:12 ClientBegin: 0
+ 11:12 ClientConnect: 1
+ 11:12 ClientUserinfoChanged: 1 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:12 Item: 1 ammo_slugs
+ 11:12 Item: 1 ammo_cells
+ 11:12 ClientBegin: 1
+ 11:12 ClientConnect: 2
+ 11:12 ClientUserinfoChanged: 2 n\None\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:12 Item: 2 ammo_slugs
+ 11:12 Item: 2 ammo_cells
+ 11:12 ClientBegin: 2
+ 11:12 ClientConnect: 3
+ 11:12 ClientUserinfoChanged: 3 n\Baba O'Riley\t\0\model\bones/bones\hmodel\bones/bones\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:12 Item: 3 ammo_slugs
+ 11:12 Item: 3 ammo_cells
+ 11:12 ClientBegin: 3
+ 11:15 say: ^4anomen: crowded 
+ 11:18 Item: 2 item_armor_shard
+ 11:18 Item: 2 item_armor_shard
+ 11:18 Item: 2 item_armor_shard
+ 11:21 Item: 2 weapon_plasmagun
+ 11:23 Item: 2 weapon_rocketlauncher
+ 11:31 say: Collector: q3dm16 ?
+ 11:36 Item: 2 weapon_railgun
+ 11:36 Kill: 2 0 10: None killed ^4anomen by MOD_RAILGUN
+ 11:37 ClientDisconnect: 1
+ 11:38 Item: 2 ammo_cells
+ 11:41 Item: 3 item_armor_combat
+ 11:41 Item: 2 weapon_plasmagun
+ 11:43 Item: 2 weapon_rocketlauncher
+ 11:47 Item: 3 ammo_cells
+ 11:49 Item: 2 item_armor_body
+ 11:53 ClientConnect: 1
+ 11:53 ClientUserinfoChanged: 1 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:55 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 11:57 ClientUserinfoChanged: 1 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:57 Item: 1 ammo_slugs
+ 11:57 Item: 1 ammo_cells
+ 11:57 ClientBegin: 1
+ 11:58 Item: 0 ammo_slugs
+ 11:58 Item: 0 ammo_cells
+ 11:59 Item: 3 ammo_slugs
+ 11:59 Item: 3 ammo_cells
+ 12:00 Item: 1 weapon_rocketlauncher
+ 12:03 Item: 1 item_enviro
+ 12:06 Item: 3 ammo_rockets
+ 12:10 Item: 1 weapon_railgun
+ 12:13 Item: 2 weapon_rocketlauncher
+ 12:15 Item: 2 item_armor_combat
+ 12:15 Item: 3 weapon_plasmagun
+ 12:16 Item: 3 item_health_large
+ 12:23 Kill: 3 1 8: Baba O'Riley killed Collector by MOD_PLASMA
+ 12:25 Kill: 2 0 7: None killed ^4anomen by MOD_ROCKET_SPLASH
+ 12:25 Item: 3 item_enviro
+ 12:26 Item: 3 weapon_railgun
+ 12:26 say: ^4anomen: feel free t pcomtinue
+ 12:27 Item: 1 ammo_slugs
+ 12:27 Item: 1 ammo_cells
+ 12:31 Item: 2 item_health_large
+ 12:31 Kill: 2 3 8: None killed Baba O'Riley by MOD_PLASMA
+ 12:33 Item: 2 weapon_railgun
+ 12:33 Item: 2 item_enviro
+ 12:34 Item: 3 ammo_slugs
+ 12:34 Item: 3 ammo_cells
+ 12:36 ClientDisconnect: 0
+ 12:37 Item: 2 weapon_plasmagun
+ 12:38 Kill: 3 1 3: Baba O'Riley killed Collector by MOD_MACHINEGUN
+ 12:40 Item: 2 weapon_rocketlauncher
+ 12:41 Item: 3 ammo_cells
+ 12:41 Item: 2 weapon_plasmagun
+ 12:42 Item: 1 ammo_slugs
+ 12:42 Item: 1 ammo_cells
+ 12:44 Item: 3 weapon_railgun
+ 12:49 Item: 3 weapon_rocketlauncher
+ 12:50 Item: 3 item_armor_combat
+ 12:53 Item: 2 item_health
+ 12:54 Item: 3 weapon_rocketlauncher
+ 12:54 Item: 2 item_health
+ 12:56 Item: 1 weapon_plasmagun
+ 12:58 Kill: 3 3 7: Baba O'Riley killed Baba O'Riley by MOD_ROCKET_SPLASH
+ 12:58 Item: 2 item_armor_body
+ 12:59 Item: 2 ammo_rockets
+ 13:00 Item: 3 ammo_slugs
+ 13:00 Item: 3 ammo_cells
+ 13:03 Item: 1 weapon_railgun
+ 13:07 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 13:08 Item: 3 ammo_slugs
+ 13:08 Item: 3 ammo_cells
+ 13:09 Kill: 2 1 9: None killed Collector by MOD_PLASMA_SPLASH
+ 13:10 Item: 2 weapon_railgun
+ 13:10 Item: 3 weapon_rocketlauncher
+ 13:12 Item: 3 weapon_rocketlauncher
+ 13:12 Item: 1 ammo_slugs
+ 13:12 Item: 1 ammo_cells
+ 13:13 Item: 2 item_armor_shard
+ 13:13 Item: 2 item_armor_shard
+ 13:13 Item: 2 item_armor_shard
+ 13:15 Item: 2 weapon_plasmagun
+ 13:16 Item: 2 item_health_large
+ 13:18 Kill: 2 3 8: None killed Baba O'Riley by MOD_PLASMA
+ 13:19 Item: 2 weapon_rocketlauncher
+ 13:20 Item: 3 ammo_slugs
+ 13:20 Item: 3 ammo_cells
+ 13:22 Item: 2 weapon_rocketlauncher
+ 13:23 Item: 1 weapon_railgun
+ 13:23 Item: 3 ammo_cells
+ 13:24 Item: 2 item_armor_combat
+ 13:26 Item: 3 item_armor_body
+ 13:30 Item: 1 item_health_large
+ 13:33 Kill: 3 2 3: Baba O'Riley killed None by MOD_MACHINEGUN
+ 13:35 Item: 2 ammo_slugs
+ 13:35 Item: 2 ammo_cells
+ 13:36 Item: 3 weapon_rocketlauncher
+ 13:37 Kill: 3 1 7: Baba O'Riley killed Collector by MOD_ROCKET_SPLASH
+ 13:38 Item: 3 weapon_railgun
+ 13:40 Item: 3 weapon_plasmagun
+ 13:48 Item: 2 weapon_rocketlauncher
+ 13:51 Item: 2 item_health_large
+ 13:52 say: Collector:  
+ 13:52 Item: 1 ammo_slugs
+ 13:52 Item: 1 ammo_cells
+ 13:53 Item: 1 ammo_cells
+ 13:54 Item: 3 weapon_rocketlauncher
+ 13:55 Item: 3 weapon_plasmagun
+ 14:00 Item: 2 item_health
+ 14:01 Item: 2 item_armor_body
+ 14:02 Item: 1 item_armor_combat
+ 14:02 Item: 2 ammo_rockets
+ 14:03 Item: 1 weapon_plasmagun
+ 14:04 Kill: 1 3 8: Collector killed Baba O'Riley by MOD_PLASMA
+ 14:04 Item: 1 weapon_railgun
+ 14:06 Item: 3 ammo_slugs
+ 14:06 Item: 3 ammo_cells
+ 14:10 Item: 3 weapon_railgun
+ 14:12 Item: 1 item_health_large
+ 14:12 Kill: 3 2 10: Baba O'Riley killed None by MOD_RAILGUN
+ 14:14 Item: 2 ammo_slugs
+ 14:14 Item: 2 ammo_cells
+ 14:16 Item: 2 item_armor_shard
+ 14:16 Item: 2 item_armor_shard
+ 14:16 Item: 2 item_armor_shard
+ 14:16 Item: 2 item_armor_shard
+ 14:17 Item: 3 ammo_cells
+ 14:17 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 14:19 Item: 3 ammo_slugs
+ 14:19 Item: 3 ammo_cells
+ 14:20 Item: 2 weapon_plasmagun
+ 14:20 Item: 3 weapon_plasmagun
+ 14:20 Item: 1 item_health
+ 14:21 Item: 2 weapon_rocketlauncher
+ 14:23 Item: 1 item_enviro
+ 14:26 Kill: 3 2 8: Baba O'Riley killed None by MOD_PLASMA
+ 14:28 Item: 3 weapon_rocketlauncher
+ 14:28 Item: 2 ammo_slugs
+ 14:28 Item: 2 ammo_cells
+ 14:29 Item: 1 weapon_railgun
+ 14:30 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 14:32 Item: 3 ammo_slugs
+ 14:32 Item: 3 ammo_cells
+ 14:32 Item: 1 weapon_rocketlauncher
+ 14:32 Item: 2 item_armor_body
+ 14:42 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 14:44 Item: 3 ammo_slugs
+ 14:44 Item: 3 ammo_cells
+ 14:49 Item: 1 item_health
+ 14:52 Kill: 1 3 7: Collector killed Baba O'Riley by MOD_ROCKET_SPLASH
+ 14:54 Item: 3 ammo_slugs
+ 14:54 Item: 3 ammo_cells
+ 14:55 Item: 2 ammo_rockets
+ 14:55 Item: 3 item_armor_combat
+ 14:57 Item: 1 item_health_large
+ 14:57 Item: 3 weapon_rocketlauncher
+ 14:59 Item: 2 item_armor_shard
+ 15:00 Item: 2 item_armor_shard
+ 15:00 Item: 2 item_armor_shard
+ 15:01 Kill: 3 1 6: Baba O'Riley killed Collector by MOD_ROCKET
+ 15:03 Item: 2 weapon_plasmagun
+ 15:03 Item: 1 ammo_slugs
+ 15:03 Item: 1 ammo_cells
+ 15:04 Item: 1 ammo_cells
+ 15:05 Item: 2 weapon_rocketlauncher
+ 15:06 Item: 3 weapon_rocketlauncher
+ 15:06 Item: 1 weapon_railgun
+ 15:07 Item: 3 weapon_plasmagun
+ 15:10 Kill: 2 3 6: None killed Baba O'Riley by MOD_ROCKET
+ 15:11 Item: 3 ammo_slugs
+ 15:11 Item: 3 ammo_cells
+ 15:12 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 15:14 Item: 2 ammo_slugs
+ 15:14 Item: 2 ammo_cells
+ 15:14 Item: 1 weapon_railgun
+ 15:15 Kill: 2 3 3: None killed Baba O'Riley by MOD_MACHINEGUN
+ 15:17 Item: 3 ammo_slugs
+ 15:17 Item: 3 ammo_cells
+ 15:17 Item: 3 ammo_cells
+ 15:21 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 15:23 Item: 2 ammo_slugs
+ 15:23 Item: 2 ammo_cells
+ 15:24 Item: 1 weapon_plasmagun
+ 15:26 Item: 2 weapon_plasmagun
+ 15:27 Item: 1 weapon_rocketlauncher
+ 15:27 Item: 2 item_armor_combat
+ 15:30 Item: 1 item_armor_body
+ 15:31 say: Baba O'Riley: stuck!
+ 15:32 Item: 1 item_health
+ 15:34 Item: 1 item_health
+ 15:36 Kill: 2 3 8: None killed Baba O'Riley by MOD_PLASMA
+ 15:38 say: Baba O'Riley: thx
+ 15:40 Item: 3 ammo_slugs
+ 15:40 Item: 3 ammo_cells
+ 15:45 Kill: 3 2 3: Baba O'Riley killed None by MOD_MACHINEGUN
+ 15:46 Item: 3 weapon_railgun
+ 15:47 Item: 2 ammo_slugs
+ 15:47 Item: 2 ammo_cells
+ 15:48 Kill: 1 3 6: Collector killed Baba O'Riley by MOD_ROCKET
+ 15:49 Item: 2 ammo_cells
+ 15:50 Item: 2 weapon_railgun
+ 15:50 Item: 3 ammo_slugs
+ 15:50 Item: 3 ammo_cells
+ 15:51 Item: 1 item_health_large
+ 15:55 Item: 1 item_armor_combat
+ 15:55 Item: 2 weapon_railgun
+ 15:56 Item: 3 weapon_plasmagun
+ 15:57 Kill: 1 3 7: Collector killed Baba O'Riley by MOD_ROCKET_SPLASH
+ 15:57 Item: 1 weapon_plasmagun
+ 15:58 Item: 3 ammo_slugs
+ 15:58 Item: 3 ammo_cells
+ 16:00 Item: 1 weapon_rocketlauncher
+ 16:02 Item: 3 weapon_plasmagun
+ 16:07 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 16:09 Item: 2 ammo_slugs
+ 16:09 Item: 2 ammo_cells
+ 16:09 Item: 3 weapon_railgun
+ 16:13 Item: 2 weapon_plasmagun
+ 16:14 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 16:14 Item: 1 weapon_plasmagun
+ 16:16 Item: 2 ammo_slugs
+ 16:16 Item: 2 ammo_cells
+ 16:18 Item: 3 weapon_rocketlauncher
+ 16:19 Item: 1 weapon_plasmagun
+ 16:20 Item: 2 item_armor_body
+ 16:23 Item: 1 weapon_railgun
+ 16:26 Item: 2 weapon_plasmagun
+ 16:27 Item: 2 item_armor_combat
+ 16:28 Item: 3 weapon_railgun
+ 16:29 Item: 1 item_enviro
+ 16:29 Item: 2 weapon_rocketlauncher
+ 16:30 Item: 2 weapon_plasmagun
+ 16:31 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 16:33 Item: 1 ammo_slugs
+ 16:33 Item: 1 ammo_cells
+ 16:35 Item: 2 item_health
+ 16:38 Item: 3 item_health_large
+ 16:40 Item: 1 weapon_rocketlauncher
+ 16:44 Kill: 1 3 6: Collector killed Baba O'Riley by MOD_ROCKET
+ 16:45 Item: 2 weapon_plasmagun
+ 16:46 Item: 3 ammo_slugs
+ 16:46 Item: 3 ammo_cells
+ 16:48 Item: 1 item_armor_shard
+ 16:48 Item: 1 item_armor_shard
+ 16:48 Item: 1 item_armor_shard
+ 16:49 Item: 1 item_armor_shard
+ 16:51 Kill: 1 3 7: Collector killed Baba O'Riley by MOD_ROCKET_SPLASH
+ 16:52 Item: 2 weapon_rocketlauncher
+ 16:52 Item: 2 weapon_railgun
+ 16:54 Item: 1 weapon_railgun
+ 16:55 Item: 3 ammo_slugs
+ 16:55 Item: 3 ammo_cells
+ 16:55 Item: 3 ammo_cells
+ 16:56 Item: 1 item_health_large
+ 16:59 Item: 3 item_armor_body
+ 17:00 Item: 1 weapon_rocketlauncher
+ 17:03 Item: 1 item_armor_combat
+ 17:05 Item: 2 ammo_rockets
+ 17:10 Item: 2 item_health
+ 17:11 Kill: 2 3 6: None killed Baba O'Riley by MOD_ROCKET
+ 17:13 Item: 3 ammo_slugs
+ 17:13 Item: 3 ammo_cells
+ 17:14 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 17:15 Item: 2 ammo_slugs
+ 17:15 Item: 2 ammo_cells
+ 17:15 Item: 3 item_armor_shard
+ 17:16 Item: 3 item_armor_shard
+ 17:16 Item: 3 item_armor_shard
+ 17:16 Item: 3 item_armor_shard
+ 17:19 Item: 2 ammo_cells
+ 17:22 Item: 2 item_health
+ 17:24 Item: 2 item_armor_body
+ 17:25 Item: 3 weapon_railgun
+ 17:27 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 17:29 Item: 3 ammo_slugs
+ 17:29 Item: 3 ammo_cells
+ 17:31 Item: 2 item_health_large
+ 17:32 Item: 1 weapon_railgun
+ 17:32 Item: 2 weapon_plasmagun
+ 17:34 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 17:36 Item: 3 ammo_slugs
+ 17:36 Item: 3 ammo_cells
+ 17:37 Item: 3 ammo_cells
+ 17:37 Item: 3 weapon_railgun
+ 17:37 Item: 2 weapon_rocketlauncher
+ 17:38 Item: 1 weapon_railgun
+ 17:39 Item: 2 item_armor_combat
+ 17:46 Item: 1 weapon_railgun
+ 17:47 Kill: 2 3 7: None killed Baba O'Riley by MOD_ROCKET_SPLASH
+ 17:48 Item: 2 weapon_rocketlauncher
+ 17:49 Item: 3 ammo_slugs
+ 17:49 Item: 3 ammo_cells
+ 17:53 Item: 3 item_armor_body
+ 17:53 Item: 2 weapon_plasmagun
+ 17:55 Item: 2 weapon_rocketlauncher
+ 17:56 Item: 2 weapon_plasmagun
+ 17:57 Item: 2 weapon_railgun
+ 17:59 Item: 3 item_armor_shard
+ 17:59 Item: 3 item_armor_shard
+ 17:59 Item: 3 item_armor_shard
+ 17:59 Item: 3 item_armor_shard
+ 18:03 Item: 3 weapon_rocketlauncher
+ 18:03 Item: 2 weapon_plasmagun
+ 18:07 Item: 1 weapon_railgun
+ 18:08 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 18:10 Item: 3 ammo_slugs
+ 18:10 Item: 3 ammo_cells
+ 18:10 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 18:11 Item: 1 weapon_railgun
+ 18:12 Item: 2 ammo_slugs
+ 18:12 Item: 2 ammo_cells
+ 18:12 Item: 1 ammo_cells
+ 18:17 Item: 2 weapon_plasmagun
+ 18:18 Item: 2 item_armor_combat
+ 18:20 Item: 2 weapon_rocketlauncher
+ 18:23 Item: 2 weapon_plasmagun
+ 18:24 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 18:25 Item: 1 item_health_large
+ 18:26 Item: 3 ammo_slugs
+ 18:26 Item: 3 ammo_cells
+ 18:27 Item: 3 ammo_cells
+ 18:29 Item: 3 weapon_rocketlauncher
+ 18:30 Item: 2 item_armor_shard
+ 18:30 Item: 2 item_armor_shard
+ 18:30 Item: 2 item_armor_shard
+ 18:30 Item: 2 item_armor_shard
+ 18:32 Item: 2 weapon_railgun
+ 18:34 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 18:36 Item: 2 ammo_slugs
+ 18:36 Item: 2 ammo_cells
+ 18:36 Item: 3 weapon_rocketlauncher
+ 18:37 Item: 1 item_enviro
+ 18:39 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 18:41 Item: 3 ammo_slugs
+ 18:41 Item: 3 ammo_cells
+ 18:41 Item: 2 item_health
+ 18:42 Item: 2 item_armor_body
+ 18:43 Item: 2 item_health
+ 18:44 Item: 3 weapon_railgun
+ 18:50 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 18:54 Item: 1 item_health_large
+ 18:57 Item: 3 ammo_slugs
+ 18:57 Item: 3 ammo_cells
+ 19:04 Item: 1 item_armor_combat
+ 19:05 Kill: 1 2 2: Collector killed None by MOD_GAUNTLET
+ 19:06 Item: 1 weapon_rocketlauncher
+ 19:07 Item: 2 ammo_slugs
+ 19:07 Item: 2 ammo_cells
+ 19:08 Item: 3 ammo_rockets
+ 19:09 Item: 2 ammo_cells
+ 19:10 Item: 3 item_armor_body
+ 19:10 Item: 1 item_armor_shard
+ 19:13 Item: 2 weapon_plasmagun
+ 19:15 Item: 2 weapon_rocketlauncher
+ 19:16 Item: 1 weapon_railgun
+ 19:22 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 19:24 Item: 2 ammo_slugs
+ 19:24 Item: 2 ammo_cells
+ 19:26 Item: 3 weapon_plasmagun
+ 19:35 Item: 3 weapon_railgun
+ 19:36 Item: 1 item_health_large
+ 19:36 Item: 2 item_health
+ 19:37 Item: 3 weapon_rocketlauncher
+ 19:37 Item: 3 ammo_cells
+ 19:38 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 19:39 Item: 2 item_armor_shard
+ 19:39 Item: 2 item_armor_shard
+ 19:40 Item: 3 ammo_slugs
+ 19:40 Item: 3 ammo_cells
+ 19:42 Item: 3 item_armor_body
+ 19:42 Item: 1 item_health_large
+ 19:44 Item: 2 weapon_rocketlauncher
+ 19:45 Item: 2 weapon_plasmagun
+ 19:46 Item: 2 item_armor_combat
+ 19:51 Item: 1 weapon_railgun
+ 19:53 Item: 2 ammo_cells
+ 19:59 Item: 2 weapon_rocketlauncher
+ 20:08 Item: 1 weapon_railgun
+ 20:14 Item: 2 item_health
+ 20:15 Kill: 2 3 8: None killed Baba O'Riley by MOD_PLASMA
+ 20:16 Item: 1 weapon_railgun
+ 20:16 Item: 2 item_health
+ 20:21 Item: 2 item_health_large
+ 20:23 Item: 2 weapon_rocketlauncher
+ 20:24 Item: 1 weapon_railgun
+ 20:26 Item: 2 item_armor_combat
+ 20:32 Kill: 2 1 6: None killed Collector by MOD_ROCKET
+ 20:33 Item: 2 weapon_railgun
+ 20:33 Item: 2 weapon_railgun
+ 20:36 Item: 3 ammo_slugs
+ 20:36 Item: 3 ammo_cells
+ 20:36 Item: 1 ammo_slugs
+ 20:36 Item: 1 ammo_cells
+ 20:39 Item: 1 weapon_railgun
+ 20:40 Item: 2 weapon_rocketlauncher
+ 20:41 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 20:42 Item: 2 ammo_slugs
+ 20:42 Item: 2 ammo_cells
+ 20:43 Item: 1 item_enviro
+ 20:43 Item: 2 item_armor_body
+ 20:45 Item: 1 weapon_rocketlauncher
+ 20:48 Item: 2 item_armor_shard
+ 20:48 Item: 2 item_armor_shard
+ 20:48 Item: 2 item_armor_shard
+ 20:48 Item: 2 item_armor_shard
+ 20:52 Item: 2 weapon_plasmagun
+ 20:55 Item: 2 weapon_rocketlauncher
+ 21:03 Item: 2 weapon_plasmagun
+ 21:06 Item: 2 weapon_rocketlauncher
+ 21:08 Item: 2 item_armor_combat
+ 21:10 Item: 2 weapon_plasmagun
+ 21:15 Item: 2 weapon_rocketlauncher
+ 21:17 Item: 2 item_health_large
+ 21:18 Item: 1 weapon_railgun
+ 21:19 Item: 2 item_armor_shard
+ 21:19 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 21:21 Item: 2 ammo_slugs
+ 21:21 Item: 2 ammo_cells
+ 21:26 Item: 2 item_health
+ 21:27 Item: 3 weapon_rocketlauncher
+ 21:27 Item: 2 item_armor_body
+ 21:29 Item: 2 item_health
+ 21:33 Item: 1 ammo_cells
+ 21:35 Item: 2 weapon_railgun
+ 21:37 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 21:39 Item: 3 ammo_slugs
+ 21:39 Item: 3 ammo_cells
+ 21:42 Item: 1 weapon_railgun
+ 21:46 Item: 3 weapon_plasmagun
+ 21:47 Kill: 3 2 8: Baba O'Riley killed None by MOD_PLASMA
+ 21:48 Item: 3 item_armor_combat
+ 21:48 Item: 3 weapon_railgun
+ 21:49 Item: 2 ammo_slugs
+ 21:49 Item: 2 ammo_cells
+ 21:51 Item: 1 weapon_rocketlauncher
+ 21:54 Item: 3 ammo_cells
+ 21:57 Item: 2 item_armor_body
+ 21:57 Item: 3 item_health_large
+ 22:02 Item: 1 weapon_railgun
+ 22:06 Item: 2 item_health
+ 22:07 Kill: 3 1 10: Baba O'Riley killed Collector by MOD_RAILGUN
+ 22:10 Item: 1 ammo_slugs
+ 22:10 Item: 1 ammo_cells
+ 22:11 Item: 2 item_health
+ 22:11 Item: 3 weapon_rocketlauncher
+ 22:13 Item: 1 weapon_railgun
+ 22:14 Item: 3 weapon_plasmagun
+ 22:14 Item: 3 item_health_large
+ 22:22 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 22:24 Item: 2 ammo_slugs
+ 22:24 Item: 2 ammo_cells
+ 22:24 Item: 1 item_armor_combat
+ 22:27 Item: 2 weapon_plasmagun
+ 22:29 Item: 1 weapon_railgun
+ 22:30 Kill: 2 3 9: None killed Baba O'Riley by MOD_PLASMA_SPLASH
+ 22:30 Item: 2 weapon_rocketlauncher
+ 22:32 Item: 3 ammo_slugs
+ 22:32 Item: 3 ammo_cells
+ 22:32 Item: 2 weapon_plasmagun
+ 22:37 Item: 3 item_armor_body
+ 22:40 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 22:41 Item: 1 ammo_cells
+ 22:41 Item: 3 ammo_slugs
+ 22:41 Item: 3 ammo_cells
+ 22:47 Item: 1 item_health_large
+ 22:48 Item: 1 item_enviro
+ 22:49 Item: 2 weapon_railgun
+ 22:49 Item: 3 item_armor_combat
+ 22:52 Item: 3 weapon_rocketlauncher
+ 22:55 Item: 2 weapon_plasmagun
+ 22:56 Item: 1 weapon_railgun
+ 22:57 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 22:59 Item: 2 weapon_rocketlauncher
+ 22:59 Item: 3 ammo_slugs
+ 22:59 Item: 3 ammo_cells
+ 23:02 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 23:02 Item: 2 weapon_rocketlauncher
+ 23:07 Item: 3 ammo_slugs
+ 23:07 Item: 3 ammo_cells
+ 23:10 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 23:12 Item: 3 ammo_slugs
+ 23:12 Item: 3 ammo_cells
+ 23:13 Item: 2 item_health_large
+ 23:16 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 23:18 Item: 3 ammo_slugs
+ 23:18 Item: 3 ammo_cells
+ 23:22 Item: 1 weapon_railgun
+ 23:22 Item: 3 item_armor_shard
+ 23:22 Item: 3 item_armor_shard
+ 23:22 Item: 3 item_armor_shard
+ 23:23 Item: 3 item_armor_shard
+ 23:27 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 23:29 Item: 3 ammo_slugs
+ 23:29 Item: 3 ammo_cells
+ 23:30 Item: 2 weapon_rocketlauncher
+ 23:32 Item: 1 weapon_railgun
+ 23:36 Item: 3 weapon_plasmagun
+ 23:37 Item: 3 item_armor_combat
+ 23:40 Item: 1 weapon_railgun
+ 23:43 Item: 1 weapon_rocketlauncher
+ 23:46 Item: 2 ammo_cells
+ 23:47 Item: 3 item_armor_body
+ 23:49 Item: 2 item_armor_shard
+ 23:49 Item: 2 item_armor_shard
+ 23:50 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 23:51 Item: 2 weapon_plasmagun
+ 23:52 Item: 3 ammo_slugs
+ 23:52 Item: 3 ammo_cells
+ 23:53 Item: 1 weapon_railgun
+ 23:54 Item: 2 weapon_rocketlauncher
+ 24:00 Item: 3 weapon_plasmagun
+ 24:04 Item: 3 item_armor_shard
+ 24:04 Item: 3 item_armor_shard
+ 24:06 Item: 3 item_health
+ 24:07 Item: 1 weapon_railgun
+ 24:08 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 24:08 Item: 3 item_health
+ 24:08 Item: 1 ammo_cells
+ 24:10 Item: 2 ammo_slugs
+ 24:10 Item: 2 ammo_cells
+ 24:14 Item: 3 weapon_rocketlauncher
+ 24:16 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 24:17 Item: 3 item_health_large
+ 24:19 Item: 2 ammo_slugs
+ 24:19 Item: 2 ammo_cells
+ 24:20 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 24:22 Item: 1 weapon_railgun
+ 24:23 Item: 2 weapon_plasmagun
+ 24:24 Item: 1 item_health_large
+ 24:25 Item: 2 weapon_rocketlauncher
+ 24:26 Item: 3 ammo_slugs
+ 24:26 Item: 3 ammo_cells
+ 24:31 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 24:31 Exit: Fraglimit hit.
+ 24:31 score: 30  ping: 48  client: 1 Collector
+ 24:31 score: 11  ping: 23  client: 2 None
+ 24:31 score: 0  ping: 25  client: 3 Baba O'Riley
+ 24:38 say: None: wth
+ 24:47 ShutdownGame:
+ 24:47 ------------------------------------------------------------
+ 24:47 ------------------------------------------------------------
+ 24:47 InitGame: \dmflags\0\fraglimit\30\timelimit\25\sv_hostname\malina\sv_maxclients\8\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3tourney3\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+ 24:47 ClientConnect: 1
+ 24:47 ClientUserinfoChanged: 1 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 24:47 Item: 1 ammo_slugs
+ 24:47 Item: 1 ammo_cells
+ 24:47 ClientBegin: 1
+ 24:47 ClientConnect: 2
+ 24:47 ClientUserinfoChanged: 2 n\None\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 24:47 Item: 2 ammo_slugs
+ 24:47 Item: 2 ammo_cells
+ 24:47 ClientBegin: 2
+ 24:47 ClientConnect: 3
+ 24:47 ClientUserinfoChanged: 3 n\Baba O'Riley\t\0\model\bones/bones\hmodel\bones/bones\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 24:47 Item: 3 ammo_slugs
+ 24:47 Item: 3 ammo_cells
+ 24:47 ClientBegin: 3
+ 24:49 Item: 2 ammo_cells
+ 24:50 say: Collector: adrien, do you know bonny jumping?
+ 24:51 Item: 2 weapon_railgun
+ 24:58 say: Baba O'Riley: ?
+ 24:59 Item: 2 item_armor_body
+ 25:01 say: Collector: sry bunny jumping
+ 25:01 say: Baba O'Riley: no
+ 25:06 Item: 2 weapon_plasmagun
+ 25:08 Item: 2 weapon_rocketlauncher
+ 25:10 Item: 2 item_armor_combat
+ 25:15 say: Collector: try to jump and hold strafe left or right
+ 25:17 say: Baba O'Riley: or maybe
+ 25:24 say: Collector: each next jump is longer
+ 25:31 Item: 3 weapon_plasmagun
+ 25:38 Item: 3 weapon_plasmagun
+ 25:40 Item: 2 ammo_cells
+ 25:44 Item: 2 item_armor_body
+ 25:46 Item: 3 weapon_plasmagun
+ 25:46 Item: 2 item_enviro
+ 25:48 say: Collector: wanna try it?
+ 25:49 Item: 2 weapon_rocketlauncher
+ 25:53 Item: 1 ammo_cells
+ 26:01 Item: 2 weapon_plasmagun
+ 26:10 Item: 1 item_armor_body
+ 26:13 Item: 1 weapon_rocketlauncher
+ 26:14 say: None: like in mario kart 64
+ 26:19 Item: 3 item_armor_combat
+ 26:24 say: Collector: ok, sry
+ 26:33 Item: 1 ammo_cells
+ 26:34 say: Collector: you have to alter lefte right strafe
+ 26:43 Item: 3 item_armor_shard
+ 26:43 Item: 3 item_armor_shard
+ 26:45 Item: 1 weapon_railgun
+ 26:51 Item: 3 weapon_plasmagun
+ 26:55 Item: 3 item_armor_shard
+ 26:58 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 27:02 say: Baba O'Riley: ..
+ 27:04 Item: 3 ammo_slugs
+ 27:04 Item: 3 ammo_cells
+ 27:08 say: Collector: so that's one magic in q3
+ 27:11 Item: 3 item_armor_shard
+ 27:12 Item: 2 weapon_plasmagun
+ 27:17 Item: 3 weapon_rocketlauncher
+ 27:26 Item: 1 weapon_rocketlauncher
+ 27:30 Item: 2 weapon_plasmagun
+ 27:33 say: Collector: playing?
+ 27:34 Item: 3 item_armor_body
+ 27:37 say: None: ok
+ 27:44 Item: 3 item_health
+ 27:47 Item: 2 weapon_railgun
+ 27:47 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 27:48 say: Collector: pity we cannot change a map without ludek
+ 27:51 Item: 3 ammo_slugs
+ 27:51 Item: 3 ammo_cells
+ 27:52 Item: 3 item_armor_combat
+ 27:54 Item: 2 item_enviro
+ 27:56 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 27:56 Item: 3 ammo_cells
+ 27:57 Kill: 1 1 7: Collector killed Collector by MOD_ROCKET_SPLASH
+ 27:58 Item: 2 ammo_slugs
+ 27:58 Item: 2 ammo_cells
+ 28:00 Item: 1 ammo_slugs
+ 28:00 Item: 1 ammo_cells
+ 28:00 Item: 2 ammo_cells
+ 28:01 Item: 1 item_armor_body
+ 28:07 Kill: 3 1 2: Baba O'Riley killed Collector by MOD_GAUNTLET
+ 28:08 Item: 1 ammo_slugs
+ 28:08 Item: 1 ammo_cells
+ 28:09 Item: 2 weapon_plasmagun
+ 28:11 Item: 2 weapon_rocketlauncher
+ 28:12 Item: 2 weapon_plasmagun
+ 28:15 Kill: 3 1 2: Baba O'Riley killed Collector by MOD_GAUNTLET
+ 28:17 Item: 1 ammo_slugs
+ 28:17 Item: 1 ammo_cells
+ 28:19 Kill: 2 3 7: None killed Baba O'Riley by MOD_ROCKET_SPLASH
+ 28:20 Item: 3 ammo_slugs
+ 28:20 Item: 3 ammo_cells
+ 28:31 Item: 2 item_armor_body
+ 28:33 Kill: 2 1 8: None killed Collector by MOD_PLASMA
+ 28:35 Item: 2 item_health
+ 28:35 Item: 1 ammo_slugs
+ 28:35 Item: 1 ammo_cells
+ 28:39 Item: 1 weapon_railgun
+ 28:41 say: None: ?
+ 28:43 Item: 2 item_armor_shard
+ 28:45 Item: 3 item_armor_shard
+ 28:45 Item: 2 item_armor_shard
+ 28:46 Kill: 3 2 2: Baba O'Riley killed None by MOD_GAUNTLET
+ 28:48 Item: 3 item_armor_shard
+ 28:49 say: None: :D
+ 28:50 Item: 3 weapon_plasmagun
+ 28:50 Item: 2 ammo_slugs
+ 28:50 Item: 2 ammo_cells
+ 28:56 Item: 3 weapon_plasmagun
+ 28:56 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 28:56 Kill: 3 3 9: Baba O'Riley killed Baba O'Riley by MOD_PLASMA_SPLASH
+ 28:57 Item: 1 weapon_plasmagun
+ 28:58 Item: 3 ammo_slugs
+ 28:58 Item: 3 ammo_cells
+ 28:58 Item: 2 ammo_slugs
+ 28:58 Item: 2 ammo_cells
+ 28:59 Item: 2 ammo_cells
+ 29:01 Item: 1 item_health_large
+ 29:08 Item: 3 weapon_rocketlauncher
+ 29:10 Kill: 1 2 2: Collector killed None by MOD_GAUNTLET
+ 29:11 Item: 3 weapon_plasmagun
+ 29:11 Item: 1 item_armor_combat
+ 29:12 Item: 2 ammo_slugs
+ 29:12 Item: 2 ammo_cells
+ 29:18 Item: 2 item_armor_body
+ 29:19 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 29:21 Item: 3 ammo_slugs
+ 29:21 Item: 3 ammo_cells
+ 29:22 Item: 2 weapon_rocketlauncher
+ 29:24 Item: 2 weapon_plasmagun
+ 29:28 Item: 1 ammo_cells
+ 29:30 Item: 3 item_armor_shard
+ 29:31 Item: 3 item_armor_shard
+ 29:31 Item: 3 item_armor_shard
+ 29:31 Item: 2 item_armor_shard
+ 29:35 Item: 3 weapon_railgun
+ 29:39 Item: 2 item_health
+ 29:39 Item: 1 item_armor_combat
+ 29:39 Item: 3 weapon_rocketlauncher
+ 29:47 Item: 2 weapon_rocketlauncher
+ 29:48 Item: 2 item_health_large
+ 29:55 Kill: 2 3 7: None killed Baba O'Riley by MOD_ROCKET_SPLASH
+ 29:55 Item: 1 item_armor_body
+ 29:56 Item: 2 weapon_rocketlauncher
+ 29:56 Item: 1 item_health
+ 29:57 Item: 3 ammo_slugs
+ 29:57 Item: 3 ammo_cells
+ 30:01 Item: 1 item_enviro
+ 30:02 Item: 1 item_health_large
+ 30:03 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 30:05 Item: 2 ammo_slugs
+ 30:05 Item: 2 ammo_cells
+ 30:08 Item: 2 weapon_railgun
+ 30:09 Kill: 2 3 10: None killed Baba O'Riley by MOD_RAILGUN
+ 30:10 Item: 1 ammo_cells
+ 30:11 Item: 3 ammo_slugs
+ 30:11 Item: 3 ammo_cells
+ 30:15 Item: 3 weapon_plasmagun
+ 30:20 Item: 3 item_armor_shard
+ 30:20 Item: 3 item_armor_shard
+ 30:20 Item: 1 ammo_cells
+ 30:20 Item: 3 item_armor_shard
+ 30:20 Item: 3 item_armor_shard
+ 30:24 Item: 3 item_armor_body
+ 30:32 Item: 3 item_armor_combat
+ 30:39 Kill: 1 2 2: Collector killed None by MOD_GAUNTLET
+ 30:41 Item: 2 ammo_slugs
+ 30:41 Item: 2 ammo_cells
+ 30:41 Item: 3 weapon_railgun
+ 30:43 Item: 2 ammo_rockets
+ 30:46 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 30:50 Item: 2 weapon_plasmagun
+ 30:50 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 30:52 Item: 1 ammo_slugs
+ 30:52 Item: 1 ammo_cells
+ 30:52 Item: 2 weapon_rocketlauncher
+ 30:54 Item: 3 ammo_slugs
+ 30:54 Item: 3 ammo_cells
+ 30:55 Item: 1 weapon_railgun
+ 30:57 Item: 3 item_armor_shard
+ 30:57 Item: 3 item_armor_shard
+ 30:57 Item: 3 item_armor_shard
+ 30:57 Item: 3 item_armor_shard
+ 31:00 Item: 3 weapon_plasmagun
+ 31:00 Kill: 2 1 7: None killed Collector by MOD_ROCKET_SPLASH
+ 31:03 Item: 2 weapon_rocketlauncher
+ 31:03 Item: 1 ammo_slugs
+ 31:03 Item: 1 ammo_cells
+ 31:04 Item: 2 weapon_plasmagun
+ 31:05 Item: 3 weapon_railgun
+ 31:05 Item: 2 item_armor_combat
+ 31:07 Item: 3 ammo_cells
+ 31:14 Item: 1 item_health_large
+ 31:15 Item: 2 weapon_rocketlauncher
+ 31:17 Item: 2 item_health_large
+ 31:17 Item: 3 weapon_plasmagun
+ 31:18 Item: 1 item_health
+ 31:23 Item: 2 item_armor_shard
+ 31:23 Item: 2 item_armor_shard
+ 31:23 Item: 2 item_armor_shard
+ 31:23 Item: 3 item_armor_body
+ 31:33 Item: 3 weapon_plasmagun
+ 31:44 Item: 1 weapon_rocketlauncher
+ 31:44 Item: 3 item_armor_combat
+ 31:49 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 31:49 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 31:51 Item: 1 ammo_slugs
+ 31:51 Item: 1 ammo_cells
+ 31:51 Item: 3 ammo_slugs
+ 31:51 Item: 3 ammo_cells
+ 31:57 Item: 1 weapon_plasmagun
+ 32:03 Item: 1 item_health_large
+ 32:03 Item: 3 item_enviro
+ 32:05 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 32:07 Item: 3 ammo_slugs
+ 32:07 Item: 3 ammo_cells
+ 32:10 Item: 3 item_armor_shard
+ 32:10 Item: 3 item_armor_shard
+ 32:10 Item: 3 item_armor_shard
+ 32:10 Item: 3 item_armor_shard
+ 32:13 Item: 2 weapon_rocketlauncher
+ 32:18 Item: 3 weapon_rocketlauncher
+ 32:22 Item: 3 item_armor_body
+ 32:27 Item: 2 weapon_rocketlauncher
+ 32:34 Item: 1 weapon_railgun
+ 32:37 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 32:38 Item: 1 weapon_rocketlauncher
+ 32:38 Item: 2 ammo_slugs
+ 32:38 Item: 2 ammo_cells
+ 32:43 Item: 1 ammo_cells
+ 32:43 Item: 2 weapon_plasmagun
+ 32:46 Item: 2 weapon_rocketlauncher
+ 32:47 Item: 1 item_health_large
+ 32:48 Item: 2 item_armor_combat
+ 32:50 Item: 3 item_health
+ 32:53 Item: 1 item_armor_body
+ 33:00 Item: 2 item_health_large
+ 33:02 Item: 2 weapon_plasmagun
+ 33:03 Item: 1 weapon_rocketlauncher
+ 33:06 Item: 3 item_health
+ 33:09 Item: 3 ammo_rockets
+ 33:09 Item: 1 weapon_rocketlauncher
+ 33:09 Kill: 2 2 9: None killed None by MOD_PLASMA_SPLASH
+ 33:12 Item: 2 ammo_slugs
+ 33:12 Item: 2 ammo_cells
+ 33:16 Item: 1 ammo_cells
+ 33:17 Item: 2 weapon_plasmagun
+ 33:17 Item: 3 weapon_rocketlauncher
+ 33:19 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 33:21 Item: 2 item_armor_combat
+ 33:22 Item: 3 ammo_slugs
+ 33:22 Item: 3 ammo_cells
+ 33:23 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 33:24 Item: 3 item_health_large
+ 33:25 Item: 1 ammo_slugs
+ 33:25 Item: 1 ammo_cells
+ 33:27 Item: 3 weapon_plasmagun
+ 33:27 Item: 1 weapon_railgun
+ 33:30 Item: 2 weapon_plasmagun
+ 33:32 Item: 2 weapon_rocketlauncher
+ 33:39 Item: 3 weapon_plasmagun
+ 33:44 Item: 2 weapon_rocketlauncher
+ 33:45 Item: 3 item_armor_shard
+ 33:45 Item: 3 item_armor_shard
+ 33:45 Item: 3 item_armor_shard
+ 33:45 Item: 3 item_armor_shard
+ 33:45 Item: 2 item_health_large
+ 33:54 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 33:55 Item: 2 ammo_slugs
+ 33:55 Item: 2 ammo_cells
+ 34:01 Item: 2 weapon_railgun
+ 34:02 Kill: 2 1 10: None killed Collector by MOD_RAILGUN
+ 34:03 Item: 2 ammo_cells
+ 34:04 Item: 3 item_armor_body
+ 34:04 Item: 1 ammo_slugs
+ 34:04 Item: 1 ammo_cells
+ 34:09 Item: 2 weapon_rocketlauncher
+ 34:10 Item: 1 weapon_railgun
+ 34:10 Item: 2 item_armor_combat
+ 34:11 Item: 1 weapon_railgun
+ 34:26 Item: 1 ammo_cells
+ 34:26 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 34:28 Item: 2 ammo_slugs
+ 34:28 Item: 2 ammo_cells
+ 34:38 Item: 2 weapon_rocketlauncher
+ 34:39 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 34:41 Item: 1 ammo_slugs
+ 34:41 Item: 1 ammo_cells
+ 34:41 Item: 2 weapon_railgun
+ 34:47 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 34:48 Item: 3 item_enviro
+ 34:49 Item: 1 ammo_slugs
+ 34:49 Item: 1 ammo_cells
+ 34:49 Item: 2 weapon_rocketlauncher
+ 34:51 Item: 2 item_armor_combat
+ 34:52 Item: 3 weapon_plasmagun
+ 34:55 Item: 1 weapon_rocketlauncher
+ 35:01 Item: 1 item_health_large
+ 35:06 Kill: 3 1 2: Baba O'Riley killed Collector by MOD_GAUNTLET
+ 35:08 Item: 1 ammo_slugs
+ 35:08 Item: 1 ammo_cells
+ 35:09 Kill: 2 3 10: None killed Baba O'Riley by MOD_RAILGUN
+ 35:10 Item: 3 ammo_slugs
+ 35:10 Item: 3 ammo_cells
+ 35:12 Item: 2 item_enviro
+ 35:19 Item: 1 item_armor_combat
+ 35:22 Item: 3 ammo_cells
+ 35:23 Item: 2 weapon_railgun
+ 35:28 Kill: 1 3 2: Collector killed Baba O'Riley by MOD_GAUNTLET
+ 35:30 Item: 3 ammo_slugs
+ 35:30 Item: 3 ammo_cells
+ 35:32 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 35:34 Item: 3 ammo_slugs
+ 35:34 Item: 3 ammo_cells
+ 35:35 Item: 3 weapon_plasmagun
+ 35:35 Kill: 2 1 10: None killed Collector by MOD_RAILGUN
+ 35:37 Item: 1 ammo_slugs
+ 35:37 Item: 1 ammo_cells
+ 35:37 Item: 2 weapon_plasmagun
+ 35:38 Item: 2 item_health_large
+ 35:40 Item: 1 weapon_railgun
+ 35:43 Item: 1 item_armor_shard
+ 35:43 Item: 1 item_armor_shard
+ 35:43 Item: 1 item_armor_shard
+ 35:43 Item: 1 item_armor_shard
+ 35:46 Item: 2 ammo_cells
+ 35:46 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 35:47 Item: 2 ammo_slugs
+ 35:47 Item: 2 ammo_cells
+ 35:51 Item: 3 weapon_rocketlauncher
+ 35:53 Item: 2 weapon_railgun
+ 35:57 Kill: 2 1 10: None killed Collector by MOD_RAILGUN
+ 35:59 Item: 1 ammo_slugs
+ 35:59 Item: 1 ammo_cells
+ 36:01 Item: 1 weapon_railgun
+ 36:07 Item: 2 weapon_plasmagun
+ 36:09 Item: 3 weapon_railgun
+ 36:10 Item: 1 weapon_railgun
+ 36:11 Kill: 2 1 8: None killed Collector by MOD_PLASMA
+ 36:11 Item: 2 weapon_railgun
+ 36:12 Item: 2 item_armor_shard
+ 36:12 Item: 2 item_armor_shard
+ 36:12 Item: 2 item_armor_shard
+ 36:13 Item: 1 ammo_slugs
+ 36:13 Item: 1 ammo_cells
+ 36:15 Item: 3 weapon_rocketlauncher
+ 36:16 Item: 1 weapon_railgun
+ 36:20 Item: 3 item_armor_body
+ 36:23 Item: 1 item_health
+ 36:26 Item: 3 item_health
+ 36:27 Item: 1 ammo_cells
+ 36:29 Item: 3 item_health_large
+ 36:29 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 36:31 Item: 2 ammo_slugs
+ 36:31 Item: 2 ammo_cells
+ 36:32 Item: 1 weapon_railgun
+ 36:33 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 36:35 Item: 2 ammo_slugs
+ 36:35 Item: 2 ammo_cells
+ 36:38 Item: 2 weapon_railgun
+ 36:48 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 36:50 Item: 2 ammo_slugs
+ 36:50 Item: 2 ammo_cells
+ 36:50 Item: 1 item_enviro
+ 36:50 Item: 2 ammo_cells
+ 36:54 Item: 1 item_armor_combat
+ 36:55 Item: 2 weapon_plasmagun
+ 37:00 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 37:03 Item: 2 ammo_slugs
+ 37:03 Item: 2 ammo_cells
+ 37:11 Item: 2 weapon_railgun
+ 37:13 say: Collector: do you think that ludek has VZW support ? :)
+ 37:18 say: None: lol
+ 37:21 say: None: sure
+ 37:21 Item: 3 item_health
+ 37:30 say: None: replay ?
+ 37:35 say: Collector: or night life? :)
+ 37:38 Item: 2 item_armor_combat
+ 37:43 Item: 1 item_armor_shard
+ 37:43 Item: 1 item_armor_shard
+ 37:43 Item: 1 item_armor_shard
+ 37:44 Item: 1 item_armor_shard
+ 37:52 Item: 1 item_health_large
+ 38:04 Item: 2 weapon_rocketlauncher
+ 38:05 Item: 2 item_health_large
+ 38:08 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 38:10 Item: 1 ammo_slugs
+ 38:10 Item: 1 ammo_cells
+ 38:11 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 38:13 Item: 2 ammo_slugs
+ 38:13 Item: 2 ammo_cells
+ 38:14 Item: 3 item_armor_combat
+ 38:17 Item: 3 weapon_rocketlauncher
+ 38:17 Item: 1 weapon_railgun
+ 38:21 Item: 3 item_armor_body
+ 38:21 Item: 2 weapon_plasmagun
+ 38:30 Item: 2 item_armor_shard
+ 38:30 Item: 2 item_armor_shard
+ 38:30 Item: 2 item_armor_shard
+ 38:30 Item: 2 item_armor_shard
+ 38:31 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 38:35 Item: 2 ammo_slugs
+ 38:35 Item: 2 ammo_cells
+ 38:36 Item: 2 weapon_plasmagun
+ 38:36 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 38:38 Item: 1 ammo_slugs
+ 38:38 Item: 1 ammo_cells
+ 38:38 Item: 2 weapon_rocketlauncher
+ 38:43 Item: 1 weapon_railgun
+ 38:45 Item: 1 ammo_cells
+ 38:46 Item: 3 weapon_plasmagun
+ 38:53 Item: 1 weapon_railgun
+ 38:53 Item: 3 weapon_plasmagun
+ 38:54 Item: 2 item_health
+ 38:55 Item: 2 item_armor_body
+ 38:56 Item: 2 item_health
+ 38:59 Item: 2 item_health_large
+ 39:00 Item: 1 item_enviro
+ 39:00 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 39:02 Item: 3 ammo_slugs
+ 39:02 Item: 3 ammo_cells
+ 39:03 Item: 2 weapon_rocketlauncher
+ 39:04 Item: 2 weapon_plasmagun
+ 39:07 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 39:09 Item: 3 ammo_slugs
+ 39:09 Item: 3 ammo_cells
+ 39:14 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 39:15 Item: 2 ammo_slugs
+ 39:15 Item: 2 ammo_cells
+ 39:16 Item: 1 weapon_railgun
+ 39:20 Item: 1 item_armor_combat
+ 39:21 Item: 2 item_armor_shard
+ 39:21 Item: 2 item_armor_shard
+ 39:21 Item: 2 item_armor_shard
+ 39:23 Item: 2 weapon_plasmagun
+ 39:25 Item: 1 weapon_railgun
+ 39:26 Item: 2 weapon_rocketlauncher
+ 39:30 Item: 1 weapon_railgun
+ 39:35 Kill: 2 3 7: None killed Baba O'Riley by MOD_ROCKET_SPLASH
+ 39:37 Item: 3 ammo_slugs
+ 39:37 Item: 3 ammo_cells
+ 39:37 Item: 3 ammo_cells
+ 39:39 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 39:41 Item: 2 ammo_slugs
+ 39:41 Item: 2 ammo_cells
+ 39:45 Item: 3 weapon_railgun
+ 39:48 Item: 2 weapon_rocketlauncher
+ 39:50 Item: 1 weapon_plasmagun
+ 39:55 Item: 2 weapon_plasmagun
+ 39:57 Item: 1 item_armor_shard
+ 39:57 Item: 1 item_armor_shard
+ 39:57 Item: 1 item_armor_shard
+ 39:58 Item: 1 item_armor_shard
+ 39:58 Item: 3 weapon_rocketlauncher
+ 40:00 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 40:01 Item: 3 item_armor_combat
+ 40:02 Item: 1 weapon_railgun
+ 40:03 Item: 2 ammo_slugs
+ 40:03 Item: 2 ammo_cells
+ 40:10 Item: 2 weapon_rocketlauncher
+ 40:11 Item: 3 weapon_railgun
+ 40:15 Item: 2 ammo_cells
+ 40:16 Item: 3 weapon_rocketlauncher
+ 40:17 Item: 1 weapon_railgun
+ 40:17 Item: 2 item_health
+ 40:19 Item: 2 item_armor_body
+ 40:20 Item: 3 item_health_large
+ 40:25 Item: 3 weapon_plasmagun
+ 40:29 Item: 1 item_armor_shard
+ 40:29 Item: 1 item_armor_shard
+ 40:29 Item: 1 item_armor_shard
+ 40:30 Item: 2 item_health
+ 40:31 Item: 1 weapon_railgun
+ 40:38 Item: 1 item_health_large
+ 40:40 Item: 1 weapon_railgun
+ 40:49 Item: 2 ammo_cells
+ 40:52 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 40:54 say: None: lol
+ 40:55 Item: 2 ammo_slugs
+ 40:55 Item: 2 ammo_cells
+ 40:57 Item: 2 item_armor_combat
+ 40:57 Item: 2 weapon_plasmagun
+ 41:00 Item: 1 weapon_railgun
+ 41:00 Item: 2 weapon_rocketlauncher
+ 41:01 Item: 1 item_armor_shard
+ 41:02 Item: 1 item_armor_shard
+ 41:02 Item: 1 item_armor_shard
+ 41:02 Item: 1 item_armor_shard
+ 41:13 Item: 2 weapon_rocketlauncher
+ 41:14 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 41:16 Item: 1 ammo_slugs
+ 41:16 Item: 1 ammo_cells
+ 41:16 Item: 2 item_enviro
+ 41:18 Item: 2 item_armor_body
+ 41:19 Item: 1 weapon_railgun
+ 41:24 Kill: 2 1 7: None killed Collector by MOD_ROCKET_SPLASH
+ 41:29 Item: 1 ammo_slugs
+ 41:29 Item: 1 ammo_cells
+ 41:29 Item: 2 weapon_rocketlauncher
+ 41:29 Item: 3 ammo_cells
+ 41:38 Item: 3 weapon_railgun
+ 41:42 Item: 3 weapon_railgun
+ 41:43 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 41:43 Item: 2 weapon_rocketlauncher
+ 41:45 Item: 2 weapon_plasmagun
+ 41:46 Item: 1 item_health_large
+ 41:46 Item: 3 ammo_slugs
+ 41:46 Item: 3 ammo_cells
+ 41:48 Item: 1 weapon_railgun
+ 41:53 Item: 3 weapon_rocketlauncher
+ 41:59 Item: 2 weapon_railgun
+ 42:05 Kill: 2 1 10: None killed Collector by MOD_RAILGUN
+ 42:07 Item: 1 ammo_slugs
+ 42:07 Item: 1 ammo_cells
+ 42:08 Item: 2 item_health_large
+ 42:10 Item: 2 weapon_rocketlauncher
+ 42:10 Item: 1 weapon_railgun
+ 42:11 Item: 2 item_armor_combat
+ 42:13 Item: 1 ammo_cells
+ 42:15 Item: 2 weapon_rocketlauncher
+ 42:23 Kill: 2 1 10: None killed Collector by MOD_RAILGUN
+ 42:25 Item: 1 ammo_slugs
+ 42:25 Item: 1 ammo_cells
+ 42:28 Item: 1 weapon_railgun
+ 42:29 Item: 1 weapon_railgun
+ 42:36 Item: 3 weapon_plasmagun
+ 42:42 Kill: 2 1 8: None killed Collector by MOD_PLASMA
+ 42:44 Item: 1 ammo_slugs
+ 42:44 Item: 1 ammo_cells
+ 42:45 Item: 2 item_health
+ 42:47 Item: 2 item_health
+ 42:47 Item: 1 weapon_railgun
+ 42:50 Item: 1 item_armor_shard
+ 42:50 Item: 1 item_armor_shard
+ 42:52 Item: 2 item_armor_combat
+ 42:53 Item: 2 weapon_plasmagun
+ 42:55 Item: 2 weapon_rocketlauncher
+ 42:57 Item: 2 item_health_large
+ 43:03 Item: 2 weapon_rocketlauncher
+ 43:08 Item: 2 ammo_cells
+ 43:11 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 43:13 Item: 1 ammo_slugs
+ 43:13 Item: 1 ammo_cells
+ 43:16 Item: 1 weapon_railgun
+ 43:19 Item: 2 weapon_rocketlauncher
+ 43:20 Item: 3 item_armor_combat
+ 43:23 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 43:25 Item: 2 weapon_rocketlauncher
+ 43:28 Item: 3 item_health
+ 43:31 Item: 1 ammo_slugs
+ 43:31 Item: 1 ammo_cells
+ 43:32 Item: 2 item_health
+ 43:37 Item: 1 weapon_railgun
+ 43:38 Item: 1 item_enviro
+ 43:39 Item: 1 item_health_large
+ 43:43 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 43:45 Item: 1 weapon_plasmagun
+ 43:45 Item: 2 ammo_slugs
+ 43:45 Item: 2 ammo_cells
+ 43:52 Item: 1 item_health_large
+ 43:53 Item: 2 weapon_plasmagun
+ 43:56 Item: 1 weapon_plasmagun
+ 43:56 Item: 1 item_armor_combat
+ 44:01 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 44:01 Item: 2 weapon_rocketlauncher
+ 44:02 Item: 3 ammo_slugs
+ 44:02 Item: 3 ammo_cells
+ 44:05 Kill: 2 3 7: None killed Baba O'Riley by MOD_ROCKET_SPLASH
+ 44:06 Item: 3 ammo_slugs
+ 44:06 Item: 3 ammo_cells
+ 44:07 Item: 1 ammo_cells
+ 44:08 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 44:10 Item: 1 weapon_railgun
+ 44:10 Item: 2 ammo_slugs
+ 44:10 Item: 2 ammo_cells
+ 44:16 Item: 2 item_armor_shard
+ 44:17 Item: 3 item_armor_shard
+ 44:17 Item: 3 item_armor_shard
+ 44:17 Item: 3 item_armor_shard
+ 44:18 Item: 2 weapon_plasmagun
+ 44:21 Item: 1 item_health_large
+ 44:23 Item: 2 weapon_rocketlauncher
+ 44:24 Item: 2 item_armor_combat
+ 44:28 Item: 3 weapon_rocketlauncher
+ 44:37 Item: 1 weapon_railgun
+ 44:37 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 44:39 Item: 2 ammo_slugs
+ 44:39 Item: 2 ammo_cells
+ 44:43 Item: 3 weapon_railgun
+ 44:43 Item: 2 weapon_plasmagun
+ 44:46 Item: 2 weapon_rocketlauncher
+ 44:47 Kill: 2 3 7: None killed Baba O'Riley by MOD_ROCKET_SPLASH
+ 44:48 Item: 2 weapon_plasmagun
+ 44:49 Item: 3 ammo_slugs
+ 44:49 Item: 3 ammo_cells
+ 44:55 Item: 3 weapon_plasmagun
+ 44:58 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 44:58 Item: 1 item_armor_shard
+ 44:58 Item: 1 item_armor_shard
+ 44:59 Item: 1 item_armor_shard
+ 45:01 Item: 2 ammo_slugs
+ 45:01 Item: 2 ammo_cells
+ 45:01 Kill: 3 1 8: Baba O'Riley killed Collector by MOD_PLASMA
+ 45:02 Item: 2 item_armor_combat
+ 45:02 Item: 3 weapon_railgun
+ 45:03 Item: 1 ammo_slugs
+ 45:03 Item: 1 ammo_cells
+ 45:03 Item: 2 weapon_plasmagun
+ 45:05 Item: 1 weapon_plasmagun
+ 45:06 Item: 2 weapon_rocketlauncher
+ 45:06 Item: 2 weapon_railgun
+ 45:07 Item: 3 item_armor_body
+ 45:07 Item: 1 weapon_railgun
+ 45:11 Item: 3 item_health
+ 45:14 Item: 2 ammo_cells
+ 45:15 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 45:17 Item: 1 ammo_slugs
+ 45:17 Item: 1 ammo_cells
+ 45:18 Item: 2 weapon_railgun
+ 45:20 Item: 3 ammo_cells
+ 45:25 Kill: 1 3 3: Collector killed Baba O'Riley by MOD_MACHINEGUN
+ 45:26 Item: 1 weapon_railgun
+ 45:27 Item: 3 ammo_slugs
+ 45:27 Item: 3 ammo_cells
+ 45:31 Kill: 3 2 3: Baba O'Riley killed None by MOD_MACHINEGUN
+ 45:33 Item: 2 ammo_slugs
+ 45:33 Item: 2 ammo_cells
+ 45:33 Item: 1 weapon_railgun
+ 45:34 Item: 1 item_health_large
+ 45:36 Kill: 2 3 3: None killed Baba O'Riley by MOD_MACHINEGUN
+ 45:37 Item: 1 weapon_railgun
+ 45:38 Item: 3 ammo_slugs
+ 45:38 Item: 3 ammo_cells
+ 45:39 Item: 2 weapon_plasmagun
+ 45:40 Item: 2 item_health_large
+ 45:41 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 45:42 Item: 2 weapon_rocketlauncher
+ 45:44 Item: 2 weapon_plasmagun
+ 45:44 Item: 2 item_armor_combat
+ 45:45 Item: 1 ammo_slugs
+ 45:45 Item: 1 ammo_cells
+ 45:50 Kill: 2 1 7: None killed Collector by MOD_ROCKET_SPLASH
+ 45:51 Item: 1 ammo_slugs
+ 45:51 Item: 1 ammo_cells
+ 45:52 Item: 1 weapon_plasmagun
+ 45:54 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 45:57 Item: 3 ammo_slugs
+ 45:57 Item: 3 ammo_cells
+ 45:58 Item: 1 item_enviro
+ 45:59 Item: 2 weapon_rocketlauncher
+ 46:00 Kill: 1 2 8: Collector killed None by MOD_PLASMA
+ 46:01 Item: 1 weapon_rocketlauncher
+ 46:02 Item: 2 ammo_slugs
+ 46:02 Item: 2 ammo_cells
+ 46:05 Item: 3 item_armor_body
+ 46:07 Item: 1 weapon_railgun
+ 46:08 Item: 2 weapon_plasmagun
+ 46:09 Item: 3 weapon_rocketlauncher
+ 46:12 Kill: 2 2 9: None killed None by MOD_PLASMA_SPLASH
+ 46:12 Item: 3 weapon_plasmagun
+ 46:14 Item: 2 ammo_slugs
+ 46:14 Item: 2 ammo_cells
+ 46:14 Item: 1 weapon_railgun
+ 46:17 Item: 3 item_armor_combat
+ 46:19 Item: 2 weapon_plasmagun
+ 46:21 Item: 2 weapon_rocketlauncher
+ 46:22 Kill: 3 2 8: Baba O'Riley killed None by MOD_PLASMA
+ 46:23 Item: 3 weapon_plasmagun
+ 46:23 Item: 2 ammo_slugs
+ 46:23 Item: 2 ammo_cells
+ 46:24 Item: 1 weapon_railgun
+ 46:27 Item: 3 weapon_plasmagun
+ 46:28 Item: 3 item_health_large
+ 46:30 Kill: 3 2 8: Baba O'Riley killed None by MOD_PLASMA
+ 46:32 Item: 1 weapon_railgun
+ 46:32 Item: 2 ammo_slugs
+ 46:32 Item: 2 ammo_cells
+ 46:33 Item: 2 item_armor_body
+ 46:34 Item: 3 weapon_rocketlauncher
+ 46:40 Item: 2 weapon_plasmagun
+ 46:40 Item: 1 weapon_railgun
+ 46:42 Item: 2 weapon_rocketlauncher
+ 46:45 Item: 2 weapon_plasmagun
+ 46:45 Item: 3 item_armor_combat
+ 46:49 Item: 1 weapon_railgun
+ 46:49 Kill: 3 1 6: Baba O'Riley killed Collector by MOD_ROCKET
+ 46:50 Item: 2 weapon_rocketlauncher
+ 46:51 Item: 1 ammo_slugs
+ 46:51 Item: 1 ammo_cells
+ 46:52 Item: 1 ammo_cells
+ 46:53 Kill: 2 3 6: None killed Baba O'Riley by MOD_ROCKET
+ 46:54 Item: 1 weapon_railgun
+ 46:56 Item: 3 ammo_slugs
+ 46:56 Item: 3 ammo_cells
+ 46:58 Item: 1 weapon_rocketlauncher
+ 46:58 Item: 2 item_armor_shard
+ 47:02 Item: 2 ammo_cells
+ 47:03 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 47:05 Item: 2 ammo_slugs
+ 47:05 Item: 2 ammo_cells
+ 47:06 Kill: 3 1 3: Baba O'Riley killed Collector by MOD_MACHINEGUN
+ 47:07 Item: 3 weapon_railgun
+ 47:07 Item: 2 weapon_plasmagun
+ 47:10 Kill: 2 3 8: None killed Baba O'Riley by MOD_PLASMA
+ 47:11 Item: 1 ammo_slugs
+ 47:11 Item: 1 ammo_cells
+ 47:12 Item: 3 ammo_slugs
+ 47:12 Item: 3 ammo_cells
+ 47:13 Kill: 1 2 3: Collector killed None by MOD_MACHINEGUN
+ 47:13 Item: 1 weapon_railgun
+ 47:14 Item: 3 item_armor_combat
+ 47:15 Item: 2 ammo_slugs
+ 47:15 Item: 2 ammo_cells
+ 47:15 Item: 3 weapon_plasmagun
+ 47:21 Item: 2 item_health
+ 47:23 Item: 2 ammo_rockets
+ 47:23 Item: 3 item_armor_body
+ 47:23 Item: 1 item_health
+ 47:28 Kill: 3 2 2: Baba O'Riley killed None by MOD_GAUNTLET
+ 47:30 Item: 2 ammo_slugs
+ 47:30 Item: 2 ammo_cells
+ 47:31 Kill: 1 3 2: Collector killed Baba O'Riley by MOD_GAUNTLET
+ 47:33 Item: 3 ammo_slugs
+ 47:33 Item: 3 ammo_cells
+ 47:35 Item: 3 weapon_plasmagun
+ 47:38 Kill: 2 1 3: None killed Collector by MOD_MACHINEGUN
+ 47:40 Item: 1 ammo_slugs
+ 47:40 Item: 1 ammo_cells
+ 47:44 Item: 2 weapon_rocketlauncher
+ 47:44 Item: 1 item_armor_shard
+ 47:44 Item: 1 item_armor_shard
+ 47:48 Item: 2 weapon_plasmagun
+ 47:49 Kill: 3 2 8: Baba O'Riley killed None by MOD_PLASMA
+ 47:51 Item: 2 ammo_slugs
+ 47:51 Item: 2 ammo_cells
+ 47:51 Item: 1 item_armor_combat
+ 47:52 Item: 1 weapon_plasmagun
+ 47:52 Item: 3 weapon_rocketlauncher
+ 47:58 Kill: 3 1 6: Baba O'Riley killed Collector by MOD_ROCKET
+ 47:59 Item: 3 weapon_plasmagun
+ 47:59 Item: 3 weapon_rocketlauncher
+ 48:00 Item: 1 ammo_slugs
+ 48:00 Item: 1 ammo_cells
+ 48:01 Item: 1 ammo_cells
+ 48:03 Item: 1 item_enviro
+ 48:03 Item: 3 weapon_plasmagun
+ 48:07 Kill: 3 2 8: Baba O'Riley killed None by MOD_PLASMA
+ 48:07 Item: 1 weapon_railgun
+ 48:08 Item: 2 ammo_slugs
+ 48:08 Item: 2 ammo_cells
+ 48:10 Item: 3 item_health
+ 48:10 Item: 2 weapon_plasmagun
+ 48:14 Item: 1 weapon_plasmagun
+ 48:15 Kill: 2 1 8: None killed Collector by MOD_PLASMA
+ 48:16 Item: 3 weapon_plasmagun
+ 48:16 Item: 2 weapon_plasmagun
+ 48:16 Item: 2 item_enviro
+ 48:17 Item: 1 ammo_slugs
+ 48:17 Item: 1 ammo_cells
+ 48:17 Item: 3 item_armor_combat
+ 48:18 Item: 2 weapon_rocketlauncher
+ 48:20 Kill: 2 3 7: None killed Baba O'Riley by MOD_ROCKET_SPLASH
+ 48:21 Item: 2 weapon_plasmagun
+ 48:22 Item: 3 ammo_slugs
+ 48:22 Item: 3 ammo_cells
+ 48:24 Item: 1 weapon_plasmagun
+ 48:31 Item: 1 item_health_large
+ 48:35 Kill: 1 2 3: Collector killed None by MOD_MACHINEGUN
+ 48:36 Item: 3 weapon_plasmagun
+ 48:36 Item: 1 weapon_plasmagun
+ 48:37 Item: 2 ammo_slugs
+ 48:37 Item: 2 ammo_cells
+ 48:42 Item: 3 ammo_cells
+ 48:42 Item: 1 item_armor_combat
+ 48:44 Item: 3 item_armor_shard
+ 48:45 Item: 3 item_armor_shard
+ 48:45 Item: 3 item_armor_shard
+ 48:45 Item: 3 item_armor_shard
+ 48:50 Item: 2 weapon_plasmagun
+ 48:53 Item: 2 weapon_rocketlauncher
+ 48:54 Kill: 1022 3 22: <world> killed Baba O'Riley by MOD_TRIGGER_HURT
+ 48:55 Item: 1 item_health
+ 49:01 say: Baba O'Riley: i pressed 'reload'
+ 49:06 Item: 2 item_health
+ 49:07 Item: 2 item_armor_body
+ 49:08 Item: 2 ammo_rockets
+ 49:11 Item: 1 weapon_railgun
+ 49:15 Item: 3 ammo_slugs
+ 49:15 Item: 3 ammo_cells
+ 49:16 Item: 3 ammo_cells
+ 49:17 say: Collector: did it work? :)
+ 49:18 Item: 2 item_health_large
+ 49:19 Item: 1 weapon_railgun
+ 49:20 Kill: 1 3 10: Collector killed Baba O'Riley by MOD_RAILGUN
+ 49:22 Item: 3 ammo_slugs
+ 49:22 Item: 3 ammo_cells
+ 49:23 Item: 3 weapon_plasmagun
+ 49:24 Item: 3 item_armor_combat
+ 49:27 Item: 2 weapon_railgun
+ 49:28 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 49:30 Item: 2 ammo_slugs
+ 49:30 Item: 2 ammo_cells
+ 49:32 Item: 1 weapon_railgun
+ 49:33 Item: 1 weapon_railgun
+ 49:35 Item: 2 weapon_rocketlauncher
+ 49:38 Item: 1 weapon_plasmagun
+ 49:38 Item: 1 item_health_large
+ 49:39 Item: 3 item_armor_body
+ 49:43 Item: 2 weapon_railgun
+ 49:44 Item: 3 weapon_plasmagun
+ 49:46 Item: 3 weapon_rocketlauncher
+ 49:47 Exit: Timelimit hit.
+ 49:47 score: 16  ping: 28  client: 2 None
+ 49:47 score: 15  ping: 48  client: 1 Collector
+ 49:47 score: 1  ping: 21  client: 3 Baba O'Riley
+ 49:57 say: Collector: ufff
+ 50:03 ShutdownGame:
+ 50:03 ------------------------------------------------------------
+ 50:03 ------------------------------------------------------------
+ 50:03 InitGame: \dmflags\0\fraglimit\30\timelimit\25\sv_hostname\malina\sv_maxclients\8\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3tourney3\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+ 50:03 ClientConnect: 1
+ 50:03 ClientUserinfoChanged: 1 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 50:03 Item: 1 ammo_slugs
+ 50:03 Item: 1 ammo_cells
+ 50:03 ClientBegin: 1
+ 50:03 ClientConnect: 2
+ 50:03 ClientUserinfoChanged: 2 n\None\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 50:03 Item: 2 ammo_slugs
+ 50:03 Item: 2 ammo_cells
+ 50:03 ClientBegin: 2
+ 50:03 ClientConnect: 3
+ 50:03 ClientUserinfoChanged: 3 n\Baba O'Riley\t\0\model\bones/bones\hmodel\bones/bones\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 50:03 Item: 3 ammo_slugs
+ 50:03 Item: 3 ammo_cells
+ 50:03 ClientBegin: 3
+ 50:07 say: Collector: ok, i guess, i had enough today
+ 50:09 say: None: last one serious ?
+ 50:15 say: Collector: ok
+ 50:18 say: Baba O'Riley: meh
+ 50:21 Item: 1 weapon_railgun
+ 50:25 Item: 2 weapon_plasmagun
+ 50:26 Item: 2 item_armor_combat
+ 50:29 Item: 2 weapon_rocketlauncher
+ 50:29 Item: 1 weapon_railgun
+ 50:30 ClientDisconnect: 3
+ 50:34 Item: 1 weapon_rocketlauncher
+ 50:39 Item: 1 item_armor_body
+ 50:40 Item: 1 item_health
+ 50:42 Item: 2 weapon_plasmagun
+ 50:44 Item: 1 item_enviro
+ 50:45 Item: 2 weapon_rocketlauncher
+ 50:46 Item: 1 item_armor_shard
+ 50:46 Item: 1 item_armor_shard
+ 50:46 Item: 1 item_armor_shard
+ 50:51 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 50:53 Item: 1 weapon_rocketlauncher
+ 50:54 Item: 1 item_health_large
+ 50:55 Item: 2 ammo_slugs
+ 50:55 Item: 2 ammo_cells
+ 51:03 Kill: 1 2 7: Collector killed None by MOD_ROCKET_SPLASH
+ 51:04 Item: 2 ammo_slugs
+ 51:04 Item: 2 ammo_cells
+ 51:06 Item: 1 weapon_railgun
+ 51:08 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 51:10 Item: 2 ammo_slugs
+ 51:10 Item: 2 ammo_cells
+ 51:14 Item: 1 item_armor_shard
+ 51:14 Item: 2 weapon_plasmagun
+ 51:16 Item: 2 item_health_large
+ 51:17 Kill: 1 2 7: Collector killed None by MOD_ROCKET_SPLASH
+ 51:17 Item: 1 weapon_plasmagun
+ 51:18 Item: 2 ammo_slugs
+ 51:18 Item: 2 ammo_cells
+ 51:20 Item: 1 item_armor_combat
+ 51:27 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 51:29 Item: 2 ammo_slugs
+ 51:29 Item: 2 ammo_cells
+ 51:29 Item: 1 weapon_railgun
+ 51:32 Item: 2 ammo_cells
+ 51:35 Kill: 1 2 7: Collector killed None by MOD_ROCKET_SPLASH
+ 51:37 Item: 2 ammo_slugs
+ 51:37 Item: 2 ammo_cells
+ 51:41 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 51:43 Item: 2 ammo_slugs
+ 51:43 Item: 2 ammo_cells
+ 51:44 Item: 1 item_health_large
+ 51:48 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 51:50 Item: 2 ammo_slugs
+ 51:50 Item: 2 ammo_cells
+ 51:51 Item: 2 weapon_plasmagun
+ 51:52 Item: 2 item_armor_combat
+ 51:52 Item: 1 weapon_railgun
+ 51:56 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 52:01 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 52:03 Item: 1 ammo_slugs
+ 52:03 Item: 1 ammo_cells
+ 52:03 Item: 2 ammo_slugs
+ 52:03 Item: 2 ammo_cells
+ 52:05 Item: 1 item_armor_shard
+ 52:10 Item: 1 weapon_railgun
+ 52:13 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 52:16 Item: 2 ammo_slugs
+ 52:16 Item: 2 ammo_cells
+ 52:21 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 52:22 Item: 1 weapon_railgun
+ 52:23 Item: 2 ammo_slugs
+ 52:23 Item: 2 ammo_cells
+ 52:24 Item: 2 weapon_plasmagun
+ 52:24 Item: 1 item_armor_shard
+ 52:24 Item: 1 item_armor_shard
+ 52:24 Item: 1 item_armor_shard
+ 52:24 Item: 2 item_armor_combat
+ 52:27 Item: 1 item_health_large
+ 52:30 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 52:32 Item: 2 ammo_slugs
+ 52:32 Item: 2 ammo_cells
+ 52:32 Item: 1 weapon_rocketlauncher
+ 52:35 Item: 1 item_armor_shard
+ 52:38 Item: 2 weapon_rocketlauncher
+ 52:45 Item: 2 weapon_railgun
+ 52:47 Item: 2 ammo_cells
+ 52:49 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 52:50 Item: 1 weapon_railgun
+ 52:50 Item: 2 ammo_slugs
+ 52:50 Item: 2 ammo_cells
+ 52:52 Item: 1 weapon_railgun
+ 52:53 Item: 1 item_enviro
+ 52:56 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 52:58 Item: 1 weapon_railgun
+ 52:59 Item: 2 ammo_slugs
+ 52:59 Item: 2 ammo_cells
+ 53:04 Item: 2 weapon_plasmagun
+ 53:07 Item: 2 weapon_rocketlauncher
+ 53:11 say: None: pc
+ 53:19 say: Collector: pc?
+ 53:19 say: None: is restarting auto in few seconds
+ 53:27 say: None: thales update :D
+ 53:31 say: Collector: :)
+ 53:36 say: None: i may quit anytime
+ 53:39 Item: 2 weapon_railgun
+ 53:41 say: Collector: ok
+ 53:47 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 53:48 Item: 1 weapon_railgun
+ 53:49 Item: 2 ammo_slugs
+ 53:49 Item: 2 ammo_cells
+ 53:50 Item: 1 weapon_railgun
+ 53:52 Item: 1 item_armor_shard
+ 53:52 Item: 1 item_armor_shard
+ 53:52 Item: 1 item_armor_shard
+ 53:52 Item: 1 item_armor_shard
+ 53:54 Item: 2 weapon_plasmagun
+ 54:01 Item: 2 weapon_railgun
+ 54:02 Item: 1 item_armor_body
+ 54:04 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 54:06 Item: 2 ammo_slugs
+ 54:06 Item: 2 ammo_cells
+ 54:08 Item: 2 ammo_cells
+ 54:11 Item: 2 weapon_railgun
+ 54:13 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 54:15 Item: 2 ammo_slugs
+ 54:15 Item: 2 ammo_cells
+ 54:20 Item: 2 weapon_railgun
+ 54:21 Item: 2 item_armor_shard
+ 54:22 Item: 2 item_armor_shard
+ 54:22 Item: 2 item_armor_shard
+ 54:24 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 54:25 Item: 1 weapon_railgun
+ 54:27 Item: 2 ammo_slugs
+ 54:27 Item: 2 ammo_cells
+ 54:27 Item: 1 weapon_railgun
+ 54:32 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 54:36 say: None: wtg
+ 54:38 Item: 1 weapon_railgun
+ 54:39 say: None: wtf
+ 54:41 Item: 2 ammo_slugs
+ 54:41 Item: 2 ammo_cells
+ 54:46 Item: 2 weapon_railgun
+ 54:46 say: Collector: :)
+ 54:53 Item: 1 weapon_railgun
+ 54:59 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 55:00 Item: 1 weapon_railgun
+ 55:01 Item: 2 ammo_slugs
+ 55:01 Item: 2 ammo_cells
+ 55:07 Item: 2 weapon_plasmagun
+ 55:07 Item: 1 item_enviro
+ 55:07 Item: 2 item_armor_combat
+ 55:09 Item: 1 item_health_large
+ 55:10 Item: 2 weapon_rocketlauncher
+ 55:17 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 55:19 Item: 2 ammo_slugs
+ 55:19 Item: 2 ammo_cells
+ 55:24 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 55:25 Item: 2 ammo_slugs
+ 55:25 Item: 2 ammo_cells
+ 55:28 say: Collector: what>
+ 55:29 Item: 2 weapon_railgun
+ 55:34 Item: 2 ammo_cells
+ 55:37 Kill: 2 1 10: None killed Collector by MOD_RAILGUN
+ 55:39 Item: 2 weapon_railgun
+ 55:39 Item: 1 ammo_slugs
+ 55:39 Item: 1 ammo_cells
+ 55:42 Item: 1 weapon_railgun
+ 55:47 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 55:49 Item: 1 item_armor_shard
+ 55:49 Item: 1 item_armor_shard
+ 55:49 Item: 1 item_armor_shard
+ 55:49 Item: 1 item_armor_shard
+ 55:49 Item: 2 ammo_slugs
+ 55:49 Item: 2 ammo_cells
+ 55:54 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 55:55 Item: 2 ammo_slugs
+ 55:55 Item: 2 ammo_cells
+ 56:00 Item: 2 weapon_railgun
+ 56:04 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 56:06 Item: 2 ammo_slugs
+ 56:06 Item: 2 ammo_cells
+ 56:06 Item: 1 weapon_railgun
+ 56:08 Item: 1 weapon_railgun
+ 56:18 Item: 1 item_health
+ 56:20 Item: 2 weapon_railgun
+ 56:29 Item: 2 ammo_cells
+ 56:33 Item: 1 weapon_railgun
+ 56:37 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 56:38 Item: 1 weapon_railgun
+ 56:39 Item: 2 ammo_slugs
+ 56:39 Item: 2 ammo_cells
+ 56:42 Item: 1 weapon_railgun
+ 56:43 Item: 2 item_armor_shard
+ 56:43 Item: 2 item_armor_shard
+ 56:43 Item: 2 item_armor_shard
+ 56:43 Item: 2 item_armor_shard
+ 56:48 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 56:50 Item: 2 ammo_slugs
+ 56:50 Item: 2 ammo_cells
+ 56:54 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 56:56 Item: 2 weapon_railgun
+ 56:56 Item: 1 ammo_slugs
+ 56:56 Item: 1 ammo_cells
+ 57:00 Item: 1 item_armor_combat
+ 57:01 Item: 2 weapon_railgun
+ 57:02 Item: 1 weapon_rocketlauncher
+ 57:06 Item: 2 weapon_railgun
+ 57:10 Kill: 1 2 7: Collector killed None by MOD_ROCKET_SPLASH
+ 57:11 Item: 1 weapon_railgun
+ 57:12 Item: 2 ammo_slugs
+ 57:12 Item: 2 ammo_cells
+ 57:13 Item: 1 weapon_railgun
+ 57:21 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 57:22 Item: 1 weapon_railgun
+ 57:22 Item: 2 ammo_slugs
+ 57:22 Item: 2 ammo_cells
+ 57:26 Item: 1 item_armor_combat
+ 57:27 Item: 1 weapon_plasmagun
+ 57:27 Item: 2 item_enviro
+ 57:29 Item: 2 item_armor_body
+ 57:29 Item: 1 weapon_rocketlauncher
+ 57:34 Item: 1 item_health_large
+ 57:40 Item: 1 item_health
+ 57:42 Item: 2 weapon_railgun
+ 57:48 Item: 2 item_armor_shard
+ 57:49 Item: 2 item_armor_shard
+ 57:49 Item: 2 item_armor_shard
+ 57:50 Item: 2 item_armor_shard
+ 58:00 Kill: 1 2 10: Collector killed None by MOD_RAILGUN
+ 58:01 Item: 1 weapon_railgun
+ 58:02 Item: 2 ammo_slugs
+ 58:02 Item: 2 ammo_cells
+ 58:06 Item: 1 item_health
+ 58:08 Item: 2 weapon_rocketlauncher
+ 58:12 Item: 1 item_health_large
+ 58:15 Kill: 2 1 7: None killed Collector by MOD_ROCKET_SPLASH
+ 58:15 Item: 2 item_armor_shard
+ 58:15 Item: 2 item_armor_shard
+ 58:15 Item: 2 item_armor_shard
+ 58:22 Item: 2 item_armor_body
+ 58:25 say: Collector: fuck, hearth attack
+ 58:30 say: None: :d
+ 58:31 say: Collector: my wife dropped plate :)
+ 58:34 Item: 1 ammo_slugs
+ 58:34 Item: 1 ammo_cells
+ 58:35 Item: 1 ammo_cells
+ 58:36 say: None: LETS LEAVE
+ 58:38 Item: 1 weapon_railgun
+ 58:40 say: None: thx
+ 58:43 say: Collector: ok
+ 58:46 say: Collector: thx
+ 58:47 say: Collector: cu
+ 58:48 say: None: ludek forking hard
+ 58:50 say: None: c ya
+ 58:57 Kill: 1022 1 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 58:59 Kill: 1022 2 22: <world> killed None by MOD_TRIGGER_HURT
+ 59:00 ClientDisconnect: 1
+ 59:04 ClientDisconnect: 2
+ 75:03 Exit: Timelimit hit.
+594:39 ShutdownGame:
+594:39 ------------------------------------------------------------

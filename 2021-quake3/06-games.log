@@ -1,0 +1,356 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \dmflags\0\fraglimit\30\timelimit\25\sv_hostname\malina\sv_maxclients\8\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3tourney3\sv_privateClients\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+ 25:00 Exit: Timelimit hit.
+ 38:25 ClientConnect: 0
+ 38:25 ClientUserinfoChanged: 0 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 38:26 ClientUserinfoChanged: 0 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 38:26 ClientBegin: 0
+ 38:29 ShutdownGame:
+ 38:29 ------------------------------------------------------------
+ 38:29 ------------------------------------------------------------
+ 38:29 InitGame: \dmflags\0\fraglimit\30\timelimit\25\sv_hostname\malina\sv_maxclients\8\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3tourney3\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+ 38:29 ClientConnect: 0
+ 38:29 ClientUserinfoChanged: 0 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 38:29 Item: 0 ammo_slugs
+ 38:29 Item: 0 ammo_cells
+ 38:29 ClientBegin: 0
+ 38:46 ClientDisconnect: 0
+ 52:38 ClientConnect: 0
+ 52:38 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 52:42 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 52:42 Item: 0 ammo_slugs
+ 52:42 Item: 0 ammo_cells
+ 52:42 ClientBegin: 0
+ 52:49 say: Collector: name
+ 53:00 ClientUserinfoChanged: 0 n\network_master\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 54:27 ClientUserinfoChanged: 0 n\master-blaster\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 54:35 Item: 0 ammo_cells
+ 54:58 ClientConnect: 1
+ 54:58 ClientUserinfoChanged: 1 n\^4anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 55:00 ClientUserinfoChanged: 1 n\^4anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 55:00 Item: 1 ammo_slugs
+ 55:00 Item: 1 ammo_cells
+ 55:00 ClientBegin: 1
+ 55:15 Item: 0 ammo_cells
+ 56:25 ClientDisconnect: 1
+ 56:32 Item: 0 item_enviro
+ 56:48 Kill: 1022 0 22: <world> killed master-blaster by MOD_TRIGGER_HURT
+ 56:50 Item: 0 ammo_slugs
+ 56:50 Item: 0 ammo_cells
+ 56:55 Item: 0 ammo_cells
+ 57:09 ClientUserinfoChanged: 0 n\doktor-z-hor\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 57:13 ClientConnect: 1
+ 57:13 ClientUserinfoChanged: 1 n\Bruno\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 57:23 ClientConnect: 2
+ 57:23 ClientUserinfoChanged: 2 n\^4anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 57:24 ClientUserinfoChanged: 2 n\^4anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 57:24 Item: 2 ammo_slugs
+ 57:24 Item: 2 ammo_cells
+ 57:24 ClientBegin: 2
+ 57:30 Item: 0 weapon_railgun
+ 57:38 Kill: 1022 0 22: <world> killed doktor-z-hor by MOD_TRIGGER_HURT
+ 57:40 Item: 0 ammo_slugs
+ 57:40 Item: 0 ammo_cells
+ 57:43 Item: 2 item_armor_body
+ 57:46 Item: 2 weapon_rocketlauncher
+ 57:48 Item: 2 item_armor_combat
+ 57:53 Item: 0 weapon_railgun
+ 57:53 ClientUserinfoChanged: 1 n\Bruno\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 57:53 Item: 1 ammo_slugs
+ 57:53 Item: 1 ammo_cells
+ 57:53 ClientBegin: 1
+ 57:58 Item: 0 weapon_plasmagun
+ 58:02 Item: 0 item_armor_shard
+ 58:02 Item: 0 item_armor_shard
+ 58:03 Item: 0 item_armor_shard
+ 58:03 Item: 0 item_armor_shard
+ 58:04 Item: 2 weapon_rocketlauncher
+ 58:08 Item: 2 weapon_plasmagun
+ 58:09 Item: 1 ammo_cells
+ 58:10 Item: 2 weapon_rocketlauncher
+ 58:12 Item: 2 item_health_large
+ 58:14 Kill: 0 2 10: doktor-z-hor killed ^4anomen by MOD_RAILGUN
+ 58:16 Item: 0 weapon_railgun
+ 58:16 Item: 2 ammo_slugs
+ 58:16 Item: 2 ammo_cells
+ 58:17 Item: 2 item_armor_body
+ 58:18 Item: 0 item_health_large
+ 58:21 Item: 0 weapon_plasmagun
+ 58:22 Item: 0 item_armor_combat
+ 58:22 Item: 2 weapon_railgun
+ 58:25 Item: 2 weapon_rocketlauncher
+ 58:30 Kill: 2 1 10: ^4anomen killed Bruno by MOD_RAILGUN
+ 58:32 Item: 2 weapon_plasmagun
+ 58:33 Item: 0 weapon_railgun
+ 58:34 Item: 2 weapon_rocketlauncher
+ 58:34 Item: 1 ammo_slugs
+ 58:34 Item: 1 ammo_cells
+ 58:36 Item: 1 weapon_plasmagun
+ 58:38 Item: 2 item_enviro
+ 58:40 Item: 0 item_armor_shard
+ 58:40 Item: 0 item_armor_shard
+ 58:40 Item: 0 item_armor_shard
+ 58:40 Item: 0 item_armor_shard
+ 58:40 Item: 2 item_health
+ 58:41 Item: 1 weapon_plasmagun
+ 58:47 Item: 2 ammo_cells
+ 58:51 Item: 1 weapon_plasmagun
+ 58:54 Item: 1 weapon_rocketlauncher
+ 58:56 Item: 1 item_armor_combat
+ 58:59 Item: 0 item_armor_body
+ 58:59 Item: 2 weapon_railgun
+ 59:04 Item: 2 item_health
+ 59:14 Item: 1 weapon_railgun
+ 59:16 Item: 0 weapon_rocketlauncher
+ 59:18 Item: 1 item_health
+ 59:18 Item: 2 weapon_plasmagun
+ 59:20 Item: 1 ammo_rockets
+ 59:23 Item: 2 item_armor_combat
+ 59:24 Item: 0 weapon_railgun
+ 59:28 Item: 1 ammo_cells
+ 59:29 Item: 2 weapon_railgun
+ 59:30 Kill: 2 1 7: ^4anomen killed Bruno by MOD_ROCKET_SPLASH
+ 59:31 Item: 2 weapon_rocketlauncher
+ 59:32 Item: 2 item_armor_shard
+ 59:32 Item: 2 item_armor_shard
+ 59:32 Item: 2 item_armor_shard
+ 59:35 Item: 1 ammo_slugs
+ 59:35 Item: 1 ammo_cells
+ 59:35 Item: 2 item_health_large
+ 59:36 Item: 1 weapon_plasmagun
+ 59:38 Item: 0 item_armor_body
+ 59:38 Item: 2 weapon_rocketlauncher
+ 59:40 Item: 0 item_health
+ 59:45 Kill: 0 2 10: doktor-z-hor killed ^4anomen by MOD_RAILGUN
+ 59:47 Item: 2 ammo_slugs
+ 59:47 Item: 2 ammo_cells
+ 59:48 Item: 2 weapon_plasmagun
+ 59:48 Item: 1 weapon_railgun
+ 59:49 Item: 1 weapon_railgun
+ 59:50 Item: 2 weapon_rocketlauncher
+ 59:53 Item: 2 weapon_plasmagun
+ 59:54 Item: 0 weapon_railgun
+ 59:56 Item: 1 weapon_rocketlauncher
+ 59:59 Item: 2 weapon_railgun
+ 60:00 Item: 1 item_armor_shard
+ 60:00 Item: 1 item_armor_shard
+ 60:01 Item: 1 item_armor_shard
+ 60:01 Item: 1 item_armor_shard
+ 60:04 Item: 1 weapon_railgun
+ 60:05 Item: 2 item_armor_combat
+ 60:09 ClientConnect: 3
+ 60:09 ClientUserinfoChanged: 3 n\None\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 60:10 Item: 0 ammo_cells
+ 60:11 ClientUserinfoChanged: 3 n\None\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 60:11 Item: 3 ammo_slugs
+ 60:11 Item: 3 ammo_cells
+ 60:11 ClientBegin: 3
+ 60:11 Item: 2 weapon_railgun
+ 60:16 Item: 0 item_health_large
+ 60:16 Kill: 2 1 10: ^4anomen killed Bruno by MOD_RAILGUN
+ 60:17 Item: 3 weapon_railgun
+ 60:18 Item: 2 weapon_railgun
+ 60:20 Item: 1 ammo_slugs
+ 60:20 Item: 1 ammo_cells
+ 60:24 Item: 1 weapon_plasmagun
+ 60:26 Item: 0 item_health
+ 60:27 Item: 3 item_health_large
+ 60:27 Item: 0 item_armor_body
+ 60:28 Item: 1 weapon_rocketlauncher
+ 60:28 Kill: 2 3 10: ^4anomen killed None by MOD_RAILGUN
+ 60:30 Item: 2 weapon_railgun
+ 60:30 Item: 1 weapon_plasmagun
+ 60:30 Item: 3 ammo_slugs
+ 60:30 Item: 3 ammo_cells
+ 60:31 Item: 2 weapon_railgun
+ 60:32 Item: 0 ammo_cells
+ 60:34 Item: 3 item_armor_shard
+ 60:34 Item: 3 item_armor_shard
+ 60:36 Kill: 1022 1 22: <world> killed Bruno by MOD_TRIGGER_HURT
+ 60:36 Item: 3 weapon_plasmagun
+ 60:38 Item: 1 ammo_slugs
+ 60:38 Item: 1 ammo_cells
+ 60:38 Kill: 0 2 10: doktor-z-hor killed ^4anomen by MOD_RAILGUN
+ 60:40 Item: 0 weapon_railgun
+ 60:40 Item: 3 weapon_rocketlauncher
+ 60:40 Item: 2 ammo_slugs
+ 60:40 Item: 2 ammo_cells
+ 60:43 Item: 3 weapon_plasmagun
+ 60:44 Item: 2 item_enviro
+ 60:46 Item: 2 weapon_rocketlauncher
+ 60:48 Item: 1 weapon_railgun
+ 60:49 Item: 3 item_armor_combat
+ 60:51 Item: 2 weapon_rocketlauncher
+ 60:52 Item: 0 ammo_rockets
+ 60:52 Item: 1 item_health
+ 60:53 Item: 2 weapon_plasmagun
+ 60:54 Kill: 0 1 6: doktor-z-hor killed Bruno by MOD_ROCKET
+ 60:55 Item: 0 weapon_railgun
+ 60:56 Item: 3 item_armor_body
+ 60:57 Item: 1 ammo_slugs
+ 60:57 Item: 1 ammo_cells
+ 61:02 Item: 2 item_health
+ 61:06 Item: 2 ammo_cells
+ 61:08 Item: 0 weapon_plasmagun
+ 61:09 Item: 1 weapon_rocketlauncher
+ 61:10 Item: 3 item_health_large
+ 61:10 Item: 2 item_health_large
+ 61:11 Item: 1 weapon_plasmagun
+ 61:16 Item: 3 item_armor_shard
+ 61:16 Item: 2 weapon_rocketlauncher
+ 61:16 Item: 3 item_armor_shard
+ 61:16 Item: 3 item_armor_shard
+ 61:16 Item: 3 item_armor_shard
+ 61:19 Item: 2 weapon_plasmagun
+ 61:19 Item: 1 weapon_plasmagun
+ 61:20 Item: 2 item_armor_combat
+ 61:21 Item: 1 weapon_rocketlauncher
+ 61:25 Item: 3 weapon_plasmagun
+ 61:27 Kill: 1 3 7: Bruno killed None by MOD_ROCKET_SPLASH
+ 61:28 Kill: 2 1 7: ^4anomen killed Bruno by MOD_ROCKET_SPLASH
+ 61:29 Item: 0 weapon_plasmagun
+ 61:29 Item: 3 ammo_slugs
+ 61:29 Item: 3 ammo_cells
+ 61:29 Item: 2 weapon_rocketlauncher
+ 61:31 Item: 1 ammo_slugs
+ 61:31 Item: 1 ammo_cells
+ 61:31 Item: 0 weapon_rocketlauncher
+ 61:37 Item: 0 item_armor_body
+ 61:38 Item: 1 weapon_plasmagun
+ 61:38 Item: 0 ammo_rockets
+ 61:40 Item: 0 item_health
+ 61:44 Item: 2 weapon_rocketlauncher
+ 61:44 Item: 1 weapon_plasmagun
+ 61:47 Item: 2 weapon_plasmagun
+ 61:48 Item: 2 item_armor_combat
+ 61:48 Item: 3 item_health_large
+ 61:48 Item: 1 item_health_large
+ 61:50 Item: 3 ammo_cells
+ 61:52 Item: 0 item_armor_shard
+ 61:52 Item: 0 item_armor_shard
+ 61:53 Item: 1 weapon_plasmagun
+ 61:58 Item: 0 ammo_cells
+ 61:58 Kill: 1022 3 22: <world> killed None by MOD_TRIGGER_HURT
+ 62:00 Item: 3 ammo_slugs
+ 62:00 Item: 3 ammo_cells
+ 62:03 Item: 2 item_health
+ 62:04 Item: 2 item_armor_body
+ 62:04 Item: 1 item_armor_shard
+ 62:04 Item: 1 item_armor_shard
+ 62:05 Item: 3 weapon_plasmagun
+ 62:06 Item: 0 weapon_rocketlauncher
+ 62:11 Kill: 3 1 8: None killed Bruno by MOD_PLASMA
+ 62:12 Item: 3 weapon_plasmagun
+ 62:12 Kill: 0 3 6: doktor-z-hor killed None by MOD_ROCKET
+ 62:12 Item: 0 weapon_plasmagun
+ 62:14 Item: 1 ammo_slugs
+ 62:14 Item: 1 ammo_cells
+ 62:14 Item: 3 ammo_slugs
+ 62:14 Item: 3 ammo_cells
+ 62:15 Item: 0 item_armor_combat
+ 62:15 Item: 2 weapon_rocketlauncher
+ 62:19 Item: 3 weapon_plasmagun
+ 62:21 Item: 1 weapon_railgun
+ 62:22 Item: 3 weapon_rocketlauncher
+ 62:24 Item: 3 weapon_plasmagun
+ 62:26 Item: 2 weapon_plasmagun
+ 62:28 Item: 3 item_health_large
+ 62:28 Item: 2 weapon_rocketlauncher
+ 62:30 Item: 1 weapon_railgun
+ 62:31 Item: 0 item_armor_body
+ 62:32 Item: 0 ammo_rockets
+ 62:34 Item: 2 weapon_plasmagun
+ 62:36 Item: 1 weapon_plasmagun
+ 62:38 Item: 1 weapon_rocketlauncher
+ 62:39 Item: 3 ammo_cells
+ 62:39 Item: 0 item_health_large
+ 62:42 Kill: 0 3 7: doktor-z-hor killed None by MOD_ROCKET_SPLASH
+ 62:43 Item: 1 weapon_rocketlauncher
+ 62:44 Item: 3 ammo_slugs
+ 62:44 Item: 3 ammo_cells
+ 62:44 Item: 3 item_armor_combat
+ 62:45 Item: 0 item_health
+ 62:45 Item: 2 item_health
+ 62:48 Item: 3 weapon_plasmagun
+ 62:50 Item: 1 weapon_rocketlauncher
+ 62:50 Item: 0 item_enviro
+ 62:54 Item: 2 weapon_railgun
+ 62:56 Item: 1 ammo_cells
+ 62:59 Item: 2 weapon_plasmagun
+ 62:59 Kill: 1022 3 22: <world> killed None by MOD_TRIGGER_HURT
+ 63:01 Item: 3 ammo_slugs
+ 63:01 Item: 3 ammo_cells
+ 63:01 Item: 2 weapon_rocketlauncher
+ 63:02 Item: 3 weapon_plasmagun
+ 63:03 Item: 1 item_armor_body
+ 63:05 Kill: 0 2 9: doktor-z-hor killed ^4anomen by MOD_PLASMA_SPLASH
+ 63:07 Item: 3 weapon_plasmagun
+ 63:07 Item: 0 weapon_rocketlauncher
+ 63:07 Item: 2 ammo_slugs
+ 63:07 Item: 2 ammo_cells
+ 63:10 Item: 2 item_armor_combat
+ 63:10 Item: 3 weapon_rocketlauncher
+ 63:11 Item: 3 weapon_plasmagun
+ 63:14 Item: 0 item_armor_shard
+ 63:14 Item: 0 item_armor_shard
+ 63:14 Item: 0 item_armor_shard
+ 63:15 Item: 0 item_armor_shard
+ 63:15 Item: 2 weapon_plasmagun
+ 63:17 Item: 2 weapon_rocketlauncher
+ 63:21 Kill: 0 2 7: doktor-z-hor killed ^4anomen by MOD_ROCKET_SPLASH
+ 63:22 Item: 0 weapon_plasmagun
+ 63:22 Item: 2 ammo_slugs
+ 63:22 Item: 2 ammo_cells
+ 63:23 Item: 1 weapon_rocketlauncher
+ 63:26 Kill: 0 3 8: doktor-z-hor killed None by MOD_PLASMA
+ 63:26 Item: 1 weapon_rocketlauncher
+ 63:27 Item: 0 weapon_rocketlauncher
+ 63:27 Item: 0 ammo_cells
+ 63:28 Item: 3 ammo_slugs
+ 63:28 Item: 3 ammo_cells
+ 63:28 Item: 1 weapon_plasmagun
+ 63:29 Exit: Timelimit hit.
+ 63:29 score: 7  ping: 50  client: 0 doktor-z-hor
+ 63:29 score: 5  ping: 9  client: 2 ^4anomen
+ 63:29 score: 0  ping: 303  client: 1 Bruno
+ 63:29 score: -1  ping: 51  client: 3 None
+ 63:29 Item: 1 item_health_large
+ 63:30 Item: 0 item_health_large
+ 63:43 say: ^4anomen: say map?
+ 63:45 ShutdownGame:
+ 63:45 ------------------------------------------------------------
+ 63:45 ------------------------------------------------------------
+ 63:45 InitGame: \dmflags\0\fraglimit\30\timelimit\25\sv_hostname\malina\sv_maxclients\8\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3tourney3\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+ 63:45 ClientConnect: 0
+ 63:45 ClientUserinfoChanged: 0 n\doktor-z-hor\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 63:45 Item: 0 ammo_slugs
+ 63:45 Item: 0 ammo_cells
+ 63:45 ClientBegin: 0
+ 63:45 ClientConnect: 1
+ 63:45 ClientUserinfoChanged: 1 n\Bruno\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 63:45 Item: 1 ammo_slugs
+ 63:45 Item: 1 ammo_cells
+ 63:45 ClientBegin: 1
+ 63:45 ClientConnect: 2
+ 63:45 ClientUserinfoChanged: 2 n\^4anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 63:45 Item: 2 ammo_slugs
+ 63:45 Item: 2 ammo_cells
+ 63:45 ClientBegin: 2
+ 63:45 ClientConnect: 3
+ 63:45 ClientUserinfoChanged: 3 n\None\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 63:45 Item: 3 ammo_slugs
+ 63:45 Item: 3 ammo_cells
+ 63:45 ClientBegin: 3
+ 63:47 Item: 1 weapon_plasmagun
+ 63:48 Item: 1 item_armor_combat
+ 63:50 say: None: yes
+ 63:51 Item: 1 weapon_rocketlauncher
+ 63:54 say: doktor-z-hor: q3dm16 maybe
+ 63:55 Item: 3 item_armor_shard
+ 63:55 Item: 3 item_armor_shard
+ 63:58 Item: 3 weapon_plasmagun
+ 64:00 Item: 3 weapon_rocketlauncher
+ 64:07 Item: 3 ammo_cells
+ 64:20 ClientUserinfoChanged: 0 n\vincent\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 64:23 ShutdownGame:
+ 64:23 ------------------------------------------------------------
