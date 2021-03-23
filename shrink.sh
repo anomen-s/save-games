@@ -4,7 +4,7 @@
 W=800
 Q=90
 
-for FORMAT in bmp tga pcx
+for FORMAT in bmp tga pcx png
 do
  if ls *.$FORMAT > /dev/null 2> /dev/null
  then
