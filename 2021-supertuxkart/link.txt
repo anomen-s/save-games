@@ -1,1 +1,5 @@
-%HOME%\AppData\Roaming\supertuxkart\config-0.10
+windows:
+%APPDATA%\supertuxkart\config-0.10
+c:\Users\<User>\AppData\Roaming\supertuxkart\config-0.10
+
+linux:
