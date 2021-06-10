@@ -1,11 +1,11 @@
 # Alcatraz
 
-## návod
+## Návod
 
 ### Level 1
 * mina, kulomet, 2× power up (ve vchodu a v rohu za budovou)
 
-### Level 2 - Barracs
+### Level 2 - Barracks
 * úplně vlevo nahoře nebo prostřední blok, levý dolní vchod
 
 ### Level 3
