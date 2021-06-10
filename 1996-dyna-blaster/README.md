@@ -1,0 +1,92 @@
+# Dyna Blaster
+* <https://en.wikipedia.org/wiki/Bomberman_%281990_video_game%29>
+* <https://www.giantbomb.com/bomberman/3030-20589/>
+* <https://www.mobygames.com/game/bomberman>
+
+## 1 - bludiště
+
+1. UOCLMNNA
+1. UBFLIQVV
+1. MOOLOWTN
+1. MUKEOGCN
+1. UAYKOIEU
+1. UBFZOIVK
+1. MBOAHPAP
+1. UUYKHLEP
+
+## 2 - skály
+
+1. MWKEBTAK
+1. UORZWWEN
+1. UCRZVPEU
+1. UKCXWHVK
+1. MWVEBMAH
+1. UORZWBEN
+1. UXVKWHSG
+1. UWNKNNNH
+
+## 3 - řeka
+
+1. MCHAHTT
+1. UUGKHGEN
+1. -
+1. -
+1. MKAAOIEY
+1. MACEHMLC
+1. UKHZHHST
+1. MBAAHBZS
+
+## 4 - les
+
+1. UCCZVJZA
+1. -
+1. MCYNQVGP
+1. UCCHQIZN
+1. -
+1. UWOVQGHK
+1. UCFHQWPU
+1. UAYVQBPZ
+
+## 5 - hory
+
+1. MXKCTWLA
+1. UAOVIHPE
+1. -
+1. -
+1. MOANVGYN
+1. -
+1. -
+1. MWECWQTU
+
+## 6 - zámek
+
+1. -
+1. UAVVVMTE
+1. -
+1. MUWCPIHC
+1. MXWEMVNK
+1. MXCEMQPK
+1. UAVKQLKU
+1. MAEEIGHE
+
+##  7 - zámek
+
+1. MAEESLKN
+1. UWVKITNV
+1. UCHZIMKA
+1. UCZZILKE
+1. -
+1. UKHZMQNV
+1. UUGKMJKA
+1. MBAASGPU
+
+## 8  - zámek
+
+1. MUOEMMVC
+1. UBHOQBPV
+1. UWVFQHPT
+1. MANEQSNV
+1. MWNEQEHE
+1. UBFOVSGY
+1. UOAOWMLL
+1. MBCABIKC
