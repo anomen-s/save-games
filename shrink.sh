@@ -2,7 +2,7 @@
 
 
 W=800
-Q=90
+Q=80
 
 for FORMAT in bmp tga pcx png
 do
