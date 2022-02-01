@@ -1,0 +1,1 @@
+gzdoom NeuralUpscale2x_v0.95.pk3.zip -host %1 -warp %2 -skill 4 -deathmatch -nomonsters

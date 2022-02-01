@@ -1,0 +1,1 @@
+gzdoom NeuralUpscale2x_v0.95.pk3.zip -join 10.50.22.117:25000
