@@ -1,0 +1,3011 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\8\sv_hostname\malina\timelimit\25\fraglimit\30\dmflags\0\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3dm3\sv_privateClients\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  2:44 ClientConnect: 0
+  2:44 ClientUserinfoChanged: 0 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:45 ClientUserinfoChanged: 0 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:45 ClientBegin: 0
+  2:53 ClientDisconnect: 0
+  3:34 ClientConnect: 0
+  3:34 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  3:37 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  3:37 ClientBegin: 0
+  3:47 say: Collector: cus
+  4:25 ClientConnect: 1
+  4:25 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  4:25 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  4:25 ClientBegin: 1
+  4:31 say: ^6anomen: zdar
+  4:34 say: Collector: cus
+  4:44 say: Collector: jeste se pripoji jeden kamos
+  4:59 say: Collector: snad to ten tvuj server utahne :)
+  5:06 Item: 0 weapon_grenadelauncher
+  5:14 Item: 0 weapon_grenadelauncher
+  5:25 Item: 0 weapon_shotgun
+  5:34 Item: 1 weapon_rocketlauncher
+  5:38 Item: 0 weapon_shotgun
+  5:49 say: Collector: jdem 
+  5:52 Item: 1 weapon_plasmagun
+  5:54 say: Collector: na to
+  6:01 Item: 0 weapon_shotgun
+  6:05 Item: 1 ammo_shells
+  6:05 Item: 1 item_health
+  6:09 Item: 1 ammo_cells
+  6:13 Item: 1 ammo_shells
+  6:13 Item: 1 item_health
+  6:20 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+  6:22 Item: 0 weapon_plasmagun
+  6:23 Item: 0 item_health_large
+  6:27 Item: 1 weapon_shotgun
+  6:29 Item: 0 weapon_shotgun
+  6:29 ClientConnect: 2
+  6:29 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:30 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:30 ClientBegin: 2
+  6:31 Item: 1 weapon_grenadelauncher
+  6:34 Item: 0 item_health_large
+  6:36 Item: 1 weapon_shotgun
+  6:38 Item: 1 ammo_bullets
+  6:38 Item: 1 ammo_bullets
+  6:38 Item: 0 weapon_plasmagun
+  6:39 Item: 1 item_armor_shard
+  6:39 Item: 1 item_armor_shard
+  6:40 Item: 1 item_armor_shard
+  6:40 Item: 1 item_armor_shard
+  6:46 Item: 2 weapon_grenadelauncher
+  6:49 Item: 1 weapon_shotgun
+  6:50 Item: 0 ammo_cells
+  6:51 Item: 2 weapon_shotgun
+  6:57 Item: 1 weapon_grenadelauncher
+  6:58 Item: 0 weapon_plasmagun
+  7:02 Item: 2 weapon_shotgun
+  7:04 Item: 0 weapon_plasmagun
+  7:04 Item: 1 weapon_shotgun
+  7:06 Item: 2 weapon_grenadelauncher
+  7:08 Item: 1 item_armor_body
+  7:11 Item: 2 item_health
+  7:11 Item: 2 ammo_shells
+  7:14 Kill: 0 1 8: Collector killed ^6anomen by MOD_PLASMA
+  7:14 Item: 2 weapon_shotgun
+  7:15 Item: 0 ammo_shells
+  7:17 Item: 2 ammo_shells
+  7:18 Item: 0 weapon_shotgun
+  7:21 Item: 1 weapon_shotgun
+  7:22 Item: 0 weapon_rocketlauncher
+  7:27 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  7:30 Item: 1 weapon_shotgun
+  7:35 Item: 1 weapon_shotgun
+  7:35 Item: 1 weapon_plasmagun
+  7:39 Item: 0 weapon_shotgun
+  7:41 Kill: 1 2 1: ^6anomen killed Echo by MOD_SHOTGUN
+  7:41 Item: 1 item_armor_body
+  7:43 Item: 1 weapon_shotgun
+  7:49 Item: 1 weapon_plasmagun
+  7:52 Item: 0 item_armor_shard
+  7:52 Kill: 1 0 1: ^6anomen killed Collector by MOD_SHOTGUN
+  7:54 Item: 1 weapon_shotgun
+  7:55 Item: 1 item_armor_shard
+  7:55 Item: 1 item_armor_shard
+  7:55 Item: 1 item_armor_shard
+  7:55 say: Collector: ay
+  7:58 Item: 1 weapon_shotgun
+  7:58 Item: 2 ammo_shells
+  8:03 Kill: 1 0 1: ^6anomen killed Collector by MOD_SHOTGUN
+  8:06 Item: 0 weapon_plasmagun
+  8:08 Item: 2 weapon_shotgun
+  8:09 Item: 0 ammo_bullets
+  8:09 Kill: 1 2 1: ^6anomen killed Echo by MOD_SHOTGUN
+  8:10 Item: 0 ammo_bullets
+  8:12 Kill: 1 0 1: ^6anomen killed Collector by MOD_SHOTGUN
+  8:14 Item: 1 weapon_shotgun
+  8:14 Item: 1 weapon_plasmagun
+  8:17 Item: 1 ammo_grenades
+  8:17 Item: 0 weapon_rocketlauncher
+  8:18 Item: 1 item_armor_body
+  8:24 Kill: 1 0 8: ^6anomen killed Collector by MOD_PLASMA
+  8:25 Item: 2 weapon_rocketlauncher
+  8:31 Item: 2 weapon_rocketlauncher
+  8:32 Item: 2 ammo_shells
+  8:34 Kill: 1 0 1: ^6anomen killed Collector by MOD_SHOTGUN
+  8:37 Item: 2 item_health_large
+  8:37 Item: 0 item_armor_shard
+  8:38 Item: 0 item_armor_shard
+  8:38 Item: 0 item_armor_shard
+  8:39 Kill: 2 1 7: Echo killed ^6anomen by MOD_ROCKET_SPLASH
+  8:39 Item: 0 weapon_plasmagun
+  8:41 Item: 2 weapon_shotgun
+  8:43 Item: 2 ammo_shells
+  8:46 Item: 2 weapon_shotgun
+  8:47 Kill: 2 1 6: Echo killed ^6anomen by MOD_ROCKET
+  8:49 Kill: 2 0 6: Echo killed Collector by MOD_ROCKET
+  8:51 Item: 1 weapon_plasmagun
+  8:51 Item: 2 weapon_plasmagun
+  8:56 Item: 1 weapon_plasmagun
+  8:57 Item: 0 weapon_shotgun
+  8:59 Item: 0 ammo_shells
+  9:00 Kill: 1 2 8: ^6anomen killed Echo by MOD_PLASMA
+  9:01 Item: 1 weapon_rocketlauncher
+  9:03 Item: 1 weapon_shotgun
+  9:03 Item: 0 weapon_shotgun
+  9:06 Item: 0 item_armor_shard
+  9:06 Item: 0 item_armor_shard
+  9:06 Item: 0 item_armor_shard
+  9:08 Item: 2 item_armor_shard
+  9:09 Item: 2 ammo_bullets
+  9:09 Item: 2 ammo_bullets
+  9:11 Item: 2 weapon_shotgun
+  9:12 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+  9:13 Item: 0 weapon_plasmagun
+  9:13 Item: 2 item_health
+  9:17 Item: 0 ammo_shells
+  9:18 Item: 0 item_armor_body
+  9:19 Kill: 1 2 3: ^6anomen killed Echo by MOD_MACHINEGUN
+  9:21 Item: 1 weapon_shotgun
+  9:23 Item: 2 ammo_grenades
+  9:24 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+  9:25 Item: 0 weapon_shotgun
+  9:27 Item: 2 weapon_shotgun
+  9:32 Item: 2 weapon_plasmagun
+  9:34 Item: 0 item_health_large
+  9:36 Item: 1 weapon_shotgun
+  9:39 Kill: 1 2 1: ^6anomen killed Echo by MOD_SHOTGUN
+  9:40 ClientConnect: 3
+  9:40 ClientUserinfoChanged: 3 n\Bruno\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  9:40 Item: 1 weapon_shotgun
+  9:42 Item: 1 ammo_shells
+  9:43 ClientUserinfoChanged: 3 n\Bruno\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  9:43 ClientBegin: 3
+  9:44 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+  9:45 Item: 0 weapon_shotgun
+  9:45 Item: 0 item_health
+  9:46 Item: 2 weapon_shotgun
+  9:47 Kill: 2 3 1: Echo killed Bruno by MOD_SHOTGUN
+  9:50 Item: 2 item_health
+  9:50 Item: 2 ammo_shells
+  9:52 Kill: 0 2 1: Collector killed Echo by MOD_SHOTGUN
+  9:55 Item: 1 weapon_shotgun
+  9:55 Item: 3 weapon_grenadelauncher
+  9:57 Item: 2 item_armor_body
+  9:57 Item: 0 ammo_cells
+ 10:00 Item: 2 item_armor_shard
+ 10:00 Item: 2 item_armor_shard
+ 10:00 Item: 2 item_armor_shard
+ 10:00 Item: 2 item_armor_shard
+ 10:00 Item: 0 weapon_shotgun
+ 10:02 Item: 2 weapon_plasmagun
+ 10:03 Item: 0 ammo_bullets
+ 10:03 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+ 10:05 Item: 0 weapon_shotgun
+ 10:06 Item: 3 weapon_grenadelauncher
+ 10:08 Kill: 2 0 8: Echo killed Collector by MOD_PLASMA
+ 10:10 Item: 2 weapon_shotgun
+ 10:11 Item: 2 weapon_plasmagun
+ 10:12 Item: 1 weapon_grenadelauncher
+ 10:14 say: Collector: bruno?
+ 10:16 Item: 2 ammo_shells
+ 10:18 Item: 2 ammo_grenades
+ 10:18 say: Collector: wth
+ 10:18 Item: 1 weapon_shotgun
+ 10:20 Kill: 2 1 8: Echo killed ^6anomen by MOD_PLASMA
+ 10:20 Item: 2 weapon_grenadelauncher
+ 10:23 say: Collector: you never sleep :)
+ 10:24 Item: 3 weapon_grenadelauncher
+ 10:24 Item: 1 weapon_plasmagun
+ 10:30 Kill: 2 3 8: Echo killed Bruno by MOD_PLASMA
+ 10:33 Item: 0 weapon_rocketlauncher
+ 10:34 Item: 2 weapon_shotgun
+ 10:37 Kill: 1 2 8: ^6anomen killed Echo by MOD_PLASMA
+ 10:37 Item: 3 weapon_shotgun
+ 10:38 Item: 1 weapon_grenadelauncher
+ 10:38 Item: 1 ammo_shells
+ 10:40 Item: 0 item_armor_body
+ 10:41 Item: 2 item_armor_shard
+ 10:41 Item: 2 item_armor_shard
+ 10:41 Item: 2 item_armor_shard
+ 10:41 Item: 2 item_armor_shard
+ 10:42 Item: 3 item_health_large
+ 10:44 Item: 2 weapon_rocketlauncher
+ 10:46 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+ 10:46 Item: 3 ammo_cells
+ 10:47 Item: 0 weapon_grenadelauncher
+ 10:50 Item: 1 weapon_shotgun
+ 10:50 Item: 3 weapon_shotgun
+ 10:56 Item: 0 ammo_shells
+ 10:56 Item: 0 item_health
+ 10:57 Kill: 1 2 1: ^6anomen killed Echo by MOD_SHOTGUN
+ 10:58 Item: 1 ammo_bullets
+ 10:58 Item: 1 ammo_bullets
+ 10:59 Item: 1 weapon_rocketlauncher
+ 10:59 Kill: 0 3 4: Collector killed Bruno by MOD_GRENADE
+ 11:00 Item: 0 weapon_grenadelauncher
+ 11:01 Item: 2 weapon_plasmagun
+ 11:06 Kill: 1 0 6: ^6anomen killed Collector by MOD_ROCKET
+ 11:06 Item: 1 weapon_grenadelauncher
+ 11:07 Kill: 0 3 4: Collector killed Bruno by MOD_GRENADE
+ 11:07 Item: 2 weapon_shotgun
+ 11:10 Item: 0 weapon_rocketlauncher
+ 11:10 Item: 1 weapon_grenadelauncher
+ 11:11 Item: 3 item_armor_body
+ 11:13 Item: 0 ammo_grenades
+ 11:13 Kill: 1 2 4: ^6anomen killed Echo by MOD_GRENADE
+ 11:15 Kill: 0 3 7: Collector killed Bruno by MOD_ROCKET_SPLASH
+ 11:17 Item: 1 weapon_plasmagun
+ 11:17 Item: 0 ammo_shells
+ 11:18 Item: 1 weapon_grenadelauncher
+ 11:19 Item: 2 weapon_plasmagun
+ 11:19 Item: 0 weapon_shotgun
+ 11:21 Item: 1 item_health
+ 11:22 Item: 1 ammo_shells
+ 11:23 Item: 3 item_health_large
+ 11:25 Kill: 2 3 8: Echo killed Bruno by MOD_PLASMA
+ 11:26 Item: 1 weapon_grenadelauncher
+ 11:30 Item: 2 weapon_shotgun
+ 11:35 Item: 1 item_health_large
+ 11:36 Item: 2 weapon_shotgun
+ 11:39 Item: 0 item_health_large
+ 11:39 Item: 3 item_armor_shard
+ 11:40 Item: 2 item_armor_shard
+ 11:40 Item: 3 item_armor_shard
+ 11:40 Item: 0 weapon_rocketlauncher
+ 11:41 Item: 1 weapon_shotgun
+ 11:41 Kill: 0 2 6: Collector killed Echo by MOD_ROCKET
+ 11:44 Item: 3 weapon_shotgun
+ 11:46 Item: 2 ammo_shells
+ 11:48 Item: 0 ammo_bullets
+ 11:48 Item: 0 ammo_bullets
+ 11:49 Item: 1 weapon_plasmagun
+ 11:51 Item: 2 weapon_shotgun
+ 11:52 Item: 0 item_armor_shard
+ 11:53 Item: 3 ammo_cells
+ 11:54 Item: 1 weapon_plasmagun
+ 11:57 Item: 3 item_health_large
+ 11:57 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+ 11:59 Item: 2 weapon_shotgun
+ 12:00 Kill: 2 0 1: Echo killed Collector by MOD_SHOTGUN
+ 12:01 Item: 2 item_health_large
+ 12:01 Item: 1 weapon_shotgun
+ 12:02 Item: 3 item_health
+ 12:02 Item: 2 weapon_plasmagun
+ 12:03 Item: 0 weapon_shotgun
+ 12:06 Item: 0 ammo_shells
+ 12:08 Item: 2 item_armor_body
+ 12:08 Kill: 1 3 1: ^6anomen killed Bruno by MOD_SHOTGUN
+ 12:09 Item: 2 ammo_grenades
+ 12:10 Item: 1 weapon_shotgun
+ 12:13 Kill: 1 0 1: ^6anomen killed Collector by MOD_SHOTGUN
+ 12:13 Item: 3 weapon_shotgun
+ 12:14 Item: 1 weapon_shotgun
+ 12:17 Item: 2 weapon_shotgun
+ 12:17 Kill: 2 1 1: Echo killed ^6anomen by MOD_SHOTGUN
+ 12:17 Item: 3 weapon_grenadelauncher
+ 12:17 Item: 0 weapon_plasmagun
+ 12:20 Item: 0 item_armor_shard
+ 12:20 Item: 0 item_armor_shard
+ 12:20 Item: 0 item_armor_shard
+ 12:20 Item: 0 item_armor_shard
+ 12:22 Kill: 3 2 4: Bruno killed Echo by MOD_GRENADE
+ 12:23 Item: 0 weapon_shotgun
+ 12:25 Item: 1 weapon_plasmagun
+ 12:25 Kill: 0 3 1: Collector killed Bruno by MOD_SHOTGUN
+ 12:26 Item: 0 weapon_grenadelauncher
+ 12:28 Item: 2 weapon_shotgun
+ 12:33 Item: 1 ammo_bullets
+ 12:33 Item: 2 weapon_shotgun
+ 12:33 Item: 1 ammo_bullets
+ 12:34 Item: 2 weapon_shotgun
+ 12:38 Item: 1 weapon_shotgun
+ 12:38 Item: 2 item_health
+ 12:38 Item: 3 weapon_grenadelauncher
+ 12:39 Kill: 3 1 4: Bruno killed ^6anomen by MOD_GRENADE
+ 12:40 Item: 2 weapon_shotgun
+ 12:40 Item: 0 item_health_large
+ 12:43 Item: 0 item_health_large
+ 12:45 Item: 2 item_health_large
+ 12:45 Item: 1 item_armor_body
+ 12:45 Item: 2 weapon_plasmagun
+ 12:46 Item: 0 ammo_shells
+ 12:46 Item: 1 ammo_shells
+ 12:47 Item: 3 ammo_cells
+ 12:49 Item: 0 weapon_shotgun
+ 12:51 Item: 1 weapon_rocketlauncher
+ 12:55 Kill: 1 2 6: ^6anomen killed Echo by MOD_ROCKET
+ 12:57 Item: 1 weapon_shotgun
+ 12:59 Kill: 2 3 3: Echo killed Bruno by MOD_MACHINEGUN
+ 13:01 Item: 2 weapon_grenadelauncher
+ 13:01 Item: 1 weapon_grenadelauncher
+ 13:02 Item: 1 weapon_shotgun
+ 13:02 Item: 2 item_health
+ 13:03 Kill: 0 2 1: Collector killed Echo by MOD_SHOTGUN
+ 13:06 Kill: 1 0 4: ^6anomen killed Collector by MOD_GRENADE
+ 13:06 Item: 3 ammo_shells
+ 13:08 Item: 1 weapon_grenadelauncher
+ 13:10 Item: 2 weapon_shotgun
+ 13:10 Kill: 1 2 5: ^6anomen killed Echo by MOD_GRENADE_SPLASH
+ 13:11 Item: 0 weapon_plasmagun
+ 13:13 Item: 1 weapon_shotgun
+ 13:16 Item: 3 weapon_grenadelauncher
+ 13:17 Kill: 2 0 3: Echo killed Collector by MOD_MACHINEGUN
+ 13:20 Item: 1 weapon_rocketlauncher
+ 13:21 Item: 2 ammo_bullets
+ 13:21 Item: 2 ammo_bullets
+ 13:22 Item: 2 weapon_shotgun
+ 13:24 Kill: 0 2 3: Collector killed Echo by MOD_MACHINEGUN
+ 13:24 Item: 1 item_health_large
+ 13:25 Item: 0 weapon_shotgun
+ 13:28 Item: 2 item_health_large
+ 13:29 Item: 1 weapon_rocketlauncher
+ 13:30 Item: 3 ammo_grenades
+ 13:31 Item: 3 item_armor_body
+ 13:32 Item: 3 ammo_shells
+ 13:32 Item: 0 item_health
+ 13:34 Item: 2 item_armor_shard
+ 13:35 Item: 2 item_armor_shard
+ 13:35 Item: 2 item_armor_shard
+ 13:35 Item: 2 item_armor_shard
+ 13:36 Kill: 0 3 1: Collector killed Bruno by MOD_SHOTGUN
+ 13:38 Item: 2 weapon_shotgun
+ 13:39 Kill: 1 0 7: ^6anomen killed Collector by MOD_ROCKET_SPLASH
+ 13:40 Item: 2 ammo_shells
+ 13:41 Item: 2 item_health
+ 13:45 Kill: 0 3 3: Collector killed Bruno by MOD_MACHINEGUN
+ 13:46 Kill: 2 1 1: Echo killed ^6anomen by MOD_SHOTGUN
+ 13:48 Item: 0 weapon_shotgun
+ 13:49 Item: 3 weapon_plasmagun
+ 13:51 Kill: 2 0 1: Echo killed Collector by MOD_SHOTGUN
+ 13:51 Item: 1 weapon_shotgun
+ 13:53 Item: 2 weapon_shotgun
+ 13:55 Item: 2 ammo_cells
+ 13:56 Item: 0 weapon_shotgun
+ 13:57 Kill: 0 2 1: Collector killed Echo by MOD_SHOTGUN
+ 13:58 Item: 0 weapon_shotgun
+ 13:59 Item: 1 weapon_grenadelauncher
+ 14:02 Item: 0 item_armor_shard
+ 14:02 Item: 0 item_armor_shard
+ 14:02 Item: 0 item_armor_shard
+ 14:03 Kill: 1 3 4: ^6anomen killed Bruno by MOD_GRENADE
+ 14:05 Item: 0 weapon_plasmagun
+ 14:06 Item: 1 weapon_shotgun
+ 14:08 Item: 1 ammo_bullets
+ 14:08 Item: 1 ammo_bullets
+ 14:09 Kill: 0 3 8: Collector killed Bruno by MOD_PLASMA
+ 14:11 Kill: 0 1 8: Collector killed ^6anomen by MOD_PLASMA
+ 14:11 Item: 0 weapon_shotgun
+ 14:13 Item: 0 weapon_plasmagun
+ 14:14 Item: 0 item_health_large
+ 14:15 Item: 1 weapon_shotgun
+ 14:18 Kill: 0 1 8: Collector killed ^6anomen by MOD_PLASMA
+ 14:19 Item: 0 weapon_shotgun
+ 14:20 Item: 3 weapon_grenadelauncher
+ 14:21 Item: 0 ammo_grenades
+ 14:22 Item: 0 item_armor_body
+ 14:23 Item: 1 weapon_shotgun
+ 14:23 Item: 0 ammo_shells
+ 14:23 Item: 2 weapon_plasmagun
+ 14:27 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+ 14:29 Item: 0 item_armor_shard
+ 14:33 Item: 1 weapon_plasmagun
+ 14:34 Item: 0 ammo_shells
+ 14:34 Item: 0 item_health
+ 14:35 Item: 3 item_health_large
+ 14:39 Item: 2 weapon_grenadelauncher
+ 14:40 Kill: 3 2 4: Bruno killed Echo by MOD_GRENADE
+ 14:40 Item: 1 weapon_shotgun
+ 14:41 Item: 1 weapon_shotgun
+ 14:41 Kill: 1 3 8: ^6anomen killed Bruno by MOD_PLASMA
+ 14:42 Item: 0 item_health
+ 14:42 Item: 0 ammo_shells
+ 14:43 Item: 1 weapon_grenadelauncher
+ 14:46 Item: 3 weapon_shotgun
+ 14:48 Kill: 1 0 4: ^6anomen killed Collector by MOD_GRENADE
+ 14:49 Item: 1 weapon_grenadelauncher
+ 14:51 Item: 3 item_armor_body
+ 14:53 Item: 1 weapon_shotgun
+ 14:54 Item: 0 weapon_shotgun
+ 14:57 Item: 3 weapon_plasmagun
+ 15:00 Item: 1 item_health_large
+ 15:05 Item: 3 ammo_bullets
+ 15:05 Item: 3 ammo_bullets
+ 15:05 Item: 0 ammo_shells
+ 15:07 Kill: 3 1 1: Bruno killed ^6anomen by MOD_SHOTGUN
+ 15:08 Item: 0 ammo_grenades
+ 15:09 Item: 3 weapon_shotgun
+ 15:11 Item: 1 weapon_shotgun
+ 15:13 Item: 2 weapon_plasmagun
+ 15:14 Item: 3 item_health_large
+ 15:16 Item: 1 weapon_grenadelauncher
+ 15:19 Item: 0 item_armor_body
+ 15:20 Item: 1 weapon_shotgun
+ 15:20 Kill: 0 2 1: Collector killed Echo by MOD_SHOTGUN
+ 15:20 Item: 0 weapon_plasmagun
+ 15:24 Item: 0 weapon_shotgun
+ 15:26 Item: 3 weapon_grenadelauncher
+ 15:26 Item: 0 item_health
+ 15:27 Item: 0 ammo_shells
+ 15:29 Kill: 3 3 5: Bruno killed Bruno by MOD_GRENADE_SPLASH
+ 15:30 Item: 2 weapon_grenadelauncher
+ 15:31 Item: 2 weapon_grenadelauncher
+ 15:31 Item: 1 weapon_shotgun
+ 15:34 Item: 3 weapon_rocketlauncher
+ 15:35 Item: 1 item_health_large
+ 15:39 Item: 1 item_health_large
+ 15:39 Kill: 0 2 1: Collector killed Echo by MOD_SHOTGUN
+ 15:40 Item: 0 weapon_grenadelauncher
+ 15:42 Item: 2 item_health_large
+ 15:43 Kill: 0 2 1: Collector killed Echo by MOD_SHOTGUN
+ 15:45 Kill: 1 3 1: ^6anomen killed Bruno by MOD_SHOTGUN
+ 15:45 Item: 0 ammo_shells
+ 15:46 Item: 0 item_health
+ 15:47 Item: 2 weapon_rocketlauncher
+ 15:49 Item: 0 ammo_bullets
+ 15:49 Item: 0 ammo_bullets
+ 15:49 Item: 2 weapon_plasmagun
+ 15:53 Item: 3 weapon_grenadelauncher
+ 15:54 Item: 2 item_armor_shard
+ 15:54 Item: 2 item_armor_shard
+ 15:54 Item: 2 item_armor_shard
+ 15:54 Item: 2 item_armor_shard
+ 15:56 Kill: 1 1 5: ^6anomen killed ^6anomen by MOD_GRENADE_SPLASH
+ 15:58 Item: 0 ammo_shells
+ 15:58 Item: 2 weapon_shotgun
+ 16:01 Item: 0 item_armor_body
+ 16:01 Kill: 3 3 5: Bruno killed Bruno by MOD_GRENADE_SPLASH
+ 16:02 Item: 2 weapon_grenadelauncher
+ 16:05 Item: 1 ammo_grenades
+ 16:05 Item: 2 weapon_grenadelauncher
+ 16:07 Item: 1 weapon_shotgun
+ 16:09 Kill: 1 2 1: ^6anomen killed Echo by MOD_SHOTGUN
+ 16:13 Item: 3 weapon_shotgun
+ 16:16 Item: 2 weapon_plasmagun
+ 16:19 Item: 3 item_armor_shard
+ 16:20 Kill: 1 0 1: ^6anomen killed Collector by MOD_SHOTGUN
+ 16:21 Item: 1 weapon_shotgun
+ 16:21 Kill: 2 3 8: Echo killed Bruno by MOD_PLASMA
+ 16:22 Item: 1 weapon_shotgun
+ 16:23 Item: 0 weapon_rocketlauncher
+ 16:23 Item: 2 weapon_shotgun
+ 16:24 Item: 2 weapon_shotgun
+ 16:25 Kill: 0 2 6: Collector killed Echo by MOD_ROCKET
+ 16:26 Item: 3 item_armor_shard
+ 16:26 Item: 3 item_armor_shard
+ 16:26 Item: 3 item_armor_shard
+ 16:26 Item: 1 weapon_grenadelauncher
+ 16:30 Item: 2 weapon_plasmagun
+ 16:33 Kill: 1 2 5: ^6anomen killed Echo by MOD_GRENADE_SPLASH
+ 16:36 Kill: 0 3 7: Collector killed Bruno by MOD_ROCKET_SPLASH
+ 16:37 Item: 0 weapon_shotgun
+ 16:38 Item: 1 weapon_shotgun
+ 16:38 Item: 2 item_armor_body
+ 16:39 Item: 0 item_health
+ 16:39 Item: 0 ammo_shells
+ 16:41 Item: 2 ammo_cells
+ 16:42 Item: 3 weapon_plasmagun
+ 16:43 Item: 2 weapon_plasmagun
+ 16:44 Item: 0 weapon_shotgun
+ 16:46 Kill: 3 1 8: Bruno killed ^6anomen by MOD_PLASMA
+ 16:49 Item: 2 item_armor_shard
+ 16:51 Item: 0 weapon_plasmagun
+ 16:51 Item: 2 weapon_plasmagun
+ 16:54 Kill: 0 3 9: Collector killed Bruno by MOD_PLASMA_SPLASH
+ 16:54 Exit: Fraglimit hit.
+ 16:54 score: 30  ping: 48  client: 0 Collector
+ 16:54 score: 26  ping: 32  client: 1 ^6anomen
+ 16:54 score: 15  ping: 10  client: 2 Echo
+ 16:54 score: 3  ping: 295  client: 3 Bruno
+ 16:59 say: Collector: ufff
+ 17:08 say: ^6anomen: what a fight
+ 17:09 say: Bruno: close, hehehe
+ 17:10 ShutdownGame:
+ 17:10 ------------------------------------------------------------
+ 17:10 ------------------------------------------------------------
+ 17:10 InitGame: \capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\8\sv_hostname\malina\timelimit\25\fraglimit\30\dmflags\0\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3dm3\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+ 17:10 ClientConnect: 0
+ 17:10 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 17:10 ClientBegin: 0
+ 17:10 ClientConnect: 1
+ 17:10 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 17:10 ClientBegin: 1
+ 17:10 ClientConnect: 2
+ 17:10 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 17:10 ClientBegin: 2
+ 17:10 ClientConnect: 3
+ 17:10 ClientUserinfoChanged: 3 n\Bruno\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 17:10 ClientBegin: 3
+ 17:13 Item: 2 item_armor_body
+ 17:14 Item: 2 ammo_grenades
+ 17:14 say: ^6anomen: map?
+ 17:17 Item: 3 ammo_shells
+ 17:18 Item: 2 weapon_rocketlauncher
+ 17:22 Item: 3 ammo_cells
+ 17:25 Item: 2 ammo_shells
+ 17:25 Kill: 3 0 3: Bruno killed Collector by MOD_MACHINEGUN
+ 17:27 Item: 3 weapon_shotgun
+ 17:28 Item: 2 weapon_shotgun
+ 17:30 say: Collector: dunno
+ 17:35 say: Collector: q3dm4
+ 17:36 Item: 3 weapon_shotgun
+ 17:39 Kill: 2 3 6: Echo killed Bruno by MOD_ROCKET
+ 17:40 ShutdownGame:
+ 17:40 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\8\sv_hostname\malina\timelimit\25\fraglimit\30\dmflags\0\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3dm4\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 1
+  0:00 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 2
+  0:00 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 3
+  0:00 ClientUserinfoChanged: 3 n\Bruno\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 ClientBegin: 1
+  0:03 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:03 ClientBegin: 2
+  0:04 ClientUserinfoChanged: 3 n\Bruno\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:04 ClientBegin: 3
+  0:05 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:05 ClientBegin: 0
+  0:05 Item: 2 ammo_shells
+  0:06 Item: 2 weapon_shotgun
+  0:07 Item: 3 weapon_plasmagun
+  0:08 Item: 0 weapon_shotgun
+  0:09 Item: 0 ammo_rockets
+  0:09 Item: 0 ammo_bullets
+  0:13 Item: 1 item_armor_body
+  0:16 Kill: 3 0 8: Bruno killed Collector by MOD_PLASMA
+  0:16 Item: 3 weapon_shotgun
+  0:16 Item: 1 ammo_cells
+  0:17 Kill: 2 3 1: Echo killed Bruno by MOD_SHOTGUN
+  0:18 Item: 2 ammo_shells
+  0:19 Item: 2 weapon_shotgun
+  0:20 Item: 2 item_health
+  0:21 Item: 0 weapon_shotgun
+  0:22 Item: 3 weapon_plasmagun
+  0:22 Item: 1 weapon_rocketlauncher
+  0:24 Item: 2 ammo_bullets
+  0:24 Item: 2 ammo_rockets
+  0:27 Item: 3 weapon_plasmagun
+  0:28 Kill: 2 1 1: Echo killed ^6anomen by MOD_SHOTGUN
+  0:29 Item: 0 item_health_large
+  0:31 Item: 2 weapon_rocketlauncher
+  0:31 Item: 2 item_quad
+  0:35 Item: 0 weapon_plasmagun
+  0:35 Item: 1 weapon_shotgun
+  0:35 Item: 2 ammo_cells
+  0:35 Item: 2 item_health
+  0:38 Kill: 0 3 8: Collector killed Bruno by MOD_PLASMA
+  0:40 Item: 0 weapon_plasmagun
+  0:41 Item: 2 weapon_rocketlauncher
+  0:42 Item: 3 item_armor_body
+  0:44 Item: 3 item_health
+  0:47 Kill: 0 3 8: Collector killed Bruno by MOD_PLASMA
+  0:49 Item: 1 weapon_shotgun
+  0:52 Kill: 1022 2 19: <world> killed Echo by MOD_FALLING
+  0:53 Item: 3 ammo_shells
+  0:54 Item: 1 weapon_rocketlauncher
+  0:55 Item: 1 item_quad
+  0:56 Item: 2 weapon_plasmagun
+  1:03 Item: 0 weapon_shotgun
+  1:04 Item: 3 item_health
+  1:04 Item: 3 ammo_cells
+  1:05 Kill: 1 0 1: ^6anomen killed Collector by MOD_SHOTGUN
+  1:05 Item: 1 weapon_shotgun
+  1:08 Item: 1 ammo_rockets
+  1:08 Item: 1 ammo_bullets
+  1:08 Kill: 0 3 3: Collector killed Bruno by MOD_MACHINEGUN
+  1:11 Item: 2 ammo_bullets
+  1:11 Item: 2 ammo_rockets
+  1:13 Item: 3 weapon_plasmagun
+  1:14 Item: 0 item_armor_body
+  1:15 Kill: 1 2 6: ^6anomen killed Echo by MOD_ROCKET
+  1:20 Item: 0 weapon_shotgun
+  1:21 Item: 0 ammo_shells
+  1:21 Item: 1 item_health
+  1:21 Item: 1 ammo_cells
+  1:23 Kill: 0 3 1: Collector killed Bruno by MOD_SHOTGUN
+  1:30 Kill: 1 3 7: ^6anomen killed Bruno by MOD_ROCKET_SPLASH
+  1:32 Item: 1 weapon_rocketlauncher
+  1:32 Item: 2 weapon_shotgun
+  1:34 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+  1:34 Item: 0 weapon_rocketlauncher
+  1:36 Item: 2 weapon_plasmagun
+  1:37 Item: 0 weapon_rocketlauncher
+  1:37 Item: 2 item_health_large
+  1:42 Kill: 2 3 8: Echo killed Bruno by MOD_PLASMA
+  1:43 Item: 2 item_quad
+  1:43 Kill: 0 2 7: Collector killed Echo by MOD_ROCKET_SPLASH
+  1:45 Item: 1 weapon_plasmagun
+  1:45 Item: 0 item_quad
+  1:45 Kill: 0 1 6: Collector killed ^6anomen by MOD_ROCKET
+  1:48 Item: 3 item_armor_body
+  1:49 Kill: 1 0 3: ^6anomen killed Collector by MOD_MACHINEGUN
+  1:49 Item: 1 item_quad
+  1:49 Item: 1 weapon_rocketlauncher
+  1:49 Item: 2 weapon_plasmagun
+  1:51 Item: 2 weapon_shotgun
+  1:52 Item: 1 ammo_bullets
+  1:54 Item: 0 item_health
+  1:55 Item: 2 weapon_plasmagun
+  1:56 Kill: 0 3 2: Collector killed Bruno by MOD_GAUNTLET
+  1:56 Kill: 1 0 3: ^6anomen killed Collector by MOD_MACHINEGUN
+  2:00 Item: 2 weapon_shotgun
+  2:01 Item: 0 weapon_shotgun
+  2:02 Item: 0 ammo_rockets
+  2:02 Item: 0 ammo_bullets
+  2:03 Item: 0 ammo_rockets
+  2:04 Kill: 0 3 1: Collector killed Bruno by MOD_SHOTGUN
+  2:05 Item: 0 ammo_shells
+  2:11 Item: 0 item_health
+  2:13 Item: 3 ammo_cells
+  2:15 Kill: 2 1 1: Echo killed ^6anomen by MOD_SHOTGUN
+  2:16 Item: 3 weapon_shotgun
+  2:16 Kill: 0 2 1: Collector killed Echo by MOD_SHOTGUN
+  2:17 Item: 0 weapon_shotgun
+  2:21 Item: 0 weapon_plasmagun
+  2:23 Item: 0 item_health_large
+  2:24 Item: 2 weapon_rocketlauncher
+  2:26 Item: 0 item_armor_body
+  2:31 Item: 0 item_health
+  2:32 Item: 1 item_health
+  2:33 Kill: 1 3 3: ^6anomen killed Bruno by MOD_MACHINEGUN
+  2:33 Item: 1 weapon_shotgun
+  2:37 Kill: 2 0 6: Echo killed Collector by MOD_ROCKET
+  2:38 Item: 3 weapon_plasmagun
+  2:40 Kill: 2 1 7: Echo killed ^6anomen by MOD_ROCKET_SPLASH
+  2:40 Item: 2 weapon_shotgun
+  2:42 Item: 0 weapon_shotgun
+  2:43 Item: 2 weapon_shotgun
+  2:43 Item: 0 item_quad
+  2:44 Kill: 0 2 1: Collector killed Echo by MOD_SHOTGUN
+  2:45 Item: 3 weapon_plasmagun
+  2:50 Item: 0 ammo_rockets
+  2:50 Kill: 2 3 3: Echo killed Bruno by MOD_MACHINEGUN
+  2:50 Item: 1 weapon_plasmagun
+  2:51 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+  2:52 Item: 0 weapon_shotgun
+  2:55 Item: 3 ammo_cells
+  2:56 Item: 1 item_armor_body
+  2:59 Kill: 0 2 1: Collector killed Echo by MOD_SHOTGUN
+  2:59 Item: 1 ammo_cells
+  3:02 Item: 0 weapon_shotgun
+  3:03 Item: 0 ammo_bullets
+  3:04 Kill: 0 2 1: Collector killed Echo by MOD_SHOTGUN
+  3:05 Item: 1 weapon_rocketlauncher
+  3:08 Item: 2 ammo_shells
+  3:09 Item: 2 weapon_shotgun
+  3:10 Item: 3 weapon_rocketlauncher
+  3:10 Kill: 1 0 6: ^6anomen killed Collector by MOD_ROCKET
+  3:11 Item: 1 ammo_shells
+  3:12 Item: 1 item_quad
+  3:12 Item: 1 weapon_shotgun
+  3:13 Item: 1 weapon_shotgun
+  3:13 Item: 2 weapon_plasmagun
+  3:19 Item: 0 weapon_rocketlauncher
+  3:20 Kill: 0 3 7: Collector killed Bruno by MOD_ROCKET_SPLASH
+  3:20 Item: 2 weapon_shotgun
+  3:23 Item: 1 weapon_shotgun
+  3:25 Kill: 1 2 6: ^6anomen killed Echo by MOD_ROCKET
+  3:27 Item: 0 item_armor_body
+  3:27 Item: 1 item_health
+  3:28 Item: 3 weapon_shotgun
+  3:28 Item: 3 weapon_plasmagun
+  3:31 Item: 1 item_health
+  3:34 Item: 2 weapon_rocketlauncher
+  3:35 Item: 3 item_health
+  3:35 Item: 1 ammo_cells
+  3:36 Kill: 1 3 1: ^6anomen killed Bruno by MOD_SHOTGUN
+  3:36 Kill: 0 2 7: Collector killed Echo by MOD_ROCKET_SPLASH
+  3:38 Item: 0 weapon_rocketlauncher
+  3:38 Item: 1 weapon_plasmagun
+  3:40 Item: 0 ammo_rockets
+  3:40 Item: 0 ammo_bullets
+  3:42 Item: 2 weapon_shotgun
+  3:43 Item: 0 ammo_rockets
+  3:44 Item: 1 weapon_rocketlauncher
+  3:46 Item: 2 weapon_plasmagun
+  3:47 Item: 0 weapon_rocketlauncher
+  3:49 Kill: 1 1 7: ^6anomen killed ^6anomen by MOD_ROCKET_SPLASH
+  3:49 Kill: 1 3 7: ^6anomen killed Bruno by MOD_ROCKET_SPLASH
+  3:50 Item: 2 weapon_shotgun
+  3:52 Item: 2 ammo_bullets
+  3:53 Item: 1 ammo_cells
+  3:55 Kill: 0 1 6: Collector killed ^6anomen by MOD_ROCKET
+  3:56 Item: 3 item_armor_body
+  3:58 Item: 1 weapon_plasmagun
+  3:59 Kill: 0 2 7: Collector killed Echo by MOD_ROCKET_SPLASH
+  3:59 Item: 0 weapon_plasmagun
+  4:02 Item: 1 item_quad
+  4:04 Kill: 0 3 8: Collector killed Bruno by MOD_PLASMA
+  4:05 Item: 0 item_health
+  4:08 Item: 3 weapon_plasmagun
+  4:08 Item: 2 ammo_shells
+  4:10 Kill: 1 3 8: ^6anomen killed Bruno by MOD_PLASMA
+  4:13 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  4:15 Item: 0 item_quad
+  4:17 Item: 1 ammo_cells
+  4:18 Item: 2 weapon_shotgun
+  4:18 Kill: 0 2 7: Collector killed Echo by MOD_ROCKET_SPLASH
+  4:19 Item: 1 weapon_shotgun
+  4:24 Item: 0 ammo_bullets
+  4:24 Item: 0 ammo_rockets
+  4:27 Item: 3 item_health
+  4:27 Item: 3 item_armor_body
+  4:28 Item: 0 item_health
+  4:31 Kill: 0 1 6: Collector killed ^6anomen by MOD_ROCKET
+  4:32 Kill: 0 3 7: Collector killed Bruno by MOD_ROCKET_SPLASH
+  4:34 Item: 0 weapon_shotgun
+  4:34 Item: 1 weapon_plasmagun
+  4:34 Kill: 0 2 1: Collector killed Echo by MOD_SHOTGUN
+  4:37 Item: 3 ammo_shells
+  4:39 Item: 3 ammo_cells
+  4:39 Item: 2 weapon_plasmagun
+  4:42 Item: 0 ammo_bullets
+  4:42 Item: 0 ammo_rockets
+  4:42 Item: 2 weapon_plasmagun
+  4:45 Kill: 1 3 8: ^6anomen killed Bruno by MOD_PLASMA
+  4:46 Item: 0 item_health
+  4:46 Item: 1 item_health
+  4:46 Item: 2 weapon_shotgun
+  4:51 Kill: 2 0 8: Echo killed Collector by MOD_PLASMA
+  4:52 Item: 2 weapon_rocketlauncher
+  4:53 Item: 2 weapon_shotgun
+  4:53 Kill: 2 1 8: Echo killed ^6anomen by MOD_PLASMA
+  4:55 Item: 3 weapon_shotgun
+  4:56 Item: 0 item_armor_body
+  5:00 Kill: 2 3 7: Echo killed Bruno by MOD_ROCKET_SPLASH
+  5:02 Item: 1 weapon_rocketlauncher
+  5:05 Item: 3 ammo_cells
+  5:05 Item: 2 weapon_shotgun
+  5:06 Item: 2 ammo_rockets
+  5:06 Item: 2 ammo_bullets
+  5:08 Item: 3 item_quad
+  5:08 Item: 0 weapon_shotgun
+  5:14 Kill: 2 3 6: Echo killed Bruno by MOD_ROCKET
+  5:15 Item: 2 item_quad
+  5:16 Item: 1 weapon_rocketlauncher
+  5:19 Item: 3 ammo_shells
+  5:20 Kill: 1 3 7: ^6anomen killed Bruno by MOD_ROCKET_SPLASH
+  5:20 Kill: 2 0 8: Echo killed Collector by MOD_PLASMA
+  5:23 Item: 1 ammo_cells
+  5:23 Item: 1 item_health
+  5:25 Item: 0 ammo_shells
+  5:25 Item: 1 weapon_shotgun
+  5:26 Item: 0 weapon_shotgun
+  5:26 Item: 2 weapon_rocketlauncher
+  5:28 Kill: 2 1 8: Echo killed ^6anomen by MOD_PLASMA
+  5:33 Item: 3 weapon_rocketlauncher
+  5:33 Item: 1 weapon_plasmagun
+  5:34 Item: 0 item_armor_body
+  5:35 Item: 3 weapon_rocketlauncher
+  5:37 Kill: 1 2 8: ^6anomen killed Echo by MOD_PLASMA
+  5:38 Item: 1 weapon_rocketlauncher
+  5:38 Item: 1 item_quad
+  5:40 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+  5:41 Item: 0 weapon_plasmagun
+  5:42 Item: 0 item_health
+  5:43 Item: 3 weapon_rocketlauncher
+  5:44 Item: 1 weapon_plasmagun
+  5:46 Item: 0 ammo_cells
+  5:47 Kill: 0 2 8: Collector killed Echo by MOD_PLASMA
+  5:54 Item: 3 weapon_rocketlauncher
+  5:54 Item: 2 weapon_shotgun
+  5:56 Item: 1 item_health
+  5:58 Kill: 3 0 7: Bruno killed Collector by MOD_ROCKET_SPLASH
+  5:59 Item: 2 weapon_plasmagun
+  6:00 Item: 3 ammo_bullets
+  6:01 Item: 3 ammo_rockets
+  6:02 Item: 0 item_armor_body
+  6:03 Kill: 3 3 7: Bruno killed Bruno by MOD_ROCKET_SPLASH
+  6:04 Item: 1 weapon_shotgun
+  6:05 Item: 2 weapon_rocketlauncher
+  6:06 Kill: 0 2 3: Collector killed Echo by MOD_MACHINEGUN
+  6:07 Item: 0 weapon_shotgun
+  6:09 Item: 1 ammo_shells
+  6:10 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+  6:15 Item: 0 weapon_shotgun
+  6:15 Item: 2 ammo_bullets
+  6:15 Item: 2 ammo_rockets
+  6:16 Item: 1 ammo_cells
+  6:17 Item: 2 weapon_shotgun
+  6:17 Item: 3 weapon_rocketlauncher
+  6:18 Item: 3 weapon_plasmagun
+  6:19 Item: 1 ammo_shells
+  6:20 Kill: 1 2 3: ^6anomen killed Echo by MOD_MACHINEGUN
+  6:21 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+  6:24 Item: 3 weapon_rocketlauncher
+  6:26 Item: 1 weapon_shotgun
+  6:26 Item: 0 item_quad
+  6:27 Kill: 0 2 1: Collector killed Echo by MOD_SHOTGUN
+  6:27 Exit: Fraglimit hit.
+  6:27 score: 30  ping: 48  client: 0 Collector
+  6:27 score: 14  ping: 31  client: 1 ^6anomen
+  6:27 score: 12  ping: 10  client: 2 Echo
+  6:27 score: 1  ping: 246  client: 3 Bruno
+  6:44 ShutdownGame:
+  6:44 ------------------------------------------------------------
+  6:44 ------------------------------------------------------------
+  6:44 InitGame: \capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\8\sv_hostname\malina\timelimit\25\fraglimit\30\dmflags\0\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3dm4\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+  6:44 ClientConnect: 0
+  6:44 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:44 ClientBegin: 0
+  6:44 ClientConnect: 1
+  6:44 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:44 ClientBegin: 1
+  6:44 ClientConnect: 2
+  6:44 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:44 ClientBegin: 2
+  6:44 ClientConnect: 3
+  6:44 ClientUserinfoChanged: 3 n\Bruno\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:44 ClientBegin: 3
+  6:45 say: ^6anomen: jaktoze ma Echo tak nizky ping?
+  6:47 Item: 2 weapon_plasmagun
+  6:50 Item: 3 weapon_shotgun
+  6:51 Item: 3 ammo_shells
+  6:54 Item: 3 ammo_cells
+  6:55 Kill: 2 3 8: Echo killed Bruno by MOD_PLASMA
+  6:55 Item: 2 weapon_shotgun
+  6:59 Item: 3 ammo_shells
+  7:01 Item: 3 weapon_shotgun
+  7:03 Item: 2 weapon_rocketlauncher
+  7:05 say: Collector: he is cheater! as bruno
+  7:07 Item: 3 weapon_plasmagun
+  7:19 Kill: 2 3 7: Echo killed Bruno by MOD_ROCKET_SPLASH
+  7:21 Item: 2 item_health
+  7:21 Item: 2 weapon_plasmagun
+  7:23 say: ^6anomen: still this map?
+  7:23 Item: 2 ammo_cells
+  7:24 Kill: 2 1 6: Echo killed ^6anomen by MOD_ROCKET
+  7:25 Item: 3 weapon_plasmagun
+  7:28 say: Collector: next
+  7:29 Item: 2 weapon_shotgun
+  7:33 Item: 3 weapon_plasmagun
+  7:35 Item: 0 ammo_shells
+  7:36 Kill: 2 3 6: Echo killed Bruno by MOD_ROCKET
+  7:36 Item: 0 item_quad
+  7:39 Item: 2 weapon_shotgun
+  7:40 Item: 0 ammo_cells
+  7:41 Item: 3 weapon_shotgun
+  7:43 Item: 2 item_health
+  7:46 Item: 3 weapon_plasmagun
+  7:46 Item: 3 weapon_plasmagun
+  7:47 Kill: 0 3 2: Collector killed Bruno by MOD_GAUNTLET
+  7:47 Item: 0 weapon_plasmagun
+  7:49 Item: 2 weapon_rocketlauncher
+  7:55 Item: 2 ammo_rockets
+  7:55 Item: 2 ammo_bullets
+  7:56 Item: 2 ammo_bullets
+  7:56 Item: 2 ammo_rockets
+  7:57 ShutdownGame:
+  7:57 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\8\sv_hostname\malina\timelimit\25\fraglimit\30\dmflags\0\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3tourney3\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 1
+  0:00 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 2
+  0:00 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 3
+  0:00 ClientUserinfoChanged: 3 n\Bruno\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 Item: 1 ammo_slugs
+  0:02 Item: 1 ammo_cells
+  0:02 ClientBegin: 1
+  0:02 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 Item: 2 ammo_slugs
+  0:02 Item: 2 ammo_cells
+  0:02 ClientBegin: 2
+  0:03 Item: 2 weapon_plasmagun
+  0:04 ClientUserinfoChanged: 3 n\Bruno\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:04 Item: 3 ammo_slugs
+  0:04 Item: 3 ammo_cells
+  0:04 ClientBegin: 3
+  0:04 Item: 2 item_armor_combat
+  0:05 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:05 Item: 0 ammo_slugs
+  0:05 Item: 0 ammo_cells
+  0:05 ClientBegin: 0
+  0:07 Item: 1 item_armor_body
+  0:10 Item: 0 weapon_railgun
+  0:11 Kill: 1 0 3: ^6anomen killed Collector by MOD_MACHINEGUN
+  0:11 Item: 2 weapon_railgun
+  0:13 Item: 2 ammo_cells
+  0:13 Item: 0 ammo_slugs
+  0:13 Item: 0 ammo_cells
+  0:14 Item: 0 weapon_plasmagun
+  0:15 Item: 2 weapon_railgun
+  0:17 Item: 0 weapon_rocketlauncher
+  0:17 Item: 2 ammo_cells
+  0:19 Item: 1 weapon_plasmagun
+  0:20 Kill: 3 2 3: Bruno killed Echo by MOD_MACHINEGUN
+  0:22 Item: 1 item_health_large
+  0:22 Item: 1 weapon_plasmagun
+  0:22 Item: 2 ammo_slugs
+  0:22 Item: 2 ammo_cells
+  0:24 Kill: 1 3 8: ^6anomen killed Bruno by MOD_PLASMA
+  0:24 Item: 0 ammo_rockets
+  0:24 Item: 1 weapon_plasmagun
+  0:25 Item: 3 ammo_slugs
+  0:25 Item: 3 ammo_cells
+  0:26 Item: 1 weapon_rocketlauncher
+  0:28 Item: 1 weapon_plasmagun
+  0:29 Kill: 0 2 7: Collector killed Echo by MOD_ROCKET_SPLASH
+  0:31 Item: 0 item_health
+  0:31 Kill: 1 3 7: ^6anomen killed Bruno by MOD_ROCKET_SPLASH
+  0:32 Item: 1 item_armor_combat
+  0:32 Item: 2 ammo_slugs
+  0:32 Item: 2 ammo_cells
+  0:33 Item: 3 ammo_slugs
+  0:33 Item: 3 ammo_cells
+  0:33 Item: 0 item_health
+  0:34 Item: 0 item_armor_body
+  0:35 Item: 1 item_health_large
+  0:37 Item: 2 weapon_plasmagun
+  0:38 Item: 0 weapon_rocketlauncher
+  0:40 Kill: 1 2 6: ^6anomen killed Echo by MOD_ROCKET
+  0:43 Item: 2 ammo_slugs
+  0:43 Item: 2 ammo_cells
+  0:43 Item: 1 weapon_plasmagun
+  0:45 Item: 0 item_armor_shard
+  0:45 Item: 0 item_armor_shard
+  0:45 Item: 0 item_armor_shard
+  0:45 Item: 0 item_armor_shard
+  0:46 Item: 3 weapon_rocketlauncher
+  0:50 Item: 0 weapon_railgun
+  0:51 Kill: 3 2 6: Bruno killed Echo by MOD_ROCKET
+  0:51 Item: 1 weapon_plasmagun
+  0:52 Kill: 0 3 10: Collector killed Bruno by MOD_RAILGUN
+  0:52 Item: 2 ammo_slugs
+  0:52 Item: 2 ammo_cells
+  0:54 Item: 3 ammo_slugs
+  0:54 Item: 3 ammo_cells
+  0:55 Item: 0 item_enviro
+  0:55 Item: 3 ammo_cells
+  0:57 Item: 0 weapon_rocketlauncher
+  0:59 Item: 0 item_health_large
+  0:59 Kill: 1 3 8: ^6anomen killed Bruno by MOD_PLASMA
+  1:01 Kill: 1 2 8: ^6anomen killed Echo by MOD_PLASMA
+  1:01 Item: 3 ammo_slugs
+  1:01 Item: 3 ammo_cells
+  1:03 Item: 2 ammo_slugs
+  1:03 Item: 2 ammo_cells
+  1:04 Item: 3 weapon_plasmagun
+  1:04 Item: 1 item_armor_body
+  1:05 Item: 1 ammo_rockets
+  1:06 Item: 1 item_health
+  1:12 Item: 2 weapon_rocketlauncher
+  1:12 Item: 1 weapon_plasmagun
+  1:14 Item: 2 item_armor_combat
+  1:15 Item: 0 weapon_railgun
+  1:17 Kill: 1 3 9: ^6anomen killed Bruno by MOD_PLASMA_SPLASH
+  1:17 Item: 1 weapon_plasmagun
+  1:18 Kill: 1 2 8: ^6anomen killed Echo by MOD_PLASMA
+  1:19 Item: 3 ammo_slugs
+  1:19 Item: 3 ammo_cells
+  1:20 Item: 3 ammo_cells
+  1:20 Item: 2 ammo_slugs
+  1:20 Item: 2 ammo_cells
+  1:22 Item: 1 weapon_rocketlauncher
+  1:25 Item: 1 weapon_plasmagun
+  1:25 Kill: 2 3 3: Echo killed Bruno by MOD_MACHINEGUN
+  1:25 Item: 1 weapon_rocketlauncher
+  1:27 Item: 3 ammo_slugs
+  1:27 Item: 3 ammo_cells
+  1:27 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+  1:29 Item: 1 ammo_slugs
+  1:29 Item: 1 ammo_cells
+  1:29 Item: 0 weapon_railgun
+  1:31 Item: 1 item_armor_body
+  1:33 Kill: 1 2 3: ^6anomen killed Echo by MOD_MACHINEGUN
+  1:35 Item: 2 ammo_slugs
+  1:35 Item: 2 ammo_cells
+  1:35 Item: 1 weapon_rocketlauncher
+  1:38 Kill: 1022 2 22: <world> killed Echo by MOD_TRIGGER_HURT
+  1:39 Kill: 1022 3 22: <world> killed Bruno by MOD_TRIGGER_HURT
+  1:39 Item: 1 item_health_large
+  1:40 Item: 0 weapon_railgun
+  1:41 Item: 2 ammo_slugs
+  1:41 Item: 2 ammo_cells
+  1:41 Item: 3 ammo_slugs
+  1:41 Item: 3 ammo_cells
+  1:41 Item: 2 ammo_cells
+  1:43 Kill: 1 3 7: ^6anomen killed Bruno by MOD_ROCKET_SPLASH
+  1:46 Item: 3 ammo_slugs
+  1:46 Item: 3 ammo_cells
+  1:48 Item: 2 item_armor_shard
+  1:48 Item: 2 item_armor_shard
+  1:49 Item: 2 item_armor_shard
+  1:49 Item: 2 item_armor_shard
+  1:52 Item: 2 weapon_rocketlauncher
+  1:54 Item: 2 weapon_plasmagun
+  1:55 Item: 2 item_armor_combat
+  1:55 Item: 0 weapon_railgun
+  1:56 Item: 1 weapon_plasmagun
+  1:59 Item: 1 weapon_rocketlauncher
+  1:59 Item: 2 weapon_plasmagun
+  1:59 Item: 3 item_health
+  2:01 Item: 3 item_health
+  2:02 Kill: 2 1 6: Echo killed ^6anomen by MOD_ROCKET
+  2:02 Kill: 2 2 7: Echo killed Echo by MOD_ROCKET_SPLASH
+  2:03 Kill: 0 3 10: Collector killed Bruno by MOD_RAILGUN
+  2:04 Item: 2 ammo_slugs
+  2:04 Item: 2 ammo_cells
+  2:04 Item: 0 weapon_railgun
+  2:05 Item: 3 ammo_slugs
+  2:05 Item: 3 ammo_cells
+  2:05 Item: 1 ammo_slugs
+  2:05 Item: 1 ammo_cells
+  2:09 Item: 3 weapon_rocketlauncher
+  2:10 Item: 2 weapon_rocketlauncher
+  2:12 Item: 0 item_armor_body
+  2:15 Item: 3 weapon_rocketlauncher
+  2:15 Kill: 0 3 7: Collector killed Bruno by MOD_ROCKET_SPLASH
+  2:17 Item: 3 ammo_slugs
+  2:17 Item: 3 ammo_cells
+  2:17 Item: 1 weapon_railgun
+  2:18 Item: 2 weapon_plasmagun
+  2:19 Item: 0 weapon_plasmagun
+  2:19 Item: 2 weapon_rocketlauncher
+  2:23 Item: 1 ammo_cells
+  2:23 Item: 2 weapon_rocketlauncher
+  2:25 Item: 2 item_health_large
+  2:25 Item: 0 ammo_cells
+  2:28 Item: 3 ammo_rockets
+  2:28 Item: 2 weapon_rocketlauncher
+  2:30 Item: 2 item_armor_combat
+  2:37 Item: 1 weapon_plasmagun
+  2:41 Item: 0 weapon_railgun
+  2:41 Kill: 2 1 7: Echo killed ^6anomen by MOD_ROCKET_SPLASH
+  2:43 Item: 2 weapon_railgun
+  2:43 Item: 2 weapon_rocketlauncher
+  2:43 Item: 1 ammo_slugs
+  2:43 Item: 1 ammo_cells
+  2:43 Item: 0 item_health_large
+  2:44 Item: 1 item_armor_body
+  2:45 Item: 2 weapon_plasmagun
+  2:48 Item: 3 weapon_plasmagun
+  2:48 Item: 1 weapon_railgun
+  2:49 Kill: 2 3 6: Echo killed Bruno by MOD_ROCKET
+  2:50 Item: 2 weapon_plasmagun
+  2:52 Item: 3 ammo_slugs
+  2:52 Item: 3 ammo_cells
+  2:54 Item: 2 weapon_rocketlauncher
+  2:54 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  2:55 Item: 2 weapon_plasmagun
+  2:55 Item: 0 weapon_railgun
+  2:56 Item: 3 item_armor_shard
+  2:56 Item: 3 item_armor_shard
+  2:56 Item: 3 item_armor_shard
+  2:56 Item: 1 ammo_slugs
+  2:56 Item: 1 ammo_cells
+  2:56 Item: 3 item_armor_shard
+  2:59 Item: 0 item_armor_combat
+  3:00 Item: 1 item_enviro
+  3:00 Item: 2 item_health_large
+  3:01 Kill: 2 3 7: Echo killed Bruno by MOD_ROCKET_SPLASH
+  3:03 Item: 2 weapon_rocketlauncher
+  3:04 Item: 3 ammo_slugs
+  3:04 Item: 3 ammo_cells
+  3:05 Item: 2 weapon_plasmagun
+  3:07 Item: 0 weapon_railgun
+  3:08 Item: 1 weapon_plasmagun
+  3:11 Item: 1 weapon_rocketlauncher
+  3:11 Item: 3 item_armor_body
+  3:12 Item: 3 ammo_rockets
+  3:15 Item: 1 weapon_plasmagun
+  3:16 Item: 3 item_health
+  3:18 Item: 0 ammo_cells
+  3:18 Item: 1 weapon_plasmagun
+  3:23 Item: 0 item_health_large
+  3:24 Item: 1 weapon_railgun
+  3:26 Kill: 3 2 3: Bruno killed Echo by MOD_MACHINEGUN
+  3:26 Kill: 1 3 7: ^6anomen killed Bruno by MOD_ROCKET_SPLASH
+  3:28 Item: 2 ammo_slugs
+  3:28 Item: 2 ammo_cells
+  3:28 Item: 1 weapon_plasmagun
+  3:29 Item: 3 ammo_slugs
+  3:29 Item: 3 ammo_cells
+  3:30 Item: 2 weapon_plasmagun
+  3:30 Item: 1 item_armor_combat
+  3:32 Item: 2 weapon_rocketlauncher
+  3:34 Item: 2 weapon_plasmagun
+  3:35 Kill: 2 2 9: Echo killed Echo by MOD_PLASMA_SPLASH
+  3:37 Item: 2 ammo_slugs
+  3:37 Item: 2 ammo_cells
+  3:38 Item: 0 weapon_rocketlauncher
+  3:39 Item: 3 item_health_large
+  3:41 Item: 0 weapon_plasmagun
+  3:42 Kill: 2 1 3: Echo killed ^6anomen by MOD_MACHINEGUN
+  3:43 Item: 2 weapon_plasmagun
+  3:45 Item: 1 ammo_slugs
+  3:45 Item: 1 ammo_cells
+  3:45 Item: 2 weapon_plasmagun
+  3:45 Item: 3 weapon_plasmagun
+  3:47 Kill: 0 3 10: Collector killed Bruno by MOD_RAILGUN
+  3:47 Item: 1 weapon_plasmagun
+  3:50 Item: 3 ammo_slugs
+  3:50 Item: 3 ammo_cells
+  3:50 Item: 0 item_armor_shard
+  3:50 Item: 0 item_armor_shard
+  3:50 Item: 0 item_armor_shard
+  3:50 Item: 0 item_armor_shard
+  3:52 Item: 1 weapon_rocketlauncher
+  3:55 Kill: 1 2 7: ^6anomen killed Echo by MOD_ROCKET_SPLASH
+  3:56 Item: 1 item_armor_combat
+  3:57 Item: 3 item_armor_body
+  3:57 Item: 2 ammo_slugs
+  3:57 Item: 2 ammo_cells
+  3:59 Item: 1 weapon_rocketlauncher
+  3:59 Item: 1 weapon_plasmagun
+  4:02 Item: 1 weapon_plasmagun
+  4:02 Item: 2 weapon_plasmagun
+  4:04 Item: 0 weapon_railgun
+  4:05 Item: 3 item_health
+  4:08 Kill: 1 3 7: ^6anomen killed Bruno by MOD_ROCKET_SPLASH
+  4:08 Item: 2 weapon_rocketlauncher
+  4:10 Item: 2 weapon_plasmagun
+  4:15 Item: 1 ammo_cells
+  4:19 Item: 1 item_health_large
+  4:20 Item: 0 weapon_rocketlauncher
+  4:20 Item: 2 weapon_plasmagun
+  4:21 Kill: 1 0 8: ^6anomen killed Collector by MOD_PLASMA
+  4:24 Kill: 1 2 8: ^6anomen killed Echo by MOD_PLASMA
+  4:26 Item: 0 ammo_slugs
+  4:26 Item: 0 ammo_cells
+  4:26 Item: 1 weapon_rocketlauncher
+  4:27 Item: 2 ammo_slugs
+  4:27 Item: 2 ammo_cells
+  4:29 Item: 0 item_armor_combat
+  4:30 Item: 2 item_armor_body
+  4:30 Item: 1 weapon_plasmagun
+  4:30 Item: 3 ammo_slugs
+  4:30 Item: 3 ammo_cells
+  4:32 Item: 2 weapon_rocketlauncher
+  4:33 Item: 0 weapon_railgun
+  4:34 Item: 2 weapon_rocketlauncher
+  4:36 Item: 2 weapon_plasmagun
+  4:36 Item: 1 item_health_large
+  4:37 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+  4:39 Item: 1 ammo_slugs
+  4:39 Item: 1 ammo_cells
+  4:39 Item: 0 weapon_railgun
+  4:42 Item: 0 weapon_rocketlauncher
+  4:45 Item: 1 weapon_rocketlauncher
+  4:47 Kill: 2 1 6: Echo killed ^6anomen by MOD_ROCKET
+  4:48 Item: 2 weapon_plasmagun
+  4:49 Item: 2 weapon_rocketlauncher
+  4:49 Item: 1 ammo_slugs
+  4:49 Item: 1 ammo_cells
+  4:51 ClientUserinfoChanged: 3 n\Ping\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  4:52 Item: 1 weapon_railgun
+  4:52 Kill: 2 0 6: Echo killed Collector by MOD_ROCKET
+  4:55 Item: 0 ammo_slugs
+  4:55 Item: 0 ammo_cells
+  4:55 Item: 2 weapon_railgun
+  4:56 Item: 3 item_armor_shard
+  4:56 Item: 3 item_armor_shard
+  4:56 Item: 3 item_armor_shard
+  4:56 Item: 3 item_armor_shard
+  4:57 Item: 0 weapon_rocketlauncher
+  4:59 Item: 0 item_armor_combat
+  4:59 Kill: 0 2 6: Collector killed Echo by MOD_ROCKET
+  4:59 Item: 0 weapon_rocketlauncher
+  5:00 Item: 3 weapon_plasmagun
+  5:01 Item: 2 ammo_slugs
+  5:01 Item: 2 ammo_cells
+  5:02 Item: 2 ammo_cells
+  5:04 Item: 1 item_enviro
+  5:05 Item: 3 weapon_plasmagun
+  5:06 Item: 1 weapon_rocketlauncher
+  5:08 Item: 0 weapon_railgun
+  5:09 Item: 2 weapon_plasmagun
+  5:10 Item: 0 ammo_cells
+  5:12 Kill: 1 2 10: ^6anomen killed Echo by MOD_RAILGUN
+  5:13 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+  5:14 Item: 2 ammo_slugs
+  5:14 Item: 2 ammo_cells
+  5:16 Item: 1 ammo_slugs
+  5:16 Item: 1 ammo_cells
+  5:16 Item: 0 weapon_railgun
+  5:16 Item: 0 weapon_plasmagun
+  5:16 Item: 0 item_enviro
+  5:17 Item: 1 item_armor_body
+  5:19 Kill: 0 3 8: Collector killed Ping by MOD_PLASMA
+  5:21 Item: 3 ammo_slugs
+  5:21 Item: 3 ammo_cells
+  5:22 Item: 0 ammo_rockets
+  5:23 Item: 3 weapon_plasmagun
+  5:23 Item: 1 weapon_railgun
+  5:24 Item: 0 item_health
+  5:26 Item: 3 weapon_rocketlauncher
+  5:28 Item: 1 weapon_plasmagun
+  5:28 Item: 3 item_armor_combat
+  5:29 Item: 1 item_health_large
+  5:32 Kill: 1 2 10: ^6anomen killed Echo by MOD_RAILGUN
+  5:32 Item: 1 weapon_rocketlauncher
+  5:34 Item: 1 weapon_plasmagun
+  5:36 Item: 2 ammo_slugs
+  5:36 Item: 2 ammo_cells
+  5:42 Item: 3 item_health
+  5:42 Item: 2 item_armor_shard
+  5:43 Item: 2 item_armor_shard
+  5:43 Item: 2 item_armor_shard
+  5:43 Item: 2 item_armor_shard
+  5:43 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+  5:45 Item: 1 ammo_slugs
+  5:45 Item: 1 ammo_cells
+  5:46 Item: 0 weapon_railgun
+  5:47 Item: 1 item_armor_body
+  5:48 Item: 2 weapon_rocketlauncher
+  5:48 Item: 3 weapon_rocketlauncher
+  5:49 Item: 2 weapon_plasmagun
+  5:51 Item: 1 weapon_railgun
+  5:52 Item: 3 weapon_plasmagun
+  5:53 Item: 2 weapon_rocketlauncher
+  5:56 Kill: 1 0 10: ^6anomen killed Collector by MOD_RAILGUN
+  5:56 Item: 2 weapon_plasmagun
+  5:57 Kill: 1022 3 22: <world> killed Ping by MOD_TRIGGER_HURT
+  5:57 Item: 0 ammo_slugs
+  5:57 Item: 0 ammo_cells
+  5:57 Item: 2 item_armor_combat
+  5:58 Item: 1 weapon_railgun
+  6:00 Item: 0 weapon_rocketlauncher
+  6:00 Item: 3 ammo_slugs
+  6:00 Item: 3 ammo_cells
+  6:04 Item: 3 ammo_cells
+  6:04 Kill: 2 3 6: Echo killed Ping by MOD_ROCKET
+  6:05 Kill: 0 2 7: Collector killed Echo by MOD_ROCKET_SPLASH
+  6:06 Item: 0 weapon_rocketlauncher
+  6:06 Item: 1 ammo_cells
+  6:06 Item: 3 ammo_slugs
+  6:06 Item: 3 ammo_cells
+  6:07 Item: 2 ammo_slugs
+  6:07 Item: 2 ammo_cells
+  6:08 Item: 3 weapon_plasmagun
+  6:09 Item: 0 ammo_rockets
+  6:13 Item: 2 item_armor_body
+  6:16 Item: 2 item_health
+  6:18 Item: 1 item_health_large
+  6:20 Item: 2 item_health
+  6:20 Item: 1 weapon_rocketlauncher
+  6:22 Item: 2 item_armor_shard
+  6:23 Item: 2 item_armor_shard
+  6:23 Item: 2 item_armor_shard
+  6:23 Item: 2 item_armor_shard
+  6:24 Item: 1 weapon_plasmagun
+  6:26 Item: 2 weapon_rocketlauncher
+  6:27 Item: 1 item_armor_combat
+  6:27 Item: 3 weapon_plasmagun
+  6:31 Item: 2 weapon_plasmagun
+  6:31 Kill: 1 2 7: ^6anomen killed Echo by MOD_ROCKET_SPLASH
+  6:32 Item: 1 weapon_rocketlauncher
+  6:34 Item: 1 weapon_rocketlauncher
+  6:34 Kill: 1 3 6: ^6anomen killed Ping by MOD_ROCKET
+  6:34 Kill: 1 1 7: ^6anomen killed ^6anomen by MOD_ROCKET_SPLASH
+  6:36 Item: 3 ammo_slugs
+  6:36 Item: 3 ammo_cells
+  6:37 Item: 2 ammo_slugs
+  6:37 Item: 2 ammo_cells
+  6:40 Item: 0 item_armor_body
+  6:43 Item: 1 ammo_slugs
+  6:43 Item: 1 ammo_cells
+  6:43 Item: 2 weapon_plasmagun
+  6:44 Item: 3 weapon_rocketlauncher
+  6:44 Item: 2 weapon_rocketlauncher
+  6:45 Kill: 1 0 3: ^6anomen killed Collector by MOD_MACHINEGUN
+  6:46 Item: 0 ammo_slugs
+  6:46 Item: 0 ammo_cells
+  6:47 Item: 1 weapon_rocketlauncher
+  6:47 Item: 3 weapon_plasmagun
+  6:48 Kill: 2 3 8: Echo killed Ping by MOD_PLASMA
+  6:50 Item: 0 weapon_railgun
+  6:50 Item: 3 ammo_slugs
+  6:50 Item: 3 ammo_cells
+  6:50 Item: 2 weapon_plasmagun
+  6:51 Item: 3 ammo_cells
+  6:53 Item: 1 item_armor_shard
+  6:55 Item: 0 weapon_rocketlauncher
+  6:56 Item: 3 item_health
+  6:57 Item: 1 weapon_plasmagun
+  6:57 Kill: 0 1 6: Collector killed ^6anomen by MOD_ROCKET
+  6:59 Item: 0 weapon_rocketlauncher
+  6:59 Item: 1 ammo_slugs
+  6:59 Item: 1 ammo_cells
+  7:00 Item: 3 item_health
+  7:00 Item: 0 item_health_large
+  7:02 Item: 3 weapon_railgun
+  7:04 Item: 0 ammo_cells
+  7:07 Item: 2 item_armor_body
+  7:09 Item: 3 ammo_rockets
+  7:09 Item: 1 item_armor_shard
+  7:11 Kill: 2 3 7: Echo killed Ping by MOD_ROCKET_SPLASH
+  7:13 Item: 3 ammo_slugs
+  7:13 Item: 3 ammo_cells
+  7:14 Kill: 0 1 6: Collector killed ^6anomen by MOD_ROCKET
+  7:16 Kill: 2 3 7: Echo killed Ping by MOD_ROCKET_SPLASH
+  7:16 Item: 1 ammo_slugs
+  7:16 Item: 1 ammo_cells
+  7:17 Item: 2 item_armor_shard
+  7:17 Item: 1 weapon_railgun
+  7:17 Item: 0 weapon_rocketlauncher
+  7:18 Item: 2 item_armor_shard
+  7:18 Item: 3 ammo_slugs
+  7:18 Item: 3 ammo_cells
+  7:19 Item: 0 item_armor_combat
+  7:20 Item: 2 weapon_plasmagun
+  7:22 Item: 3 weapon_railgun
+  7:22 Item: 0 item_health_large
+  7:23 Item: 2 weapon_rocketlauncher
+  7:24 Item: 2 weapon_plasmagun
+  7:26 Item: 3 item_armor_shard
+  7:31 Item: 2 weapon_plasmagun
+  7:31 Kill: 0 3 7: Collector killed Ping by MOD_ROCKET_SPLASH
+  7:31 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  7:33 Item: 3 ammo_slugs
+  7:33 Item: 3 ammo_cells
+  7:33 Item: 1 ammo_slugs
+  7:33 Item: 1 ammo_cells
+  7:34 Item: 0 weapon_railgun
+  7:34 Item: 0 weapon_railgun
+  7:36 Item: 1 weapon_rocketlauncher
+  7:39 Kill: 1 3 7: ^6anomen killed Ping by MOD_ROCKET_SPLASH
+  7:41 Item: 3 ammo_slugs
+  7:41 Item: 3 ammo_cells
+  7:42 Item: 0 item_health_large
+  7:44 Kill: 1 2 7: ^6anomen killed Echo by MOD_ROCKET_SPLASH
+  7:45 Item: 0 item_armor_combat
+  7:45 Item: 3 item_armor_body
+  7:46 Item: 1 weapon_plasmagun
+  7:46 Item: 2 ammo_slugs
+  7:46 Item: 2 ammo_cells
+  7:47 Item: 1 weapon_plasmagun
+  7:47 Item: 2 ammo_cells
+  7:47 Item: 3 item_enviro
+  7:48 Kill: 1022 3 22: <world> killed Ping by MOD_TRIGGER_HURT
+  7:48 Item: 1 weapon_rocketlauncher
+  7:49 Item: 0 ammo_cells
+  7:51 Item: 1 weapon_plasmagun
+  7:52 Item: 3 ammo_slugs
+  7:52 Item: 3 ammo_cells
+  7:55 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+  7:57 Item: 1 ammo_slugs
+  7:57 Item: 1 ammo_cells
+  7:58 Item: 2 weapon_rocketlauncher
+  7:58 Item: 0 weapon_rocketlauncher
+  8:02 Item: 3 weapon_plasmagun
+  8:02 Item: 0 weapon_railgun
+  8:04 Kill: 1 2 3: ^6anomen killed Echo by MOD_MACHINEGUN
+  8:04 Item: 3 weapon_rocketlauncher
+  8:05 Item: 1 weapon_rocketlauncher
+  8:05 Item: 0 ammo_rockets
+  8:06 Item: 3 weapon_plasmagun
+  8:06 Item: 2 ammo_slugs
+  8:06 Item: 2 ammo_cells
+  8:06 Item: 0 item_health
+  8:10 Item: 3 weapon_plasmagun
+  8:10 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  8:11 Kill: 1022 0 22: <world> killed Collector by MOD_TRIGGER_HURT
+  8:11 Item: 2 item_armor_body
+  8:13 Item: 3 weapon_rocketlauncher
+  8:13 Item: 0 ammo_slugs
+  8:13 Item: 0 ammo_cells
+  8:14 Item: 0 item_armor_combat
+  8:14 Item: 1 ammo_slugs
+  8:14 Item: 1 ammo_cells
+  8:15 Item: 2 weapon_rocketlauncher
+  8:17 Item: 1 weapon_railgun
+  8:18 Item: 3 weapon_rocketlauncher
+  8:18 Item: 2 weapon_plasmagun
+  8:19 Item: 0 weapon_plasmagun
+  8:21 Kill: 2 3 6: Echo killed Ping by MOD_ROCKET
+  8:23 Item: 3 ammo_slugs
+  8:23 Item: 3 ammo_cells
+  8:24 Item: 2 weapon_rocketlauncher
+  8:24 Item: 2 weapon_rocketlauncher
+  8:25 Item: 2 weapon_plasmagun
+  8:28 Kill: 0 3 8: Collector killed Ping by MOD_PLASMA
+  8:31 Item: 3 ammo_slugs
+  8:31 Item: 3 ammo_cells
+  8:33 Item: 1 ammo_cells
+  8:34 Item: 0 weapon_rocketlauncher
+  8:36 Item: 1 item_armor_shard
+  8:36 Item: 1 item_armor_shard
+  8:36 Item: 1 item_armor_shard
+  8:36 Item: 1 item_armor_shard
+  8:36 Kill: 2 3 6: Echo killed Ping by MOD_ROCKET
+  8:40 Item: 1 weapon_rocketlauncher
+  8:42 Item: 0 weapon_railgun
+  8:42 Item: 2 weapon_plasmagun
+  8:42 Item: 1 item_armor_combat
+  8:47 Item: 2 weapon_rocketlauncher
+  8:49 Item: 1 item_health
+  8:50 Item: 1 item_armor_body
+  8:52 Item: 0 weapon_rocketlauncher
+  8:53 Item: 2 ammo_rockets
+  8:58 Item: 3 ammo_slugs
+  8:58 Item: 3 ammo_cells
+  8:59 Item: 0 weapon_rocketlauncher
+  9:03 Item: 1 weapon_plasmagun
+  9:04 Item: 0 weapon_rocketlauncher
+  9:05 Item: 2 item_health
+  9:07 Kill: 0 0 7: Collector killed Collector by MOD_ROCKET_SPLASH
+  9:07 Item: 1 weapon_rocketlauncher
+  9:08 Item: 2 item_armor_shard
+  9:08 Item: 2 item_armor_shard
+  9:08 Item: 2 item_armor_shard
+  9:08 Item: 0 ammo_slugs
+  9:08 Item: 0 ammo_cells
+  9:09 Item: 2 item_armor_shard
+  9:09 Item: 1 weapon_rocketlauncher
+  9:11 Item: 1 item_armor_combat
+  9:13 Item: 2 weapon_plasmagun
+  9:15 Item: 1 item_health_large
+  9:16 Item: 0 weapon_railgun
+  9:17 Kill: 0 3 10: Collector killed Ping by MOD_RAILGUN
+  9:18 Item: 0 ammo_cells
+  9:22 Item: 2 item_armor_body
+  9:30 Item: 2 item_health_large
+  9:32 Item: 2 weapon_rocketlauncher
+  9:34 Item: 2 weapon_plasmagun
+  9:36 ClientUserinfoChanged: 3 n\The Flash\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  9:38 Item: 3 ammo_slugs
+  9:38 Item: 3 ammo_cells
+  9:40 Item: 2 item_armor_combat
+  9:41 Item: 3 weapon_plasmagun
+  9:42 Item: 2 weapon_rocketlauncher
+  9:42 Item: 0 weapon_railgun
+  9:42 Item: 1 item_health
+  9:44 Item: 1 item_health
+  9:46 Kill: 2 3 7: Echo killed The Flash by MOD_ROCKET_SPLASH
+  9:47 Item: 1 item_armor_shard
+  9:47 Item: 1 item_armor_shard
+  9:48 Item: 1 item_armor_shard
+  9:48 Kill: 2 1 6: Echo killed ^6anomen by MOD_ROCKET
+  9:48 Item: 3 ammo_slugs
+  9:48 Item: 3 ammo_cells
+  9:49 Item: 2 weapon_rocketlauncher
+  9:50 Item: 2 item_armor_shard
+  9:50 Item: 0 weapon_railgun
+  9:51 Kill: 0 2 10: Collector killed Echo by MOD_RAILGUN
+  9:52 Item: 3 weapon_rocketlauncher
+  9:53 Item: 1 ammo_slugs
+  9:53 Item: 1 ammo_cells
+  9:53 Item: 0 item_enviro
+  9:53 Item: 3 weapon_plasmagun
+  9:55 Item: 2 ammo_slugs
+  9:55 Item: 2 ammo_cells
+  9:55 Item: 0 item_armor_body
+  9:57 Item: 1 weapon_rocketlauncher
+  9:59 Item: 2 weapon_plasmagun
+ 10:01 Item: 1 weapon_plasmagun
+ 10:02 Item: 1 weapon_rocketlauncher
+ 10:03 Item: 3 weapon_rocketlauncher
+ 10:03 Item: 2 weapon_plasmagun
+ 10:04 Item: 0 weapon_railgun
+ 10:05 Kill: 3 2 7: The Flash killed Echo by MOD_ROCKET_SPLASH
+ 10:08 Item: 3 item_health_large
+ 10:08 Item: 2 ammo_slugs
+ 10:08 Item: 2 ammo_cells
+ 10:11 Item: 1 item_health_large
+ 10:12 Item: 0 weapon_rocketlauncher
+ 10:13 Item: 1 ammo_cells
+ 10:13 Item: 0 item_armor_combat
+ 10:15 Kill: 1 2 7: ^6anomen killed Echo by MOD_ROCKET_SPLASH
+ 10:15 Item: 3 weapon_plasmagun
+ 10:16 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+ 10:17 Item: 0 weapon_rocketlauncher
+ 10:17 Item: 2 ammo_slugs
+ 10:17 Item: 2 ammo_cells
+ 10:17 Item: 3 weapon_rocketlauncher
+ 10:18 Item: 2 weapon_plasmagun
+ 10:19 Item: 1 ammo_slugs
+ 10:19 Item: 1 ammo_cells
+ 10:20 Kill: 3 2 6: The Flash killed Echo by MOD_ROCKET
+ 10:20 Kill: 3 3 7: The Flash killed The Flash by MOD_ROCKET_SPLASH
+ 10:21 Item: 1 item_armor_body
+ 10:22 Item: 0 item_armor_shard
+ 10:22 Item: 3 ammo_slugs
+ 10:22 Item: 3 ammo_cells
+ 10:22 Item: 0 item_armor_shard
+ 10:22 Item: 2 ammo_slugs
+ 10:22 Item: 2 ammo_cells
+ 10:22 Item: 0 item_armor_shard
+ 10:22 Item: 0 item_armor_shard
+ 10:23 Item: 2 ammo_cells
+ 10:27 Item: 2 weapon_plasmagun
+ 10:27 Item: 0 item_health
+ 10:27 Kill: 0 3 6: Collector killed The Flash by MOD_ROCKET
+ 10:29 Item: 2 weapon_rocketlauncher
+ 10:29 Item: 0 ammo_rockets
+ 10:29 Item: 1 weapon_railgun
+ 10:30 Item: 3 ammo_slugs
+ 10:30 Item: 3 ammo_cells
+ 10:30 Item: 0 item_health
+ 10:30 Item: 2 weapon_plasmagun
+ 10:32 Item: 2 weapon_plasmagun
+ 10:33 Item: 2 weapon_rocketlauncher
+ 10:36 Item: 0 weapon_railgun
+ 10:36 Item: 2 weapon_rocketlauncher
+ 10:37 Item: 2 weapon_plasmagun
+ 10:38 Item: 1 weapon_plasmagun
+ 10:41 Item: 1 weapon_rocketlauncher
+ 10:42 Kill: 0 3 7: Collector killed The Flash by MOD_ROCKET_SPLASH
+ 10:44 Item: 3 ammo_slugs
+ 10:44 Item: 3 ammo_cells
+ 10:46 Item: 2 weapon_railgun
+ 10:47 Kill: 1 3 7: ^6anomen killed The Flash by MOD_ROCKET_SPLASH
+ 10:48 Item: 0 item_armor_body
+ 10:49 Item: 3 ammo_slugs
+ 10:49 Item: 3 ammo_cells
+ 10:53 Kill: 0 2 6: Collector killed Echo by MOD_ROCKET
+ 10:54 Kill: 1022 3 22: <world> killed The Flash by MOD_TRIGGER_HURT
+ 10:54 Item: 2 ammo_slugs
+ 10:54 Item: 2 ammo_cells
+ 10:55 Item: 3 ammo_slugs
+ 10:55 Item: 3 ammo_cells
+ 10:57 Item: 3 weapon_plasmagun
+ 10:58 Item: 3 item_armor_combat
+ 11:00 Item: 2 weapon_rocketlauncher
+ 11:01 Item: 2 weapon_plasmagun
+ 11:02 Item: 0 item_health_large
+ 11:03 Kill: 2 1 6: Echo killed ^6anomen by MOD_ROCKET
+ 11:04 Item: 2 weapon_plasmagun
+ 11:05 Item: 1 ammo_slugs
+ 11:05 Item: 1 ammo_cells
+ 11:06 Item: 1 weapon_rocketlauncher
+ 11:07 Item: 2 weapon_rocketlauncher
+ 11:07 Kill: 2 0 6: Echo killed Collector by MOD_ROCKET
+ 11:08 Item: 3 weapon_rocketlauncher
+ 11:08 Item: 2 weapon_plasmagun
+ 11:09 Item: 0 ammo_slugs
+ 11:09 Item: 0 ammo_cells
+ 11:11 Kill: 3 2 7: The Flash killed Echo by MOD_ROCKET_SPLASH
+ 11:11 Kill: 1 0 7: ^6anomen killed Collector by MOD_ROCKET_SPLASH
+ 11:13 Item: 3 weapon_rocketlauncher
+ 11:13 Item: 2 ammo_slugs
+ 11:13 Item: 2 ammo_cells
+ 11:13 Item: 0 ammo_slugs
+ 11:13 Item: 0 ammo_cells
+ 11:13 Item: 2 ammo_cells
+ 11:15 Kill: 0 1 3: Collector killed ^6anomen by MOD_MACHINEGUN
+ 11:16 Item: 0 weapon_rocketlauncher
+ 11:17 Item: 1 ammo_slugs
+ 11:17 Item: 1 ammo_cells
+ 11:17 Item: 2 item_armor_body
+ 11:18 Item: 2 ammo_rockets
+ 11:18 Item: 0 weapon_railgun
+ 11:18 Item: 3 item_health_large
+ 11:21 Item: 3 weapon_rocketlauncher
+ 11:22 Item: 2 item_armor_shard
+ 11:22 Item: 2 item_armor_shard
+ 11:22 Item: 2 item_armor_shard
+ 11:22 Item: 2 item_armor_shard
+ 11:26 Item: 2 weapon_rocketlauncher
+ 11:26 Item: 1 weapon_plasmagun
+ 11:27 Item: 1 item_armor_combat
+ 11:31 Item: 3 weapon_plasmagun
+ 11:31 Kill: 0 0 7: Collector killed Collector by MOD_ROCKET_SPLASH
+ 11:33 Item: 0 ammo_slugs
+ 11:33 Item: 0 ammo_cells
+ 11:34 Item: 0 ammo_cells
+ 11:34 Item: 1 weapon_rocketlauncher
+ 11:36 Item: 1 weapon_plasmagun
+ 11:37 Item: 0 weapon_railgun
+ 11:37 Kill: 1 2 7: ^6anomen killed Echo by MOD_ROCKET_SPLASH
+ 11:39 Item: 2 ammo_slugs
+ 11:39 Item: 2 ammo_cells
+ 11:39 Kill: 1 3 6: ^6anomen killed The Flash by MOD_ROCKET
+ 11:42 Item: 3 ammo_slugs
+ 11:42 Item: 3 ammo_cells
+ 11:42 Item: 1 weapon_rocketlauncher
+ 11:43 Item: 1 weapon_rocketlauncher
+ 11:43 Item: 2 item_armor_body
+ 11:45 Item: 1 weapon_plasmagun
+ 11:46 Item: 1 weapon_rocketlauncher
+ 11:50 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+ 11:51 Item: 0 weapon_rocketlauncher
+ 11:52 Item: 1 ammo_slugs
+ 11:52 Item: 1 ammo_cells
+ 11:52 Item: 2 weapon_rocketlauncher
+ 11:54 Item: 2 weapon_plasmagun
+ 11:54 Item: 3 weapon_plasmagun
+ 11:54 Item: 2 item_armor_combat
+ 11:56 Item: 0 item_health
+ 11:57 Kill: 1022 1 22: <world> killed ^6anomen by MOD_TRIGGER_HURT
+ 11:59 Item: 1 ammo_slugs
+ 11:59 Item: 1 ammo_cells
+ 12:00 Item: 1 weapon_plasmagun
+ 12:01 Item: 0 item_enviro
+ 12:04 Kill: 2 3 6: Echo killed The Flash by MOD_ROCKET
+ 12:05 Kill: 2 2 7: Echo killed Echo by MOD_ROCKET_SPLASH
+ 12:05 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+ 12:05 Item: 0 weapon_plasmagun
+ 12:06 Item: 3 ammo_slugs
+ 12:06 Item: 3 ammo_cells
+ 12:06 Item: 0 weapon_plasmagun
+ 12:07 Item: 1 ammo_slugs
+ 12:07 Item: 1 ammo_cells
+ 12:08 Item: 2 ammo_slugs
+ 12:08 Item: 2 ammo_cells
+ 12:08 Item: 1 ammo_cells
+ 12:09 Item: 3 weapon_plasmagun
+ 12:12 Item: 3 weapon_rocketlauncher
+ 12:17 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+ 12:18 Item: 0 item_armor_body
+ 12:18 Item: 3 weapon_plasmagun
+ 12:19 Item: 1 ammo_slugs
+ 12:19 Item: 1 ammo_cells
+ 12:19 Item: 2 item_health_large
+ 12:22 Item: 2 item_armor_combat
+ 12:23 Item: 2 weapon_plasmagun
+ 12:23 Kill: 1022 1 22: <world> killed ^6anomen by MOD_TRIGGER_HURT
+ 12:25 Item: 2 weapon_rocketlauncher
+ 12:25 Item: 1 ammo_slugs
+ 12:25 Item: 1 ammo_cells
+ 12:26 Item: 2 weapon_plasmagun
+ 12:29 Item: 2 item_armor_shard
+ 12:29 Item: 2 item_armor_shard
+ 12:29 Item: 2 item_armor_shard
+ 12:30 Item: 0 ammo_rockets
+ 12:32 Item: 0 item_health
+ 12:32 Item: 3 weapon_rocketlauncher
+ 12:35 Item: 2 item_health_large
+ 12:37 Item: 3 weapon_plasmagun
+ 12:42 Kill: 0 2 8: Collector killed Echo by MOD_PLASMA
+ 12:42 Item: 0 weapon_plasmagun
+ 12:43 Item: 3 weapon_rocketlauncher
+ 12:43 Item: 1 item_health
+ 12:44 Item: 1 item_armor_body
+ 12:45 Item: 0 weapon_railgun
+ 12:45 Item: 2 ammo_slugs
+ 12:45 Item: 2 ammo_cells
+ 12:47 Item: 3 weapon_plasmagun
+ 12:48 Item: 0 ammo_cells
+ 12:49 Item: 3 item_armor_combat
+ 12:52 Item: 1 weapon_railgun
+ 12:54 Item: 0 weapon_plasmagun
+ 12:57 Kill: 0 3 8: Collector killed The Flash by MOD_PLASMA
+ 12:57 Item: 2 item_armor_shard
+ 12:57 Item: 2 item_armor_shard
+ 12:57 Item: 2 item_armor_shard
+ 12:57 Item: 2 item_armor_shard
+ 12:57 Item: 1 weapon_rocketlauncher
+ 12:59 Kill: 0 1 8: Collector killed ^6anomen by MOD_PLASMA
+ 12:59 Exit: Fraglimit hit.
+ 12:59 score: 30  ping: 48  client: 0 Collector
+ 12:59 score: 26  ping: 23  client: 1 ^6anomen
+ 12:59 score: 15  ping: 7  client: 2 Echo
+ 12:59 score: 1  ping: 304  client: 3 The Flash
+ 12:59 Item: 3 ammo_slugs
+ 12:59 Item: 3 ammo_cells
+ 12:59 Item: 2 weapon_plasmagun
+ 13:15 ShutdownGame:
+ 13:15 ------------------------------------------------------------
+ 13:15 ------------------------------------------------------------
+ 13:15 InitGame: \capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\8\sv_hostname\malina\timelimit\25\fraglimit\30\dmflags\0\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3tourney3\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+ 13:15 ClientConnect: 0
+ 13:15 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 13:15 Item: 0 ammo_slugs
+ 13:15 Item: 0 ammo_cells
+ 13:15 ClientBegin: 0
+ 13:15 ClientConnect: 1
+ 13:15 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 13:15 Item: 1 ammo_slugs
+ 13:15 Item: 1 ammo_cells
+ 13:15 ClientBegin: 1
+ 13:15 ClientConnect: 2
+ 13:15 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 13:15 Item: 2 ammo_slugs
+ 13:15 Item: 2 ammo_cells
+ 13:15 ClientBegin: 2
+ 13:15 ClientConnect: 3
+ 13:15 ClientUserinfoChanged: 3 n\The Flash\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 13:15 Item: 3 ammo_slugs
+ 13:15 Item: 3 ammo_cells
+ 13:15 ClientBegin: 3
+ 13:17 Item: 2 item_armor_combat
+ 13:18 Item: 3 ammo_cells
+ 13:20 Item: 2 weapon_rocketlauncher
+ 13:21 Item: 2 weapon_plasmagun
+ 13:22 ShutdownGame:
+ 13:22 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\8\sv_hostname\malina\timelimit\25\fraglimit\30\dmflags\0\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3dm17\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 1
+  0:00 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 2
+  0:00 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 3
+  0:00 ClientUserinfoChanged: 3 n\The Flash\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 ClientBegin: 1
+  0:03 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:03 ClientBegin: 2
+  0:04 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:04 ClientBegin: 0
+  0:06 ClientUserinfoChanged: 3 n\The Flash\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:06 ClientBegin: 3
+  0:06 Item: 2 ammo_shells
+  0:06 Item: 2 weapon_shotgun
+  0:07 Item: 1 weapon_rocketlauncher
+  0:08 Item: 2 item_armor_shard
+  0:09 Item: 2 item_armor_shard
+  0:09 Item: 2 item_armor_shard
+  0:09 Item: 2 item_armor_combat
+  0:11 Item: 1 ammo_shells
+  0:12 Kill: 2 3 1: Echo killed The Flash by MOD_SHOTGUN
+  0:13 Kill: 2 1 1: Echo killed ^6anomen by MOD_SHOTGUN
+  0:14 Item: 2 weapon_shotgun
+  0:14 Item: 2 weapon_rocketlauncher
+  0:17 Item: 2 item_health_large
+  0:17 say: Collector: it is strange that echo has lower ping than you Ludek :)
+  0:18 Item: 1 weapon_shotgun
+  0:18 Item: 3 weapon_rocketlauncher
+  0:19 Item: 3 ammo_rockets
+  0:20 Item: 2 item_armor_shard
+  0:20 Item: 2 item_armor_shard
+  0:20 Item: 2 item_armor_shard
+  0:23 Kill: 1022 1 22: <world> killed ^6anomen by MOD_TRIGGER_HURT
+  0:24 Item: 3 weapon_rocketlauncher
+  0:25 Item: 0 weapon_rocketlauncher
+  0:27 Item: 2 item_health_large
+  0:29 Item: 0 weapon_shotgun
+  0:31 Kill: 2 0 6: Echo killed Collector by MOD_ROCKET
+  0:32 Item: 1 weapon_rocketlauncher
+  0:34 Item: 3 item_armor_shard
+  0:34 Item: 3 item_armor_shard
+  0:34 Item: 3 item_armor_shard
+  0:38 Kill: 1 2 7: ^6anomen killed Echo by MOD_ROCKET_SPLASH
+  0:40 Item: 1 weapon_rocketlauncher
+  0:41 Item: 0 item_quad
+  0:42 Item: 0 item_armor_body
+  0:44 Kill: 3 1 7: The Flash killed ^6anomen by MOD_ROCKET_SPLASH
+  0:44 Item: 0 ammo_rockets
+  0:45 Item: 0 weapon_rocketlauncher
+  0:46 Item: 3 weapon_rocketlauncher
+  0:48 Item: 3 item_armor_combat
+  0:51 Kill: 0 3 7: Collector killed The Flash by MOD_ROCKET_SPLASH
+  0:52 Item: 0 ammo_shells
+  0:52 Item: 2 ammo_bullets
+  0:53 Item: 1 weapon_rocketlauncher
+  0:53 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  0:54 Item: 3 weapon_rocketlauncher
+  0:56 Item: 0 weapon_shotgun
+  0:58 Item: 0 item_armor_shard
+  0:59 Item: 0 item_armor_shard
+  0:59 Item: 0 item_armor_shard
+  1:01 Kill: 1022 3 22: <world> killed The Flash by MOD_TRIGGER_HURT
+  1:03 Item: 2 weapon_rocketlauncher
+  1:05 Item: 2 ammo_bullets
+  1:06 Item: 3 weapon_rocketlauncher
+  1:06 Kill: 1022 1 22: <world> killed ^6anomen by MOD_TRIGGER_HURT
+  1:07 Item: 0 item_armor_body
+  1:08 Item: 2 item_armor_shard
+  1:09 Item: 2 item_armor_shard
+  1:09 Item: 2 item_armor_shard
+  1:11 Kill: 3 3 7: The Flash killed The Flash by MOD_ROCKET_SPLASH
+  1:12 Item: 0 weapon_railgun
+  1:12 Item: 2 weapon_rocketlauncher
+  1:13 Item: 0 item_health
+  1:16 Item: 2 weapon_shotgun
+  1:16 Item: 3 weapon_rocketlauncher
+  1:17 Item: 2 ammo_shells
+  1:17 Item: 0 weapon_railgun
+  1:21 Kill: 0 1 2: Collector killed ^6anomen by MOD_GAUNTLET
+  1:22 Kill: 2 3 7: Echo killed The Flash by MOD_ROCKET_SPLASH
+  1:23 Item: 0 weapon_railgun
+  1:24 Item: 2 weapon_rocketlauncher
+  1:26 Item: 2 item_health_large
+  1:29 Item: 3 weapon_rocketlauncher
+  1:29 Item: 3 ammo_rockets
+  1:30 Item: 2 item_armor_combat
+  1:32 Item: 2 weapon_shotgun
+  1:33 Item: 2 ammo_shells
+  1:34 Item: 0 item_armor_body
+  1:37 Item: 1 item_health_large
+  1:38 Item: 0 weapon_railgun
+  1:39 Item: 1 weapon_rocketlauncher
+  1:40 Item: 2 weapon_shotgun
+  1:40 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+  1:40 Kill: 3 2 7: The Flash killed Echo by MOD_ROCKET_SPLASH
+  1:42 Item: 3 weapon_rocketlauncher
+  1:43 Item: 0 weapon_railgun
+  1:44 Item: 1 weapon_rocketlauncher
+  1:44 Kill: 0 3 10: Collector killed The Flash by MOD_RAILGUN
+  1:44 Item: 1 ammo_rockets
+  1:48 Item: 0 weapon_railgun
+  1:51 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+  1:53 Item: 0 weapon_railgun
+  1:53 Item: 2 weapon_shotgun
+  1:54 Item: 3 weapon_rocketlauncher
+  1:54 Item: 0 item_health
+  1:56 Item: 2 item_armor_shard
+  1:56 Item: 2 item_armor_shard
+  1:56 Item: 2 item_armor_shard
+  1:58 Item: 2 weapon_rocketlauncher
+  1:59 Item: 0 weapon_railgun
+  2:02 Item: 2 item_armor_shard
+  2:02 Item: 2 item_armor_shard
+  2:02 Item: 2 item_armor_shard
+  2:02 Item: 2 item_armor_combat
+  2:04 Kill: 3 2 6: The Flash killed Echo by MOD_ROCKET
+  2:04 Kill: 3 3 7: The Flash killed The Flash by MOD_ROCKET_SPLASH
+  2:05 Item: 0 weapon_railgun
+  2:07 Item: 2 weapon_rocketlauncher
+  2:10 Item: 2 weapon_rocketlauncher
+  2:10 Item: 0 weapon_railgun
+  2:12 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+  2:15 Item: 0 weapon_railgun
+  2:16 Item: 1 weapon_rocketlauncher
+  2:20 Item: 3 weapon_rocketlauncher
+  2:20 Item: 3 ammo_rockets
+  2:21 Item: 2 ammo_bullets
+  2:22 Item: 0 item_health
+  2:23 Item: 1 weapon_rocketlauncher
+  2:26 Item: 1 item_armor_body
+  2:26 Kill: 0 2 6: Collector killed Echo by MOD_ROCKET
+  2:28 Item: 1 weapon_rocketlauncher
+  2:32 Item: 3 weapon_rocketlauncher
+  2:32 Kill: 1022 0 22: <world> killed Collector by MOD_TRIGGER_HURT
+  2:33 Item: 3 weapon_shotgun
+  2:33 Item: 2 ammo_slugs
+  2:33 Kill: 1 3 7: ^6anomen killed The Flash by MOD_ROCKET_SPLASH
+  2:35 Item: 2 weapon_railgun
+  2:36 Item: 1 item_health_large
+  2:38 Item: 3 ammo_rockets
+  2:38 Item: 3 weapon_rocketlauncher
+  2:44 Item: 2 weapon_railgun
+  2:44 Item: 1 ammo_shells
+  2:48 Item: 2 weapon_rocketlauncher
+  2:50 Item: 0 weapon_railgun
+  2:50 Item: 1 item_health_large
+  2:50 Item: 3 weapon_rocketlauncher
+  2:55 Item: 0 weapon_railgun
+  2:56 Kill: 1022 2 22: <world> killed Echo by MOD_TRIGGER_HURT
+  2:56 Item: 1 weapon_shotgun
+  2:58 Kill: 1 3 3: ^6anomen killed The Flash by MOD_MACHINEGUN
+  2:59 Item: 1 weapon_rocketlauncher
+  3:00 Item: 0 weapon_railgun
+  3:00 Item: 2 weapon_rocketlauncher
+  3:04 Item: 2 item_armor_body
+  3:06 Item: 3 ammo_rockets
+  3:06 Item: 1 item_armor_shard
+  3:06 Item: 1 item_armor_shard
+  3:06 Item: 1 item_armor_shard
+  3:06 Item: 1 item_armor_combat
+  3:07 Item: 3 weapon_rocketlauncher
+  3:09 Item: 0 weapon_railgun
+  3:13 Item: 0 item_health
+  3:13 Item: 1 item_health_large
+  3:15 Item: 2 weapon_rocketlauncher
+  3:15 Item: 0 weapon_rocketlauncher
+  3:21 Item: 1 weapon_shotgun
+  3:21 Item: 1 ammo_shells
+  3:21 Kill: 3 3 7: The Flash killed The Flash by MOD_ROCKET_SPLASH
+  3:25 Item: 3 ammo_rockets
+  3:25 Item: 3 weapon_rocketlauncher
+  3:27 Kill: 1 2 1: ^6anomen killed Echo by MOD_SHOTGUN
+  3:27 Item: 1 weapon_shotgun
+  3:32 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  3:32 Item: 0 weapon_shotgun
+  3:32 Item: 3 weapon_rocketlauncher
+  3:33 Item: 2 weapon_rocketlauncher
+  3:34 Item: 0 item_armor_shard
+  3:34 Item: 0 item_armor_shard
+  3:35 Item: 0 item_armor_shard
+  3:35 Item: 3 weapon_rocketlauncher
+  3:36 Item: 2 ammo_shells
+  3:36 Item: 2 weapon_shotgun
+  3:37 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+  3:40 Kill: 2 3 7: Echo killed The Flash by MOD_ROCKET_SPLASH
+  3:42 Item: 0 weapon_shotgun
+  3:43 Item: 3 weapon_rocketlauncher
+  3:45 Kill: 1022 0 22: <world> killed Collector by MOD_TRIGGER_HURT
+  3:46 Item: 2 item_armor_shard
+  3:46 Item: 2 item_armor_shard
+  3:46 Item: 2 item_armor_shard
+  3:46 Item: 2 item_armor_combat
+  3:47 Kill: 2 3 6: Echo killed The Flash by MOD_ROCKET
+  3:48 Item: 0 weapon_rocketlauncher
+  3:50 Item: 2 item_health_large
+  3:50 Item: 3 ammo_bullets
+  3:52 Item: 0 weapon_rocketlauncher
+  3:53 Item: 2 weapon_rocketlauncher
+  3:54 Item: 1 weapon_rocketlauncher
+  3:56 Kill: 1 3 7: ^6anomen killed The Flash by MOD_ROCKET_SPLASH
+  3:58 Kill: 0 2 7: Collector killed Echo by MOD_ROCKET_SPLASH
+  4:00 Item: 1 weapon_rocketlauncher
+  4:00 Item: 3 ammo_rockets
+  4:01 Item: 0 weapon_rocketlauncher
+  4:04 Kill: 1 3 7: ^6anomen killed The Flash by MOD_ROCKET_SPLASH
+  4:04 Item: 0 item_armor_body
+  4:06 Item: 2 ammo_shells
+  4:06 Item: 2 weapon_shotgun
+  4:08 Item: 0 weapon_railgun
+  4:09 Item: 2 item_armor_shard
+  4:09 Item: 2 item_armor_shard
+  4:09 Item: 2 item_armor_shard
+  4:11 Kill: 1022 0 22: <world> killed Collector by MOD_TRIGGER_HURT
+  4:12 Item: 2 item_armor_shard
+  4:12 Item: 2 item_armor_shard
+  4:12 Item: 2 item_armor_shard
+  4:14 Item: 1 item_health_large
+  4:15 Item: 3 weapon_rocketlauncher
+  4:15 Item: 1 weapon_rocketlauncher
+  4:18 Item: 3 ammo_bullets
+  4:21 Item: 1 weapon_rocketlauncher
+  4:21 Kill: 3 3 7: The Flash killed The Flash by MOD_ROCKET_SPLASH
+  4:22 Item: 2 weapon_rocketlauncher
+  4:24 Item: 0 weapon_rocketlauncher
+  4:26 Item: 1 weapon_rocketlauncher
+  4:29 Item: 2 weapon_rocketlauncher
+  4:29 Item: 0 item_armor_combat
+  4:29 Item: 2 ammo_rockets
+  4:32 Item: 1 item_health_mega
+  4:34 Item: 3 item_armor_body
+  4:37 Kill: 1022 2 19: <world> killed Echo by MOD_FALLING
+  4:38 Item: 0 item_quad
+  4:38 Item: 3 ammo_bullets
+  4:41 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  4:43 Item: 3 ammo_shells
+  4:43 Item: 3 weapon_shotgun
+  4:44 Item: 2 weapon_rocketlauncher
+  4:45 Item: 1 weapon_rocketlauncher
+  4:46 Item: 3 item_armor_shard
+  4:46 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  4:46 Item: 3 item_armor_shard
+  4:46 Item: 3 item_armor_shard
+  4:49 Item: 3 weapon_shotgun
+  4:49 Item: 3 ammo_shells
+  4:51 Item: 0 item_health_large
+  4:52 Item: 3 item_armor_shard
+  4:52 Item: 3 item_armor_shard
+  4:52 Item: 3 item_armor_shard
+  4:53 Item: 1 weapon_rocketlauncher
+  4:54 Kill: 1 0 6: ^6anomen killed Collector by MOD_ROCKET
+  4:54 Item: 1 weapon_rocketlauncher
+  4:55 Kill: 2 3 6: Echo killed The Flash by MOD_ROCKET
+  4:55 Item: 1 weapon_rocketlauncher
+  4:55 Item: 1 item_quad
+  4:59 Item: 2 weapon_shotgun
+  5:01 Item: 1 item_armor_combat
+  5:02 Item: 2 item_health_large
+  5:02 Item: 3 weapon_shotgun
+  5:06 Kill: 1 2 7: ^6anomen killed Echo by MOD_ROCKET_SPLASH
+  5:06 Kill: 1 3 6: ^6anomen killed The Flash by MOD_ROCKET
+  5:08 Item: 1 weapon_shotgun
+  5:09 Item: 3 ammo_rockets
+  5:10 Item: 3 weapon_rocketlauncher
+  5:15 Kill: 1 2 7: ^6anomen killed Echo by MOD_ROCKET_SPLASH
+  5:18 Item: 0 item_armor_body
+  5:18 Item: 1 item_armor_shard
+  5:18 Item: 1 item_armor_shard
+  5:18 Item: 1 item_armor_shard
+  5:20 Item: 1 weapon_rocketlauncher
+  5:21 Item: 2 weapon_rocketlauncher
+  5:21 Item: 2 ammo_rockets
+  5:23 Item: 0 weapon_railgun
+  5:25 Kill: 0 3 10: Collector killed The Flash by MOD_RAILGUN
+  5:28 Item: 2 weapon_railgun
+  5:29 Item: 1 item_health_mega
+  5:30 Item: 2 item_health
+  5:30 Item: 0 weapon_rocketlauncher
+  5:32 Item: 3 weapon_rocketlauncher
+  5:36 Item: 0 item_armor_shard
+  5:36 Item: 0 item_armor_shard
+  5:36 Item: 0 item_armor_shard
+  5:37 Item: 0 item_armor_combat
+  5:41 Item: 1 item_health_large
+  5:42 Kill: 1 2 6: ^6anomen killed Echo by MOD_ROCKET
+  5:42 Kill: 3 1 6: The Flash killed ^6anomen by MOD_ROCKET
+  5:45 Item: 3 weapon_rocketlauncher
+  5:46 Item: 0 item_health_large
+  5:46 Item: 2 weapon_rocketlauncher
+  5:47 Item: 1 weapon_rocketlauncher
+  5:48 Item: 3 item_armor_shard
+  5:48 Item: 3 item_armor_shard
+  5:48 Item: 3 item_armor_shard
+  5:50 Item: 2 weapon_shotgun
+  5:50 Item: 2 ammo_shells
+  5:51 Kill: 3 2 6: The Flash killed Echo by MOD_ROCKET
+  5:51 Item: 1 weapon_railgun
+  5:53 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  5:53 Item: 3 weapon_rocketlauncher
+  5:54 Item: 0 weapon_rocketlauncher
+  5:55 Item: 2 ammo_rockets
+  5:55 Item: 2 weapon_rocketlauncher
+  5:57 Item: 3 weapon_rocketlauncher
+  5:58 Kill: 1 3 3: ^6anomen killed The Flash by MOD_MACHINEGUN
+  6:00 Item: 2 item_armor_body
+  6:00 Kill: 1022 1 22: <world> killed ^6anomen by MOD_TRIGGER_HURT
+  6:02 Item: 0 weapon_rocketlauncher
+  6:02 Item: 3 weapon_rocketlauncher
+  6:03 Item: 2 ammo_rockets
+  6:04 Item: 2 weapon_rocketlauncher
+  6:07 Item: 1 ammo_slugs
+  6:07 Item: 0 item_armor_shard
+  6:07 Item: 0 item_armor_shard
+  6:07 Item: 0 item_armor_shard
+  6:07 Item: 0 item_armor_combat
+  6:09 Item: 1 weapon_railgun
+  6:10 Kill: 2 3 7: Echo killed The Flash by MOD_ROCKET_SPLASH
+  6:11 Kill: 0 2 7: Collector killed Echo by MOD_ROCKET_SPLASH
+  6:13 Item: 0 weapon_rocketlauncher
+  6:14 Item: 0 weapon_rocketlauncher
+  6:17 Kill: 1022 0 22: <world> killed Collector by MOD_TRIGGER_HURT
+  6:17 Item: 2 weapon_rocketlauncher
+  6:19 Item: 1 weapon_railgun
+  6:20 Item: 3 item_armor_shard
+  6:20 Item: 3 item_armor_shard
+  6:20 Item: 3 item_armor_shard
+  6:25 Item: 3 item_health_large
+  6:26 Item: 0 weapon_rocketlauncher
+  6:27 Kill: 1022 3 22: <world> killed The Flash by MOD_TRIGGER_HURT
+  6:28 Item: 0 item_health_mega
+  6:33 Item: 0 item_armor_body
+  6:34 Item: 2 weapon_rocketlauncher
+  6:37 Kill: 0 2 7: Collector killed Echo by MOD_ROCKET_SPLASH
+  6:39 Item: 1 item_armor_shard
+  6:39 Item: 1 item_armor_shard
+  6:39 Item: 1 item_armor_shard
+  6:39 Item: 3 weapon_rocketlauncher
+  6:39 Item: 1 item_armor_combat
+  6:40 Item: 3 ammo_rockets
+  6:43 Item: 0 weapon_rocketlauncher
+  6:46 Item: 3 item_armor_shard
+  6:46 Item: 3 item_armor_shard
+  6:46 Item: 3 item_armor_shard
+  6:48 Item: 0 weapon_rocketlauncher
+  6:49 Item: 2 weapon_shotgun
+  6:49 Item: 1 weapon_shotgun
+  6:49 Item: 2 ammo_shells
+  6:50 Item: 1 ammo_shells
+  6:50 Kill: 1022 3 19: <world> killed The Flash by MOD_FALLING
+  6:51 Item: 2 weapon_rocketlauncher
+  6:53 Kill: 1022 0 22: <world> killed Collector by MOD_TRIGGER_HURT
+  6:55 Item: 1 weapon_shotgun
+  6:56 Item: 0 ammo_rockets
+  6:56 Item: 0 weapon_rocketlauncher
+  6:58 Item: 3 item_armor_body
+  6:59 Kill: 0 2 6: Collector killed Echo by MOD_ROCKET
+  7:00 Kill: 0 1 6: Collector killed ^6anomen by MOD_ROCKET
+  7:01 Item: 0 weapon_shotgun
+  7:01 Item: 3 weapon_rocketlauncher
+  7:07 Item: 1 weapon_shotgun
+  7:09 Item: 0 weapon_shotgun
+  7:10 Item: 2 item_quad
+  7:11 Item: 0 item_armor_shard
+  7:11 Item: 0 item_armor_shard
+  7:11 Item: 0 item_armor_shard
+  7:11 Item: 0 item_armor_combat
+  7:15 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+  7:16 Item: 0 weapon_shotgun
+  7:16 Item: 0 weapon_shotgun
+  7:18 Item: 2 weapon_rocketlauncher
+  7:18 Item: 0 item_armor_shard
+  7:18 Item: 0 item_armor_shard
+  7:18 Item: 0 item_armor_shard
+  7:19 Item: 1 weapon_rocketlauncher
+  7:21 Item: 3 item_health_large
+  7:21 Kill: 2 1 7: Echo killed ^6anomen by MOD_ROCKET_SPLASH
+  7:22 Item: 2 weapon_rocketlauncher
+  7:23 Kill: 0 3 1: Collector killed The Flash by MOD_SHOTGUN
+  7:24 Item: 0 weapon_shotgun
+  7:25 Item: 2 item_armor_body
+  7:25 Item: 1 ammo_rockets
+  7:25 Item: 1 weapon_rocketlauncher
+  7:28 Kill: 2 0 6: Echo killed Collector by MOD_ROCKET
+  7:34 Item: 3 weapon_rocketlauncher
+  7:34 Item: 2 weapon_rocketlauncher
+  7:35 Item: 0 weapon_rocketlauncher
+  7:36 Item: 1 ammo_rockets
+  7:40 Item: 1 item_health_large
+  7:41 Item: 2 weapon_rocketlauncher
+  7:42 Item: 1 weapon_rocketlauncher
+  7:42 Item: 0 weapon_railgun
+  7:43 Kill: 3 2 7: The Flash killed Echo by MOD_ROCKET_SPLASH
+  7:46 Item: 3 weapon_rocketlauncher
+  7:46 Item: 1 item_health_mega
+  7:47 Item: 0 weapon_railgun
+  7:48 Item: 3 item_armor_shard
+  7:48 Kill: 1022 1 22: <world> killed ^6anomen by MOD_TRIGGER_HURT
+  7:48 Item: 3 item_armor_shard
+  7:49 Item: 3 item_armor_shard
+  7:49 Item: 3 item_armor_combat
+  7:50 Item: 2 item_armor_body
+  7:52 Item: 3 item_armor_shard
+  7:52 Item: 3 item_armor_shard
+  7:52 Item: 3 item_armor_shard
+  7:52 Item: 1 weapon_rocketlauncher
+  7:53 Item: 0 weapon_railgun
+  7:57 Kill: 1 3 7: ^6anomen killed The Flash by MOD_ROCKET_SPLASH
+  7:57 Item: 1 ammo_shells
+  7:58 Item: 1 weapon_rocketlauncher
+  7:59 Item: 0 weapon_railgun
+  7:59 Kill: 1022 2 22: <world> killed Echo by MOD_TRIGGER_HURT
+  8:02 Item: 3 weapon_rocketlauncher
+  8:03 Item: 0 item_health
+  8:03 Item: 2 weapon_rocketlauncher
+  8:10 Kill: 1022 2 22: <world> killed Echo by MOD_TRIGGER_HURT
+  8:10 Item: 1 weapon_rocketlauncher
+  8:14 Kill: 1 0 6: ^6anomen killed Collector by MOD_ROCKET
+  8:14 Item: 3 item_armor_shard
+  8:14 Item: 3 item_armor_shard
+  8:15 Item: 3 item_armor_shard
+  8:16 Item: 1 weapon_rocketlauncher
+  8:16 Item: 2 ammo_rockets
+  8:17 Item: 2 weapon_rocketlauncher
+  8:20 Item: 2 weapon_shotgun
+  8:22 Item: 0 weapon_railgun
+  8:25 Item: 0 weapon_rocketlauncher
+  8:27 Kill: 2 3 7: Echo killed The Flash by MOD_ROCKET_SPLASH
+  8:28 Item: 1 weapon_rocketlauncher
+  8:28 Item: 1 ammo_rockets
+  8:28 Item: 2 item_armor_body
+  8:28 Item: 2 weapon_rocketlauncher
+  8:33 Item: 1 item_armor_shard
+  8:33 Item: 1 item_armor_shard
+  8:33 Item: 1 item_armor_shard
+  8:34 Item: 1 item_armor_combat
+  8:35 Item: 2 weapon_rocketlauncher
+  8:35 Item: 0 weapon_shotgun
+  8:37 Item: 3 ammo_shells
+  8:37 Item: 3 weapon_shotgun
+  8:38 Kill: 1 2 6: ^6anomen killed Echo by MOD_ROCKET
+  8:38 Kill: 1 1 7: ^6anomen killed ^6anomen by MOD_ROCKET_SPLASH
+  8:42 Item: 3 weapon_rocketlauncher
+  8:42 Item: 3 weapon_rocketlauncher
+  8:44 Item: 2 weapon_rocketlauncher
+  8:45 Item: 3 item_armor_shard
+  8:45 Item: 3 item_armor_shard
+  8:45 Item: 3 item_armor_shard
+  8:46 Kill: 1022 0 19: <world> killed Collector by MOD_FALLING
+  8:50 Item: 1 weapon_rocketlauncher
+  8:55 Item: 0 weapon_railgun
+  8:56 Item: 0 weapon_railgun
+  8:59 Item: 0 weapon_rocketlauncher
+  9:00 Item: 2 weapon_rocketlauncher
+  9:01 Kill: 1022 1 22: <world> killed ^6anomen by MOD_TRIGGER_HURT
+  9:02 Item: 0 item_armor_body
+  9:03 Kill: 0 3 10: Collector killed The Flash by MOD_RAILGUN
+  9:05 Item: 2 item_health_large
+  9:09 Item: 2 item_armor_shard
+  9:09 Item: 2 item_armor_shard
+  9:09 Item: 2 item_armor_shard
+  9:09 Item: 2 item_armor_combat
+  9:11 Item: 0 weapon_rocketlauncher
+  9:11 Item: 1 ammo_bullets
+  9:11 Item: 2 weapon_shotgun
+  9:12 Item: 2 ammo_shells
+  9:12 Item: 1 weapon_rocketlauncher
+  9:14 Item: 2 item_health_large
+  9:15 Item: 3 weapon_railgun
+  9:16 Item: 2 weapon_rocketlauncher
+  9:16 Item: 2 ammo_rockets
+  9:18 Kill: 1 0 7: ^6anomen killed Collector by MOD_ROCKET_SPLASH
+  9:18 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  9:22 Item: 3 weapon_railgun
+  9:23 Item: 2 weapon_rocketlauncher
+  9:23 Kill: 2 3 6: Echo killed The Flash by MOD_ROCKET
+  9:24 Kill: 1 2 3: ^6anomen killed Echo by MOD_MACHINEGUN
+  9:26 Item: 1 weapon_rocketlauncher
+  9:29 Item: 0 ammo_rockets
+  9:29 Item: 0 weapon_rocketlauncher
+  9:31 Item: 0 item_armor_body
+  9:33 Item: 1 weapon_rocketlauncher
+  9:36 Item: 1 item_health_mega
+  9:36 Item: 0 item_health_large
+  9:38 Kill: 0 3 6: Collector killed The Flash by MOD_ROCKET
+  9:40 Item: 2 item_quad
+  9:41 Item: 1 weapon_rocketlauncher
+  9:43 Item: 0 weapon_railgun
+  9:43 Item: 0 weapon_railgun
+  9:44 Item: 2 weapon_rocketlauncher
+  9:44 Item: 0 item_health
+  9:45 Item: 1 weapon_rocketlauncher
+  9:45 Item: 1 weapon_rocketlauncher
+  9:47 Kill: 0 2 10: Collector killed Echo by MOD_RAILGUN
+  9:50 Item: 1 ammo_shells
+  9:50 Kill: 1 3 6: ^6anomen killed The Flash by MOD_ROCKET
+  9:51 Item: 1 weapon_shotgun
+  9:52 Item: 2 weapon_rocketlauncher
+  9:52 Kill: 1022 0 22: <world> killed Collector by MOD_TRIGGER_HURT
+  9:54 Item: 1 item_armor_shard
+  9:54 Item: 1 item_armor_shard
+  9:54 Item: 1 item_armor_shard
+  9:54 Item: 1 item_armor_combat
+  9:57 Item: 1 item_quad
+  9:57 Item: 1 weapon_rocketlauncher
+  9:57 Item: 1 item_armor_shard
+  9:57 Item: 1 item_armor_shard
+  9:57 Item: 1 item_armor_shard
+  9:58 Item: 2 weapon_shotgun
+ 10:01 Item: 3 ammo_rockets
+ 10:02 Item: 3 weapon_rocketlauncher
+ 10:02 Kill: 1022 1 22: <world> killed ^6anomen by MOD_TRIGGER_HURT
+ 10:05 Item: 0 weapon_shotgun
+ 10:07 Kill: 0 3 1: Collector killed The Flash by MOD_SHOTGUN
+ 10:07 Item: 0 weapon_rocketlauncher
+ 10:08 Item: 1 item_armor_body
+ 10:10 Item: 1 weapon_rocketlauncher
+ 10:20 Kill: 2 3 1: Echo killed The Flash by MOD_SHOTGUN
+ 10:20 Kill: 1 0 7: ^6anomen killed Collector by MOD_ROCKET_SPLASH
+ 10:21 Item: 1 weapon_shotgun
+ 10:23 Item: 1 weapon_shotgun
+ 10:24 Item: 2 weapon_rocketlauncher
+ 10:24 Item: 1 item_health_large
+ 10:26 Item: 3 ammo_rockets
+ 10:26 Item: 3 weapon_rocketlauncher
+ 10:28 Item: 1 item_health_mega
+ 10:30 Item: 2 item_armor_shard
+ 10:30 Item: 2 item_armor_shard
+ 10:30 Item: 2 item_armor_shard
+ 10:31 Item: 2 item_armor_combat
+ 10:33 Kill: 2 3 6: Echo killed The Flash by MOD_ROCKET
+ 10:33 Item: 0 weapon_railgun
+ 10:37 Item: 2 weapon_rocketlauncher
+ 10:38 Item: 0 weapon_railgun
+ 10:39 Item: 3 weapon_rocketlauncher
+ 10:39 Kill: 1022 1 22: <world> killed ^6anomen by MOD_TRIGGER_HURT
+ 10:44 Item: 3 weapon_shotgun
+ 10:46 Item: 2 item_armor_body
+ 10:46 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+ 10:50 Item: 0 weapon_railgun
+ 10:50 Item: 3 weapon_rocketlauncher
+ 10:53 Kill: 0 2 10: Collector killed Echo by MOD_RAILGUN
+ 10:55 Item: 0 weapon_railgun
+ 10:55 Item: 1 weapon_rocketlauncher
+ 10:55 Item: 3 item_armor_shard
+ 10:56 Item: 3 item_armor_shard
+ 10:56 Item: 3 item_armor_shard
+ 10:57 Item: 2 ammo_rockets
+ 10:57 Item: 2 weapon_rocketlauncher
+ 10:58 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+ 11:00 Item: 0 item_health
+ 11:01 Item: 3 item_armor_shard
+ 11:02 Item: 3 item_armor_shard
+ 11:02 Item: 3 item_armor_shard
+ 11:02 Item: 3 item_armor_combat
+ 11:03 Item: 0 weapon_rocketlauncher
+ 11:05 Item: 3 item_health_large
+ 11:05 Item: 1 weapon_rocketlauncher
+ 11:11 Kill: 1022 0 19: <world> killed Collector by MOD_FALLING
+ 11:16 Item: 0 weapon_rocketlauncher
+ 11:16 Item: 1 item_quad
+ 11:18 Item: 2 weapon_rocketlauncher
+ 11:18 Item: 0 item_armor_body
+ 11:18 Item: 2 ammo_rockets
+ 11:22 Item: 0 weapon_railgun
+ 11:23 Kill: 1022 1 19: <world> killed ^6anomen by MOD_FALLING
+ 11:26 Item: 1 weapon_rocketlauncher
+ 11:27 Item: 0 weapon_railgun
+ 11:29 Kill: 0 2 10: Collector killed Echo by MOD_RAILGUN
+ 11:29 Item: 1 weapon_rocketlauncher
+ 11:30 Item: 3 weapon_railgun
+ 11:33 Item: 0 weapon_railgun
+ 11:33 Item: 2 ammo_shells
+ 11:34 Item: 3 item_armor_shard
+ 11:34 Item: 2 weapon_shotgun
+ 11:34 Item: 3 item_armor_shard
+ 11:34 Item: 3 item_armor_shard
+ 11:34 Item: 3 item_armor_combat
+ 11:37 Item: 1 item_quad
+ 11:37 Kill: 2 3 1: Echo killed The Flash by MOD_SHOTGUN
+ 11:39 Item: 2 weapon_railgun
+ 11:39 Item: 2 item_armor_shard
+ 11:39 Item: 2 item_armor_shard
+ 11:39 Item: 2 item_armor_shard
+ 11:41 Item: 0 weapon_railgun
+ 11:42 Kill: 2 1 1: Echo killed ^6anomen by MOD_SHOTGUN
+ 11:43 Item: 2 item_quad
+ 11:43 Item: 2 weapon_rocketlauncher
+ 11:44 Kill: 0 2 10: Collector killed Echo by MOD_RAILGUN
+ 11:46 Item: 3 weapon_rocketlauncher
+ 11:46 Item: 3 weapon_rocketlauncher
+ 11:47 Item: 0 weapon_railgun
+ 11:49 Item: 2 weapon_rocketlauncher
+ 11:50 Item: 3 item_quad
+ 11:50 Item: 3 weapon_shotgun
+ 11:52 Item: 0 weapon_railgun
+ 11:53 Item: 0 item_health
+ 11:55 Item: 2 weapon_rocketlauncher
+ 11:55 Item: 2 ammo_rockets
+ 11:57 Item: 0 weapon_rocketlauncher
+ 11:59 Item: 0 item_armor_body
+ 12:03 Item: 1 weapon_shotgun
+ 12:04 Item: 2 ammo_rockets
+ 12:04 Item: 2 weapon_rocketlauncher
+ 12:08 Item: 2 item_armor_shard
+ 12:08 Kill: 1 3 1: ^6anomen killed The Flash by MOD_SHOTGUN
+ 12:08 Item: 2 item_armor_shard
+ 12:08 Item: 2 item_armor_shard
+ 12:09 Item: 2 item_armor_combat
+ 12:10 Item: 1 weapon_shotgun
+ 12:10 Kill: 2 1 7: Echo killed ^6anomen by MOD_ROCKET_SPLASH
+ 12:11 Item: 2 weapon_shotgun
+ 12:13 Item: 2 item_health_large
+ 12:14 Item: 3 weapon_rocketlauncher
+ 12:17 Item: 1 weapon_rocketlauncher
+ 12:19 Item: 3 ammo_shells
+ 12:20 Item: 3 weapon_shotgun
+ 12:20 Item: 1 item_health_mega
+ 12:21 Kill: 2 3 7: Echo killed The Flash by MOD_ROCKET_SPLASH
+ 12:22 Item: 0 weapon_rocketlauncher
+ 12:24 Item: 2 item_armor_shard
+ 12:24 Item: 2 item_armor_shard
+ 12:24 Item: 2 item_armor_shard
+ 12:26 Item: 1 weapon_rocketlauncher
+ 12:27 Item: 2 ammo_shells
+ 12:28 Item: 2 weapon_shotgun
+ 12:28 Item: 1 item_armor_body
+ 12:28 Item: 0 weapon_railgun
+ 12:28 Kill: 2 3 6: Echo killed The Flash by MOD_ROCKET
+ 12:31 Item: 2 item_health_large
+ 12:38 Item: 3 weapon_shotgun
+ 12:38 Item: 2 item_armor_shard
+ 12:38 Item: 2 item_armor_shard
+ 12:39 Item: 2 item_armor_shard
+ 12:39 Item: 2 item_armor_combat
+ 12:39 Kill: 0 2 10: Collector killed Echo by MOD_RAILGUN
+ 12:41 Kill: 1022 3 22: <world> killed The Flash by MOD_TRIGGER_HURT
+ 12:44 Item: 2 weapon_rocketlauncher
+ 12:46 Item: 3 ammo_rockets
+ 12:47 Item: 3 weapon_rocketlauncher
+ 12:48 Item: 0 ammo_slugs
+ 12:48 Item: 1 ammo_bullets
+ 12:49 Kill: 3 3 7: The Flash killed The Flash by MOD_ROCKET_SPLASH
+ 12:51 Item: 0 weapon_railgun
+ 12:52 Item: 0 item_health
+ 12:54 Item: 0 item_health
+ 12:55 Item: 1 weapon_shotgun
+ 12:56 Item: 0 weapon_railgun
+ 13:00 Item: 1 item_health_large
+ 13:00 Item: 2 item_armor_body
+ 13:03 Item: 1 item_armor_shard
+ 13:03 Item: 1 item_armor_shard
+ 13:04 Item: 1 item_armor_shard
+ 13:04 Item: 2 weapon_rocketlauncher
+ 13:05 Item: 2 weapon_rocketlauncher
+ 13:07 Item: 1 weapon_rocketlauncher
+ 13:07 Item: 1 ammo_rockets
+ 13:09 ClientUserinfoChanged: 3 n\GWAF\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 13:12 Item: 1 item_armor_shard
+ 13:12 Item: 1 item_armor_shard
+ 13:12 Item: 1 item_armor_shard
+ 13:13 Item: 1 item_armor_combat
+ 13:15 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+ 13:15 Item: 0 weapon_rocketlauncher
+ 13:19 Item: 2 weapon_rocketlauncher
+ 13:20 Item: 1 weapon_rocketlauncher
+ 13:21 Item: 3 weapon_shotgun
+ 13:21 Item: 3 ammo_shells
+ 13:25 Item: 1 item_health_mega
+ 13:25 Kill: 1022 0 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 13:26 Item: 2 item_health_large
+ 13:29 Item: 3 weapon_rocketlauncher
+ 13:31 Item: 1 weapon_rocketlauncher
+ 13:31 Item: 1 ammo_rockets
+ 13:32 Kill: 1 2 7: ^6anomen killed Echo by MOD_ROCKET_SPLASH
+ 13:32 Item: 1 weapon_rocketlauncher
+ 13:37 Item: 0 item_quad
+ 13:38 Item: 2 ammo_shells
+ 13:39 Item: 2 weapon_shotgun
+ 13:39 Kill: 0 2 3: Collector killed Echo by MOD_MACHINEGUN
+ 13:40 Item: 3 weapon_shotgun
+ 13:41 Kill: 0 3 3: Collector killed GWAF by MOD_MACHINEGUN
+ 13:42 Item: 2 weapon_rocketlauncher
+ 13:43 Item: 1 item_armor_shard
+ 13:43 Item: 1 item_armor_shard
+ 13:43 Item: 1 item_armor_shard
+ 13:43 Item: 1 item_armor_combat
+ 13:44 Item: 2 ammo_bullets
+ 13:46 Kill: 2 1 6: Echo killed ^6anomen by MOD_ROCKET
+ 13:49 Item: 0 item_armor_body
+ 13:49 Kill: 2 3 7: Echo killed GWAF by MOD_ROCKET_SPLASH
+ 13:50 Item: 2 weapon_rocketlauncher
+ 13:51 Item: 1 weapon_rocketlauncher
+ 13:51 Item: 0 ammo_rockets
+ 13:52 Item: 2 item_armor_shard
+ 13:53 Item: 2 item_armor_shard
+ 13:53 Item: 2 item_armor_shard
+ 13:54 Item: 3 weapon_rocketlauncher
+ 13:58 Item: 0 weapon_railgun
+ 14:00 Item: 0 item_health
+ 14:01 Item: 2 weapon_shotgun
+ 14:03 Item: 0 weapon_railgun
+ 14:07 Kill: 2 0 6: Echo killed Collector by MOD_ROCKET
+ 14:07 Kill: 2 3 7: Echo killed GWAF by MOD_ROCKET_SPLASH
+ 14:07 Item: 1 weapon_rocketlauncher
+ 14:09 Item: 2 weapon_shotgun
+ 14:12 Kill: 2 1 6: Echo killed ^6anomen by MOD_ROCKET
+ 14:13 Item: 3 weapon_rocketlauncher
+ 14:14 Item: 0 weapon_rocketlauncher
+ 14:16 Kill: 0 2 6: Collector killed Echo by MOD_ROCKET
+ 14:17 Item: 1 weapon_shotgun
+ 14:19 Item: 3 weapon_rocketlauncher
+ 14:19 Item: 3 ammo_rockets
+ 14:20 Item: 0 item_armor_body
+ 14:24 Item: 0 weapon_railgun
+ 14:24 Item: 0 weapon_railgun
+ 14:25 Item: 2 ammo_shells
+ 14:25 Item: 0 item_health
+ 14:25 Item: 2 weapon_shotgun
+ 14:27 Kill: 1022 0 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 14:28 Item: 2 item_armor_shard
+ 14:28 Item: 2 item_armor_shard
+ 14:28 Item: 2 item_armor_shard
+ 14:28 Item: 2 item_armor_combat
+ 14:30 Kill: 3 1 7: GWAF killed ^6anomen by MOD_ROCKET_SPLASH
+ 14:31 Item: 2 item_armor_shard
+ 14:31 Item: 2 item_armor_shard
+ 14:31 Item: 2 item_armor_shard
+ 14:33 Kill: 3 3 7: GWAF killed GWAF by MOD_ROCKET_SPLASH
+ 14:34 Item: 1 ammo_rockets
+ 14:34 Item: 1 weapon_rocketlauncher
+ 14:35 Item: 2 weapon_rocketlauncher
+ 14:36 Item: 0 item_quad
+ 14:38 Item: 2 weapon_shotgun
+ 14:38 Kill: 0 2 3: Collector killed Echo by MOD_MACHINEGUN
+ 14:42 Kill: 0 1 3: Collector killed ^6anomen by MOD_MACHINEGUN
+ 14:43 Item: 3 weapon_shotgun
+ 14:44 Item: 3 ammo_shells
+ 14:44 Item: 3 weapon_shotgun
+ 14:45 Kill: 0 3 3: Collector killed GWAF by MOD_MACHINEGUN
+ 14:45 Item: 2 weapon_rocketlauncher
+ 14:47 Item: 2 ammo_bullets
+ 14:47 Item: 0 item_armor_body
+ 14:49 Item: 0 weapon_rocketlauncher
+ 14:50 Item: 2 weapon_rocketlauncher
+ 14:54 Kill: 0 3 7: Collector killed GWAF by MOD_ROCKET_SPLASH
+ 14:54 Exit: Fraglimit hit.
+ 14:54 score: 30  ping: 48  client: 0 Collector
+ 14:54 score: 20  ping: 14  client: 2 Echo
+ 14:54 score: 12  ping: 21  client: 1 ^6anomen
+ 14:54 score: -3  ping: 288  client: 3 GWAF
+ 15:07 say: Collector: GWAF? :) 
+ 15:10 ShutdownGame:
+ 15:10 ------------------------------------------------------------
+ 15:10 ------------------------------------------------------------
+ 15:10 InitGame: \capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\8\sv_hostname\malina\timelimit\25\fraglimit\30\dmflags\0\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3dm17\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+ 15:11 ClientConnect: 0
+ 15:11 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 15:11 ClientBegin: 0
+ 15:11 ClientConnect: 1
+ 15:11 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 15:11 ClientBegin: 1
+ 15:11 ClientConnect: 2
+ 15:11 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 15:11 ClientBegin: 2
+ 15:11 ClientConnect: 3
+ 15:11 ClientUserinfoChanged: 3 n\GWAF\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 15:11 ClientBegin: 3
+ 15:14 Item: 3 weapon_rocketlauncher
+ 15:14 say: ^6anomen: lol
+ 15:16 Item: 2 weapon_rocketlauncher
+ 15:17 Item: 2 ammo_rockets
+ 15:19 Kill: 2 0 6: Echo killed Collector by MOD_ROCKET
+ 15:22 Item: 2 item_armor_body
+ 15:24 Item: 3 ammo_shells
+ 15:24 Item: 3 weapon_shotgun
+ 15:25 Kill: 2 1 6: Echo killed ^6anomen by MOD_ROCKET
+ 15:27 Item: 2 weapon_rocketlauncher
+ 15:27 Item: 3 item_armor_shard
+ 15:27 Item: 3 item_armor_shard
+ 15:28 Item: 3 item_armor_shard
+ 15:28 Item: 3 item_armor_combat
+ 15:31 Item: 3 item_armor_shard
+ 15:31 Item: 3 item_armor_shard
+ 15:31 Item: 3 item_armor_shard
+ 15:34 Kill: 1022 0 22: <world> killed Collector by MOD_TRIGGER_HURT
+ 15:36 Item: 2 weapon_shotgun
+ 15:37 Item: 2 ammo_shells
+ 15:40 Kill: 2 3 6: Echo killed GWAF by MOD_ROCKET
+ 15:42 Item: 0 ammo_slugs
+ 15:43 Item: 3 ammo_rockets
+ 15:43 Item: 3 weapon_rocketlauncher
+ 15:45 Item: 0 weapon_railgun
+ 15:46 Item: 2 item_health_large
+ 15:50 Item: 0 weapon_railgun
+ 15:53 Item: 2 weapon_rocketlauncher
+ 15:53 Item: 1 weapon_rocketlauncher
+ 15:55 Item: 0 weapon_railgun
+ 15:56 Item: 2 item_armor_body
+ 15:56 Kill: 0 1 10: Collector killed ^6anomen by MOD_RAILGUN
+ 15:59 Item: 2 weapon_rocketlauncher
+ 15:59 Item: 2 weapon_rocketlauncher
+ 16:00 Item: 3 item_armor_shard
+ 16:00 Item: 3 item_armor_shard
+ 16:00 Item: 3 item_armor_shard
+ 16:00 Item: 3 item_armor_combat
+ 16:03 Item: 3 item_health_large
+ 16:04 Item: 2 ammo_rockets
+ 16:08 Item: 3 item_armor_shard
+ 16:08 Item: 3 item_armor_shard
+ 16:08 Item: 3 item_armor_shard
+ 16:09 Item: 0 weapon_rocketlauncher
+ 16:11 Item: 2 weapon_shotgun
+ 16:17 Kill: 1022 3 22: <world> killed GWAF by MOD_TRIGGER_HURT
+ 16:21 Item: 3 weapon_rocketlauncher
+ 16:23 Kill: 1022 1 22: <world> killed ^6anomen by MOD_TRIGGER_HURT
+ 16:25 Item: 2 item_armor_body
+ 16:26 Item: 3 item_armor_shard
+ 16:26 Item: 3 item_armor_shard
+ 16:27 Item: 3 item_armor_shard
+ 16:27 Item: 0 item_health_mega
+ 16:27 Item: 2 ammo_rockets
+ 16:28 Item: 2 weapon_rocketlauncher
+ 16:34 Item: 0 weapon_rocketlauncher
+ 16:36 Kill: 2 3 7: Echo killed GWAF by MOD_ROCKET_SPLASH
+ 16:38 Item: 2 weapon_rocketlauncher
+ 16:39 ShutdownGame:
+ 16:39 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\8\sv_hostname\malina\timelimit\25\fraglimit\30\dmflags\0\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3dm2\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 1
+  0:00 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 2
+  0:00 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientConnect: 3
+  0:00 ClientUserinfoChanged: 3 n\GWAF\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 ClientBegin: 1
+  0:03 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:03 ClientBegin: 2
+  0:04 Item: 2 item_armor_shard
+  0:04 ClientUserinfoChanged: 3 n\GWAF\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:04 ClientBegin: 3
+  0:04 Item: 2 item_armor_shard
+  0:05 Item: 2 item_armor_shard
+  0:05 Item: 2 item_armor_shard
+  0:05 Item: 2 item_armor_shard
+  0:05 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:05 ClientBegin: 0
+  0:08 Item: 0 weapon_plasmagun
+  0:09 Item: 3 item_health
+  0:10 Item: 0 item_armor_combat
+  0:10 Item: 0 ammo_cells
+  0:11 Item: 3 item_health
+  0:11 say: ^6anomen: zmena
+  0:14 Item: 1 ammo_bullets
+  0:14 Item: 1 ammo_bullets
+  0:15 Item: 0 item_armor_shard
+  0:15 Item: 0 item_armor_shard
+  0:15 Item: 2 weapon_shotgun
+  0:15 Item: 1 weapon_rocketlauncher
+  0:16 Item: 0 ammo_bullets
+  0:17 Item: 2 item_armor_body
+  0:18 Item: 0 ammo_shells
+  0:18 Item: 0 ammo_rockets
+  0:19 Kill: 2 3 1: Echo killed GWAF by MOD_SHOTGUN
+  0:20 Kill: 0 2 8: Collector killed Echo by MOD_PLASMA
+  0:21 Item: 1 weapon_plasmagun
+  0:22 Item: 0 weapon_shotgun
+  0:24 Item: 3 weapon_shotgun
+  0:26 Item: 2 weapon_rocketlauncher
+  0:27 Item: 3 item_health
+  0:27 Item: 3 item_health
+  0:28 Item: 2 ammo_bullets
+  0:28 Kill: 0 1 1: Collector killed ^6anomen by MOD_SHOTGUN
+  0:30 Item: 0 weapon_rocketlauncher
+  0:32 Item: 2 item_armor_shard
+  0:32 Item: 2 item_armor_shard
+  0:33 Item: 2 item_armor_shard
+  0:33 Item: 2 item_armor_shard
+  0:33 Item: 2 item_armor_shard
+  0:33 Item: 3 weapon_plasmagun
+  0:35 Item: 3 item_health_large
+  0:35 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  0:38 Item: 0 weapon_rocketlauncher
+  0:39 Item: 1 weapon_plasmagun
+  0:39 Kill: 2 0 6: Echo killed Collector by MOD_ROCKET
+  0:41 Item: 2 weapon_rocketlauncher
+  0:42 Item: 1 item_armor_combat
+  0:43 Item: 3 weapon_shotgun
+  0:43 Item: 0 item_armor_shard
+  0:43 Item: 0 item_armor_shard
+  0:45 Item: 0 weapon_plasmagun
+  0:46 Kill: 1 3 8: ^6anomen killed GWAF by MOD_PLASMA
+  0:48 Item: 1 weapon_rocketlauncher
+  0:50 Item: 2 weapon_plasmagun
+  0:51 Kill: 0 2 8: Collector killed Echo by MOD_PLASMA
+  0:51 Item: 3 ammo_shells
+  0:52 Item: 3 weapon_plasmagun
+  0:53 Item: 0 weapon_rocketlauncher
+  0:55 Item: 2 weapon_shotgun
+  0:57 Item: 2 item_armor_body
+  0:57 Item: 1 item_health
+  0:57 Item: 1 item_health
+  0:58 Item: 3 item_haste
+  0:59 Kill: 3 0 8: GWAF killed Collector by MOD_PLASMA
+  1:01 Item: 1 weapon_rocketlauncher
+  1:01 Item: 3 ammo_bullets
+  1:02 Kill: 1 3 8: ^6anomen killed GWAF by MOD_PLASMA
+  1:02 Item: 2 weapon_plasmagun
+  1:06 Item: 1 weapon_plasmagun
+  1:06 Item: 1 item_haste
+  1:07 Item: 0 weapon_rocketlauncher
+  1:07 Item: 2 item_armor_combat
+  1:07 Item: 2 ammo_cells
+  1:07 Item: 3 item_armor_shard
+  1:08 Item: 3 item_armor_shard
+  1:08 Item: 3 item_armor_shard
+  1:08 Item: 3 item_armor_shard
+  1:08 Item: 3 item_armor_shard
+  1:09 Item: 1 ammo_rockets
+  1:09 Item: 1 ammo_shells
+  1:11 Item: 3 weapon_shotgun
+  1:17 Item: 1 weapon_plasmagun
+  1:20 Kill: 3 0 1: GWAF killed Collector by MOD_SHOTGUN
+  1:21 Item: 1 item_health_large
+  1:22 Item: 1 item_armor_shard
+  1:22 Item: 1 item_armor_shard
+  1:24 Item: 0 weapon_plasmagun
+  1:25 Item: 2 item_armor_body
+  1:28 Item: 3 weapon_shotgun
+  1:30 Item: 2 weapon_plasmagun
+  1:30 Kill: 0 3 8: Collector killed GWAF by MOD_PLASMA
+  1:32 Item: 1 item_health
+  1:34 Kill: 0 1 8: Collector killed ^6anomen by MOD_PLASMA
+  1:35 Item: 0 weapon_shotgun
+  1:36 Item: 0 weapon_rocketlauncher
+  1:36 Item: 0 item_health
+  1:41 Item: 3 weapon_shotgun
+  1:41 Item: 1 weapon_plasmagun
+  1:43 Kill: 0 0 7: Collector killed Collector by MOD_ROCKET_SPLASH
+  1:43 Kill: 0 2 7: Collector killed Echo by MOD_ROCKET_SPLASH
+  1:43 Item: 1 item_armor_combat
+  1:43 Item: 3 item_armor_shard
+  1:43 Item: 3 item_armor_shard
+  1:44 Item: 3 item_armor_shard
+  1:44 Item: 3 item_armor_shard
+  1:44 Item: 3 item_armor_shard
+  1:48 Item: 2 weapon_shotgun
+  1:48 Item: 3 weapon_rocketlauncher
+  1:49 Item: 0 weapon_plasmagun
+  1:49 Item: 1 weapon_rocketlauncher
+  1:50 Item: 3 ammo_bullets
+  1:50 Item: 3 ammo_bullets
+  1:52 Item: 1 ammo_bullets
+  1:53 Kill: 2 0 1: Echo killed Collector by MOD_SHOTGUN
+  1:53 Item: 1 weapon_plasmagun
+  1:56 Kill: 1 2 7: ^6anomen killed Echo by MOD_ROCKET_SPLASH
+  1:57 Item: 0 weapon_rocketlauncher
+  1:58 Item: 1 ammo_rockets
+  1:58 Item: 1 ammo_shells
+  2:00 Item: 3 weapon_plasmagun
+  2:01 Item: 2 weapon_shotgun
+  2:03 Item: 2 item_armor_body
+  2:07 Kill: 1 2 7: ^6anomen killed Echo by MOD_ROCKET_SPLASH
+  2:08 Kill: 1 3 7: ^6anomen killed GWAF by MOD_ROCKET_SPLASH
+  2:10 Item: 1 weapon_shotgun
+  2:10 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  2:11 Item: 2 item_armor_shard
+  2:11 Item: 2 item_armor_shard
+  2:12 Item: 0 weapon_rocketlauncher
+  2:14 Item: 2 weapon_plasmagun
+  2:15 Item: 1 weapon_shotgun
+  2:16 Item: 0 item_health
+  2:16 Item: 0 item_health
+  2:16 Item: 2 item_armor_combat
+  2:16 Item: 3 ammo_shells
+  2:16 Item: 2 ammo_cells
+  2:20 Item: 2 weapon_rocketlauncher
+  2:20 Item: 2 weapon_shotgun
+  2:22 Kill: 0 1 6: Collector killed ^6anomen by MOD_ROCKET
+  2:25 Kill: 2 0 8: Echo killed Collector by MOD_PLASMA
+  2:25 Item: 2 weapon_shotgun
+  2:25 Item: 1 item_armor_shard
+  2:26 Item: 1 item_armor_shard
+  2:26 Item: 1 item_armor_shard
+  2:26 Item: 1 item_armor_shard
+  2:26 Item: 2 weapon_rocketlauncher
+  2:26 Item: 1 item_armor_shard
+  2:29 Item: 0 weapon_plasmagun
+  2:31 Kill: 2 3 6: Echo killed GWAF by MOD_ROCKET
+  2:34 Kill: 0 2 8: Collector killed Echo by MOD_PLASMA
+  2:34 Item: 1 weapon_plasmagun
+  2:35 Item: 0 item_armor_body
+  2:35 Item: 0 weapon_rocketlauncher
+  2:38 Item: 3 weapon_rocketlauncher
+  2:38 Item: 2 weapon_shotgun
+  2:41 Item: 0 weapon_plasmagun
+  2:41 Kill: 1 0 8: ^6anomen killed Collector by MOD_PLASMA
+  2:42 Item: 1 weapon_plasmagun
+  2:44 Item: 1 item_armor_combat
+  2:44 Item: 0 item_armor_shard
+  2:44 Item: 0 item_armor_shard
+  2:45 Kill: 2 3 1: Echo killed GWAF by MOD_SHOTGUN
+  2:46 Item: 1 weapon_rocketlauncher
+  2:47 Item: 0 weapon_plasmagun
+  2:48 Kill: 1 2 8: ^6anomen killed Echo by MOD_PLASMA
+  2:49 Item: 1 weapon_shotgun
+  2:51 Item: 3 weapon_rocketlauncher
+  2:52 Kill: 0 1 8: Collector killed ^6anomen by MOD_PLASMA
+  2:53 Item: 2 weapon_shotgun
+  2:53 Item: 0 weapon_rocketlauncher
+  2:55 Item: 1 ammo_bullets
+  2:56 Item: 0 item_armor_shard
+  2:56 Item: 0 item_armor_shard
+  2:56 Item: 0 item_armor_shard
+  2:56 Item: 0 item_armor_shard
+  2:56 Item: 0 item_armor_shard
+  2:58 Item: 1 item_haste
+  2:59 Item: 2 weapon_plasmagun
+  3:00 Item: 1 ammo_rockets
+  3:00 Item: 1 ammo_shells
+  3:00 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  3:02 Item: 0 item_haste
+  3:04 Item: 0 item_armor_body
+  3:06 Item: 1 weapon_rocketlauncher
+  3:07 Item: 0 weapon_plasmagun
+  3:09 Item: 0 item_health_large
+  3:09 Item: 2 weapon_shotgun
+  3:12 Item: 1 ammo_cells
+  3:12 Item: 1 item_armor_combat
+  3:12 Kill: 3 2 6: GWAF killed Echo by MOD_ROCKET
+  3:15 Kill: 0 1 8: Collector killed ^6anomen by MOD_PLASMA
+  3:15 Item: 2 item_armor_shard
+  3:15 Item: 2 item_armor_shard
+  3:15 Item: 0 weapon_rocketlauncher
+  3:16 Item: 3 item_health
+  3:16 Item: 3 item_health
+  3:18 Item: 2 weapon_plasmagun
+  3:20 Item: 0 weapon_plasmagun
+  3:24 Kill: 2 1 8: Echo killed ^6anomen by MOD_PLASMA
+  3:25 Kill: 0 3 6: Collector killed GWAF by MOD_ROCKET
+  3:25 Kill: 3 2 7: GWAF killed Echo by MOD_ROCKET_SPLASH
+  3:28 Item: 1 weapon_rocketlauncher
+  3:29 Item: 2 weapon_shotgun
+  3:30 Kill: 0 3 7: Collector killed GWAF by MOD_ROCKET_SPLASH
+  3:31 Item: 2 item_armor_body
+  3:31 Kill: 0 1 6: Collector killed ^6anomen by MOD_ROCKET
+  3:32 Item: 0 weapon_rocketlauncher
+  3:35 Item: 2 weapon_rocketlauncher
+  3:35 Item: 2 ammo_shells
+  3:35 Item: 2 weapon_plasmagun
+  3:36 Item: 3 item_armor_shard
+  3:36 Item: 0 item_armor_shard
+  3:36 Item: 1 ammo_bullets
+  3:36 Item: 0 item_armor_shard
+  3:36 Item: 3 item_armor_shard
+  3:36 Item: 3 item_armor_shard
+  3:39 Kill: 0 3 7: Collector killed GWAF by MOD_ROCKET_SPLASH
+  3:40 Item: 1 item_armor_shard
+  3:40 Item: 1 item_armor_shard
+  3:41 Item: 0 weapon_shotgun
+  3:44 Kill: 2 1 8: Echo killed ^6anomen by MOD_PLASMA
+  3:44 Item: 3 weapon_rocketlauncher
+  3:46 Item: 0 ammo_rockets
+  3:46 Item: 0 ammo_shells
+  3:48 Item: 2 item_health_large
+  3:50 Item: 2 weapon_plasmagun
+  3:51 Item: 1 weapon_rocketlauncher
+  3:52 Item: 2 ammo_cells
+  3:52 Item: 2 item_armor_combat
+  3:55 Kill: 2 3 6: Echo killed GWAF by MOD_ROCKET
+  3:55 Item: 2 weapon_rocketlauncher
+  3:58 Kill: 1 2 6: ^6anomen killed Echo by MOD_ROCKET
+  3:58 Kill: 1 1 7: ^6anomen killed ^6anomen by MOD_ROCKET_SPLASH
+  4:01 Kill: 2 3 3: Echo killed GWAF by MOD_MACHINEGUN
+  4:02 Item: 1 weapon_plasmagun
+  4:04 Kill: 0 2 7: Collector killed Echo by MOD_ROCKET_SPLASH
+  4:05 Item: 3 weapon_shotgun
+  4:07 Item: 1 item_armor_shard
+  4:07 Item: 1 item_armor_shard
+  4:08 Item: 2 item_armor_shard
+  4:08 Item: 2 item_armor_shard
+  4:09 Item: 3 item_armor_body
+  4:12 Item: 0 item_health
+  4:12 Item: 0 item_health
+  4:14 Kill: 0 3 7: Collector killed GWAF by MOD_ROCKET_SPLASH
+  4:16 Item: 2 item_health
+  4:18 Item: 2 weapon_rocketlauncher
+  4:18 Item: 2 weapon_rocketlauncher
+  4:18 Item: 0 weapon_plasmagun
+  4:20 Item: 1 ammo_bullets
+  4:22 Item: 3 weapon_rocketlauncher
+  4:23 Kill: 2 3 7: Echo killed GWAF by MOD_ROCKET_SPLASH
+  4:25 Item: 1 item_armor_combat
+  4:26 Kill: 0 2 7: Collector killed Echo by MOD_ROCKET_SPLASH
+  4:27 Item: 1 weapon_plasmagun
+  4:29 Item: 3 ammo_shells
+  4:29 Item: 1 item_health_large
+  4:30 Item: 0 weapon_rocketlauncher
+  4:31 Item: 0 weapon_rocketlauncher
+  4:32 Item: 0 ammo_bullets
+  4:32 Item: 0 ammo_bullets
+  4:32 Item: 0 ammo_bullets
+  4:35 Item: 3 weapon_shotgun
+  4:35 Item: 2 item_armor_shard
+  4:36 Item: 2 item_armor_shard
+  4:36 Item: 2 item_armor_shard
+  4:36 Item: 2 item_armor_shard
+  4:36 Item: 2 item_armor_shard
+  4:38 Item: 2 weapon_shotgun
+  4:38 Item: 3 item_armor_body
+  4:39 Kill: 0 1 6: Collector killed ^6anomen by MOD_ROCKET
+  4:40 Item: 0 weapon_rocketlauncher
+  4:43 Item: 1 item_armor_shard
+  4:43 Kill: 3 2 1: GWAF killed Echo by MOD_SHOTGUN
+  4:43 Item: 1 item_armor_shard
+  4:44 Item: 3 weapon_shotgun
+  4:46 Item: 1 weapon_plasmagun
+  4:47 Item: 0 ammo_shells
+  4:47 Item: 0 ammo_rockets
+  4:49 Item: 2 weapon_shotgun
+  4:52 Item: 1 weapon_rocketlauncher
+  4:54 Kill: 2 0 1: Echo killed Collector by MOD_SHOTGUN
+  4:55 Item: 3 item_health
+  4:55 Item: 3 item_health
+  4:55 Item: 2 weapon_rocketlauncher
+  4:57 Item: 1 ammo_cells
+  4:57 Item: 1 item_armor_combat
+  4:59 Item: 1 weapon_plasmagun
+  5:00 Kill: 3 0 1: GWAF killed Collector by MOD_SHOTGUN
+  5:00 Item: 3 item_armor_shard
+  5:01 Kill: 1 2 6: ^6anomen killed Echo by MOD_ROCKET
+  5:01 Item: 1 weapon_shotgun
+  5:04 Item: 0 weapon_rocketlauncher
+  5:05 Item: 1 ammo_bullets
+  5:05 Item: 2 weapon_shotgun
+  5:06 Item: 2 item_armor_body
+  5:08 Kill: 0 3 7: Collector killed GWAF by MOD_ROCKET_SPLASH
+  5:09 Item: 0 weapon_shotgun
+  5:09 Item: 1 item_haste
+  5:12 Item: 3 weapon_plasmagun
+  5:14 Kill: 2 3 1: Echo killed GWAF by MOD_SHOTGUN
+  5:14 Item: 2 weapon_plasmagun
+  5:17 Item: 2 item_health_large
+  5:17 Item: 1 item_armor_shard
+  5:17 Item: 1 item_armor_shard
+  5:18 Item: 3 item_armor_shard
+  5:18 Item: 3 item_armor_shard
+  5:18 Item: 3 item_armor_shard
+  5:18 Item: 3 item_armor_shard
+  5:19 Kill: 1 2 8: ^6anomen killed Echo by MOD_PLASMA
+  5:20 Item: 1 weapon_shotgun
+  5:21 Kill: 0 3 1: Collector killed GWAF by MOD_SHOTGUN
+  5:22 Item: 1 weapon_plasmagun
+  5:23 Item: 0 weapon_shotgun
+  5:24 Item: 1 item_armor_combat
+  5:30 Item: 1 item_armor_shard
+  5:31 Kill: 0 3 1: Collector killed GWAF by MOD_SHOTGUN
+  5:34 Item: 0 item_health
+  5:34 Item: 0 item_health
+  5:35 Item: 2 ammo_bullets
+  5:35 Item: 2 ammo_bullets
+  5:36 Item: 1 weapon_rocketlauncher
+  5:36 Item: 0 item_armor_body
+  5:37 Kill: 1 2 1: ^6anomen killed Echo by MOD_SHOTGUN
+  5:41 Item: 0 item_health
+  5:42 Item: 3 ammo_rockets
+  5:42 Item: 3 ammo_shells
+  5:43 Item: 2 weapon_plasmagun
+  5:45 Item: 3 weapon_shotgun
+  5:47 Item: 3 item_armor_shard
+  5:47 Item: 3 item_armor_shard
+  5:47 Item: 3 item_armor_shard
+  5:47 Item: 3 item_armor_shard
+  5:47 Kill: 1 2 7: ^6anomen killed Echo by MOD_ROCKET_SPLASH
+  5:48 Kill: 0 1 6: Collector killed ^6anomen by MOD_ROCKET
+  5:50 Item: 0 weapon_rocketlauncher
+  5:51 Item: 0 weapon_plasmagun
+  5:51 Item: 3 weapon_rocketlauncher
+  5:52 Item: 2 weapon_shotgun
+  5:53 Item: 0 item_armor_combat
+  5:54 Item: 0 ammo_cells
+  5:56 Item: 2 ammo_bullets
+  5:57 Item: 2 item_armor_shard
+  5:57 Item: 2 item_armor_shard
+  5:58 Item: 3 weapon_rocketlauncher
+  6:01 Item: 2 weapon_plasmagun
+  6:01 Kill: 1 3 3: ^6anomen killed GWAF by MOD_MACHINEGUN
+  6:01 Item: 2 ammo_shells
+  6:02 Item: 2 weapon_plasmagun
+  6:02 Item: 1 weapon_rocketlauncher
+  6:04 Item: 0 ammo_bullets
+  6:05 Item: 1 weapon_rocketlauncher
+  6:08 Kill: 0 1 8: Collector killed ^6anomen by MOD_PLASMA
+  6:09 Item: 3 weapon_plasmagun
+  6:09 Item: 0 weapon_rocketlauncher
+  6:11 Kill: 2 3 8: Echo killed GWAF by MOD_PLASMA
+  6:12 Item: 2 weapon_plasmagun
+  6:14 Item: 0 item_armor_shard
+  6:14 Item: 0 item_armor_shard
+  6:14 Item: 3 weapon_shotgun
+  6:14 Item: 0 item_armor_shard
+  6:15 Item: 0 item_armor_shard
+  6:15 Item: 0 item_armor_shard
+  6:15 Item: 2 weapon_plasmagun
+  6:19 Item: 2 item_health_large
+  6:19 Item: 0 item_health
+  6:20 Kill: 0 3 6: Collector killed GWAF by MOD_ROCKET
+  6:20 Item: 0 item_health
+  6:21 Item: 1 item_armor_body
+  6:22 Item: 0 weapon_shotgun
+  6:25 Item: 1 weapon_plasmagun
+  6:26 Item: 3 weapon_shotgun
+  6:28 Item: 1 item_armor_combat
+  6:29 Item: 3 weapon_rocketlauncher
+  6:31 Item: 0 item_health
+  6:32 Kill: 1 3 8: ^6anomen killed GWAF by MOD_PLASMA
+  6:33 Item: 1 weapon_rocketlauncher
+  6:34 Kill: 0 2 6: Collector killed Echo by MOD_ROCKET
+  6:36 Item: 0 item_health
+  6:37 Item: 3 weapon_plasmagun
+  6:38 Kill: 1 3 6: ^6anomen killed GWAF by MOD_ROCKET
+  6:39 Item: 2 item_armor_shard
+  6:40 Item: 2 item_armor_shard
+  6:41 Item: 2 ammo_bullets
+  6:45 Kill: 1 3 7: ^6anomen killed GWAF by MOD_ROCKET_SPLASH
+  6:47 Item: 2 weapon_plasmagun
+  6:48 Item: 2 weapon_plasmagun
+  6:49 Item: 2 ammo_cells
+  6:49 Item: 3 weapon_shotgun
+  6:51 Kill: 1 0 8: ^6anomen killed Collector by MOD_PLASMA
+  6:51 Item: 3 item_armor_shard
+  6:51 Item: 3 item_armor_shard
+  6:52 Item: 3 item_armor_shard
+  6:52 Item: 3 item_armor_shard
+  6:52 Item: 3 item_armor_shard
+  6:52 Item: 1 weapon_shotgun
+  6:54 Item: 2 weapon_rocketlauncher
+  6:55 Item: 1 ammo_shells
+  6:55 Item: 1 ammo_rockets
+  6:58 Kill: 0 2 3: Collector killed Echo by MOD_MACHINEGUN
+  6:59 Item: 1 weapon_plasmagun
+  6:59 Item: 0 weapon_rocketlauncher
+  7:00 Item: 1 item_armor_body
+  7:02 Item: 0 weapon_rocketlauncher
+  7:02 Item: 2 weapon_plasmagun
+  7:04 Item: 1 ammo_shells
+  7:04 Item: 2 item_armor_combat
+  7:05 Kill: 0 3 6: Collector killed GWAF by MOD_ROCKET
+  7:07 Item: 0 weapon_rocketlauncher
+  7:09 Kill: 2 1 8: Echo killed ^6anomen by MOD_PLASMA
+  7:10 Item: 3 item_armor_shard
+  7:10 Item: 0 weapon_shotgun
+  7:10 Item: 3 item_armor_shard
+  7:10 Item: 2 weapon_plasmagun
+  7:12 Item: 0 item_health
+  7:13 Item: 2 weapon_plasmagun
+  7:15 Kill: 0 1 7: Collector killed ^6anomen by MOD_ROCKET_SPLASH
+  7:15 Exit: Fraglimit hit.
+  7:15 score: 30  ping: 48  client: 0 Collector
+  7:15 score: 16  ping: 37  client: 1 ^6anomen
+  7:15 score: 15  ping: 12  client: 2 Echo
+  7:15 score: 6  ping: 253  client: 3 GWAF
+  7:15 Item: 2 item_health_large
+  7:15 Item: 0 item_health
+  7:27 say: ^6anomen: enough?
+  7:31 ShutdownGame:
+  7:31 ------------------------------------------------------------
+  7:31 ------------------------------------------------------------
+  7:31 InitGame: \capturelimit\8\g_maxGameClients\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\8\sv_hostname\malina\timelimit\25\fraglimit\30\dmflags\0\version\ioq3 1.36+u20181222.e5da13f~dfsg-2/Raspbian linux-arm Mar  8 2019\com_gamename\Quake3Arena\com_protocol\71\g_gametype\0\mapname\q3dm2\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+  7:31 ClientConnect: 0
+  7:31 ClientUserinfoChanged: 0 n\Collector\t\0\model\doom/default\hmodel\doom/default\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  7:31 ClientBegin: 0
+  7:31 ClientConnect: 1
+  7:31 ClientUserinfoChanged: 1 n\^6anomen\t\0\model\ranger/default\hmodel\ranger/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  7:31 ClientBegin: 1
+  7:31 ClientConnect: 2
+  7:31 ClientUserinfoChanged: 2 n\Echo\t\0\model\cash/default\hmodel\cash/default\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  7:31 ClientBegin: 2
+  7:31 ClientConnect: 3
+  7:31 ClientUserinfoChanged: 3 n\GWAF\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  7:31 ClientBegin: 3
+  7:34 say: Collector: yes
+  7:37 say: Collector: GG
+  7:38 say: GWAF: gg
+  7:51 say: ^6anomen: much more fun in 4
+  7:54 ClientDisconnect: 3
+  7:56 say: Collector: thx for joining
+  7:58 say: Collector: cu
+  8:01 ClientDisconnect: 2
+  8:04 ClientDisconnect: 0
+  8:06 ClientDisconnect: 1
+ 32:31 Exit: Timelimit hit.
+ 90:35 ShutdownGame:
+ 90:35 ------------------------------------------------------------
