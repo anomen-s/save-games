@@ -1,8 +1,8 @@
 # Avatar
 
 * [Full size 420px](avatarfinal.png)
-* [Small 48px](avatar48bw.png)
-* [Small black-white 48px](avatar48.png)
+* [Small 48px](avatar48.png)
+* [Small black-white 48px](avatar48bw.png)
 
 ## Mail
 See https://en.wikipedia.org/wiki/X-Face
