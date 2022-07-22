@@ -1,7 +1,0 @@
-windows:
-%APPDATA%\supertuxkart\config-0.10
-c:\Users\<User>\AppData\Roaming\supertuxkart\config-0.10
-
-linux:
-~/.config/supertuxkart/config-0.10
-~/.local/share/supertuxkart
