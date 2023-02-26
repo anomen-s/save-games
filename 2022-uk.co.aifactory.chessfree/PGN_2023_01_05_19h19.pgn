@@ -1,0 +1,23 @@
+[Event "AI Factory's Chess"]
+[Site "Android Device"]
+[Date "2023.01.05"]
+[Round "1"]
+[White "Cpu (3)"]
+[Black "You"]
+[PlyCount "136"]
+[Result "0-1"]
+
+1. f4 Nf6 2. e4 Nxe4 3. a4 Nd6 4. d4 e6 5. h4 g5 
+6. hxg5 Nf5 7. g4 Ng3 8. Rxh7 Rxh7 9. Qf3 Nxf1 10. Qxb7 Bxb7 
+11. Kxf1 Rh1 12. Be3 Rxg1+ 13. Kxg1 d5 14. Nc3 f6 15. g6 Qe7 
+16. Kh2 Qg7 17. f5 Qh8+ 18. Kg3 Bd6+ 19. Bf4 Bxf4+ 20. Kxf4 Qh2+ 
+21. Kf3 Qxc2 22. fxe6 Qxb2 23. Rd1 Qxc3+ 24. Kf4 Qb3 25. Re1 Qxa4 
+26. Kf3 Qxd4 27. g7 Qd3+ 28. Re3 Qh7 29. Ke2 Qxg7 30. Kd3 Qxg4 
+31. Re1 Nc6 32. Kd2 Nd4 33. e7 Qe2+ 34. Rxe2 Nxe2 35. Kxe2 Kxe7 
+36. Ke3 Re8 37. Kd2 Ba6 38. Ke3 Rg8 39. Kd4 Rg5 40. Kc5 Kd7 
+41. Kd4 f5 42. Ke5 f4+ 43. Kxf4 Rg6 44. Kf5 Rg8 45. Ke5 Rg5+ 
+46. Kf6 Rg4 47. Kf5 Rg2 48. Ke5 Rd2 49. Kf4 d4 50. Ke4 d3 
+51. Kd4 Rd1 52. Kc3 d2 53. Kb2 Re1 54. Ka3 d1=Q 55. Kb4 Re4+ 
+56. Kc3 Qd4+ 57. Kb3 Qa4+ 58. Kb2 Re1 59. Kc3 Qc4+ 60. Kb2 Qe2+ 
+61. Kc3 Rc1+ 62. Kb3 Bb5 63. Kb4 Rb1+ 64. Kc5 Rc1+ 65. Kb4 Kc6 
+66. Kb3 Rb1+ 67. Ka3 Qb2+  0-1
