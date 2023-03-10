@@ -1,0 +1,2 @@
+# Savegames
+* %USERPROFILE%/Documents/StarCraft
