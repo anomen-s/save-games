@@ -1,0 +1,13 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-03-10"]
+[White "Aron 700"]
+[Black "anomen_s"]
+[Result "0-1"]
+[Termination "anomen_s won by checkmate"]
+1. g3 Nf6 2. h4 Nc6 3. Bg2 e5 4. Nc3 d5 5. Nf3 b6 6. Nb1 a5 7. e3 Qd7 8. O-O Qh3
+9. Bxh3 Bxh3 10. d3 Bb4 11. Nfd2 O-O-O 12. Kh2 Bxf1 13. Qxf1 Ng4+ 14. Kg2 Rhe8
+15. Kh3 h5 16. f3 Nxe3 17. Qe2 Nxc2 18. Kg2 Nxa1 19. Qe1 e4 20. a4 exf3+ 21.
+Nxf3 Rxe1 22. Nxe1 Re8 23. Nf3 Re3 24. Bxe3 Nc2 25. Bf2 f5 26. Kh3 f4 27. Nc3
+fxg3 28. Bxg3 Bxc3 29. bxc3 Ne3 30. Bf4 b5 31. axb5 a4 32. bxc6 a3 33. Bh2 a2
+34. Be5 a1=Q 35. Bxg7 Qh1+ 36. Nh2 Qg2# 0-1

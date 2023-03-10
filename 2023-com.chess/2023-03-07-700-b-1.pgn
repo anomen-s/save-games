@@ -1,0 +1,9 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-03-07"]
+[White "Aron 700"]
+[Black "anomen_s"]
+[Result "0-1"]
+[Termination "anomen_s won by checkmate"]
+1. d4 d5 2. c4 c6 3. b3 dxc4 4. bxc4 Be6 5. Nd2 Nf6 6. e4 Na6 7. f4 Nb4 8. Ne2
+Nd3# 0-1
