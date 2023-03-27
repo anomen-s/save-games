@@ -1,0 +1,17 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-03-26"]
+[White "Sven 1100"]
+[Black "anomen_s"]
+[Result "0-1"]
+[Termination "anomen_s won by checkmate"]
+
+1. c4 Nf6 2. Nc3 Nc6 3. d4 d6 4. e3 e5 5. e4 exd4 6. Bg5 Qd7 7. Nd5 Nxd5 8. cxd5
+Ne5 9. Qxd4 c5 10. Qe3 Qa4 11. Qe2 Bg4 12. Bd2 Bxe2 13. Bxe2 Qc2 14. Bf4 Nd3+
+15. Kf1 Nxf4 16. Bb5+ Kd8 17. Re1 Qxb2 18. a4 Rc8 19. Ne2 Nxe2 20. Rxe2 Qc1+ 21.
+Re1 Qg5 22. h4 Qf4 23. Re3 Be7 24. g3 Qe5 25. Kg2 a6 26. Be2 c4 27. Rd1 c3 28.
+f4 Qf6 29. a5 c2 30. Rc1 Qb2 31. Rf1 c1=Q 32. Rxc1 Qxc1 33. Rf3 Rc2 34. Rf2 Qb2
+35. Bd3 Rxf2+ 36. Kh3 Rh2+ 37. Kg4 Rxh4+ 38. gxh4 Qd2 39. e5 Qxd3 40. f5 h5+ 41.
+Kf4 Qd4+ 42. Kf3 Qxd5+ 43. Kf2 Qxe5 44. Kg1 Qxf5 45. Kh1 Qh3+ 46. Kg1 Qxh4 47.
+Kf1 Qh1+ 48. Ke2 Bg5 49. Kd3 Re8 50. Kc3 Re3+ 51. Kb4 Qb1+ 52. Ka4 Re5 53. Ka3
+Bc1+ 54. Ka4 Qb5# 0-1

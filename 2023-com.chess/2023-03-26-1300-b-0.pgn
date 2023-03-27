@@ -1,0 +1,10 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-03-26"]
+[White "Nelson 1300"]
+[Black "anomen_s"]
+[Result "1-0"]
+[Termination "Nelson won by checkmate"]
+
+1. e4 e5 2. Qh5 g6 3. Qxe5+ Be7 4. Qxh8 Kf8 5. Qxh7 Nf6 6. Qh8+ Ng8 7. Bc4 Bd6
+8. d3 Qf6 9. Bh6+ Ke7 10. Qxg8 Qd4 11. Qf8+ Kf6 12. Qxf7+ Ke5 13. f4# 1-0

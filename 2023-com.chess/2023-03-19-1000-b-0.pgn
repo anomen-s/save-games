@@ -1,0 +1,13 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-03-19"]
+[White "Ada Lovelace 1000"]
+[Black "anomen_s"]
+[Result "1-0"]
+[Termination "Ada Lovelace won by checkmate"]
+
+1. d4 e6 2. c4 d6 3. e4 c5 4. Be2 cxd4 5. Qxd4 Nc6 6. Qd3 d5 7. cxd5 exd5 8.
+exd5 Ne5 9. Qd4 f6 10. Kf1 Qd7 11. Qh4 g5 12. Qe4 Ne7 13. Be3 Qc7 14. Nc3 b6 15.
+Nb5 Qd7 16. d6 Bh6 17. Qxa8 g4 18. Bxh6 Rg8 19. Rc1 g3 20. a4 gxf2 21. Qe4
+fxg1=Q+ 22. Rxg1 Rg4 23. Qxh7 Ba6 24. Ke1 Rxa4 25. b3 Bxb5 26. Qg7 Qxd6 27. Rc3
+Ra1+ 28. Bc1 Qd4 29. Bxb5+ Kd8 30. Qf8# 1-0

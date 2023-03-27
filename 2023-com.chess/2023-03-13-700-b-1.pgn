@@ -1,0 +1,20 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-03-13"]
+[White "Jane Goodall 700"]
+[Black "anomen_s"]
+[Result "0-1"]
+[Termination "anomen_s won by checkmate"]
+
+1. e4 Nf6 2. e5 Ne4 3. d3 Nxf2 4. Kxf2 f6 5. Qe1 fxe5 6. Qxe5 d6 7. Qg5 Kf7 8.
+Ne2 h6 9. Qd5+ e6 10. Qf3+ Kg8 11. Nd2 Qh4+ 12. g3 Qh5 13. Qxh5 g6 14. Nc3 gxh5
+15. Nce4 d5 16. Nf6+ Kf7 17. Nxh5 Ke8 18. c3 c6 19. Kg2 e5 20. h3 Rg8 21. b3 Bd6
+22. g4 Rg5 23. Kh2 Bxg4 24. hxg4 Rxg4 25. Bh3 Rh4 26. Ng7+ Kf8 27. Nf5 e4+ 28.
+Kg1 Rf4 29. Bg2 Rxf5 30. Bb2 exd3 31. Rh3 Re5 32. Rxd3 Re1+ 33. Rxe1 Bf4 34. Bh3
+Bxd2 35. Be6 Bxe1 36. Rd4 Ke7 37. Bc8 Nd7 38. Kf1 Rxc8 39. b4 Re8 40. Rg4 Kd8
+41. Kg2 Nf6 42. Rg6 Re2+ 43. Kf3 Re6 44. Rxh6 Ke7 45. Bc1 Ne4 46. Ba3 Rxh6 47.
+Ke3 Bxc3 48. Bc1 Bxb4 49. Kd4 Nc3 50. Bxh6 Nxa2 51. Kd3 a5 52. Kd4 a4 53. Be3 a3
+54. Bf4 Nc3 55. Ke5 Ne2 56. Bh6 a2 57. Bg5+ Kd7 58. Bh6 a1=Q+ 59. Kf5 Qh8 60.
+Kg4 Qxh6 61. Kf3 Nd4+ 62. Kf2 Qe3+ 63. Kxe3 Nc2+ 64. Kf4 d4 65. Kf5 d3 66. Ke5
+d2 67. Kf5 d1=Q 68. Kf4 Bd6+ 69. Ke4 Qd4+ 70. Kf3 Ne3 71. Kf2 Ng4+ 72. Ke2 Qf2+
+73. Kd1 Ne3+ 74. Kc1 Ba3+ 75. Kb1 Qb2# 0-1

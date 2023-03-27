@@ -1,0 +1,13 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-03-13"]
+[White "Jimmy 600"]
+[Black "anomen_s"]
+[Result "0-1"]
+[Termination "anomen_s won by checkmate"]
+
+1. e4 e6 2. f3 Nc6 3. Nc3 Nf6 4. d4 e5 5. a3 Nxd4 6. g4 d5 7. Nge2 Nxf3+ 8. Kf2
+Nh4 9. Bd2 Bxg4 10. h3 Bf3 11. Rg1 Bxe4 12. Rb1 Nf3 13. Bc1 Nxg1 14. Be3 Nxh3+
+15. Bxh3 Bg6 16. Bd2 Bc5+ 17. Kg2 O-O 18. Ng3 a6 19. Bc1 c6 20. b4 Bd4 21. Qf1
+Bxc3 22. Kf3 Bxc2 23. Be3 Bxb1 24. Qxb1 e4+ 25. Kf4 Qd6+ 26. Kg5 h6+ 27. Kh4 Qe5
+28. Qh1 g5+ 29. Bxg5 hxg5# 0-1

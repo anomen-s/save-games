@@ -1,0 +1,13 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-03-16"]
+[White "anomen_s"]
+[Black "Hedy Lamarr 900"]
+[Result "1-0"]
+[Termination "anomen_s won by checkmate"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 Nxe4 4. Nxe4 dxe4 5. Qe2 a5 6. Qxe4 f5 7. Qf4 h6 8.
+Bd2 Qd5 9. Nf3 Nc6 10. O-O-O Rb8 11. Re1 b5 12. Ne5 e6 13. Nxc6 Qxc6 14. Bxa5
+Qd7 15. Qh4 g5 16. Qh5+ Kd8 17. Re5 Ra8 18. Bxb5 Rxa5 19. Bxd7 Kxd7 20. Rxa5 Ke7
+21. Ra8 Bg7 22. Re1 Kd6 23. Ra6+ Bxa6 24. Qg6 h5 25. Qxg7 Rc8 26. Qe5+ Kd7 27.
+Qxe6+ Kd8 28. Qe7# 1-0
