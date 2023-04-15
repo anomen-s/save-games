@@ -1,0 +1,10 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-03-30"]
+[White "Mary Jackson 1200"]
+[Black "anomen_s"]
+[Result "1-0"]
+[Termination "Mary Jackson won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d5 4. exd5 Nb4 5. Bb5+ c6 6. Nxe5 cxb5 7. Qf3 Nxd5 8.
+Qxf7# 1-0
