@@ -1,0 +1,12 @@
+[Event "AI Factory's Chess"]
+[Site "Android Device"]
+[Date "2023.03.19"]
+[Round "1"]
+[White "You"]
+[Black "Cpu (4)"]
+[PlyCount "28"]
+[Result "0-1"]
+
+1. e4 e5 2. d4 Qh4 3. g3 Qxe4+ 4. Be3 Qxh1 5. Nf3 e4 
+6. Ne5 d6 7. Nc4 Qxh2 8. Qg4 Bxg4 9. Nb1d2 Nf6 10. f3 Qxg3+ 
+11. Kd1 exf3 12. Na5 f2+ 13. Kc1 Qxe3 14. Nxb7 Qe1#  0-1
