@@ -1,0 +1,59 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/eony8F6G"]
+[Date "2023.04.10"]
+[White "anomen"]
+[Black "lichess AI level 3"]
+[Result "0-1"]
+[UTCDate "2023.04.10"]
+[UTCTime "14:11:10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+[Termination "Time forfeit"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] }
+2. Nf3 { [%clk 0:09:54] } 2... d6 { [%clk 0:09:57] }
+3. Bb5+ { [%clk 0:09:47] } 3... Bd7 { [%clk 0:09:54] } { B52 Sicilian Defense: Moscow Variation, Main Line }
+4. Bxd7+ { [%clk 0:09:39] } 4... Nxd7 { [%clk 0:09:53] }
+5. d4 { [%clk 0:09:32] } 5... e5 { [%clk 0:09:49] }
+6. dxc5 { [%clk 0:09:17] } 6... Nxc5 { [%clk 0:09:43] }
+7. b4 { [%clk 0:08:34] } 7... Nxe4 { [%clk 0:09:36] }
+8. Qd5 { [%clk 0:08:18] } 8... Ngf6 { [%clk 0:09:29] }
+9. Qxb7 { [%clk 0:07:58] } 9... d5 { [%clk 0:09:22] }
+10. Bg5 { [%clk 0:07:53] } 10... Be7 { [%clk 0:09:17] }
+11. Nxe5 { [%clk 0:07:40] } 11... O-O { [%clk 0:09:12] }
+12. O-O { [%clk 0:07:12] } 12... Rc8 { [%clk 0:09:05] }
+13. Rc1 { [%clk 0:06:50] } 13... Rb8 { [%clk 0:09:02] }
+14. Qxa7 { [%clk 0:06:40] } 14... Nxg5 { [%clk 0:08:58] }
+15. Qe3 { [%clk 0:06:20] } 15... Nge4 { [%clk 0:08:53] }
+16. Nc3 { [%clk 0:06:00] } 16... Rxb4 { [%clk 0:08:50] }
+17. Rab1 { [%clk 0:05:45] } 17... Re8 { [%clk 0:08:47] }
+18. Rxb4 { [%clk 0:05:41] } 18... Nxc3 { [%clk 0:08:40] }
+19. Qxc3 { [%clk 0:05:37] } 19... Bxb4 { [%clk 0:08:36] }
+20. Qxb4 { [%clk 0:05:29] } 20... Ne4 { [%clk 0:08:32] }
+21. Re1 { [%clk 0:05:22] } 21... Qf6 { [%clk 0:08:26] }
+22. Nd7 { [%clk 0:05:11] } 22... Qf4 { [%clk 0:08:22] }
+23. f3 { [%clk 0:04:25] } 23... Qd6 { [%clk 0:08:17] }
+24. Qb7 { [%clk 0:03:39] } 24... Rd8 { [%clk 0:08:12] }
+25. fxe4 { [%clk 0:03:31] } 25... Qxd7 { [%clk 0:08:09] }
+26. Qb6 { [%clk 0:03:07] } 26... dxe4 { [%clk 0:08:05] }
+27. Qe3 { [%clk 0:02:42] } 27... g6 { [%clk 0:08:01] }
+28. Qxe4 { [%clk 0:02:39] } 28... Qc7 { [%clk 0:07:57] }
+29. Qe2 { [%clk 0:02:12] } 29... Qa5 { [%clk 0:07:52] }
+30. Rd1 { [%clk 0:02:08] } 30... Rc8 { [%clk 0:07:48] }
+31. g3 { [%clk 0:01:19] } 31... h5 { [%clk 0:07:44] }
+32. Kg2 { [%clk 0:01:16] } 32... Qc5 { [%clk 0:07:41] }
+33. Qe4 { [%clk 0:01:03] } 33... g5 { [%clk 0:07:37] }
+34. Rd5 { [%clk 0:00:59] } 34... Qc3 { [%clk 0:07:32] }
+35. Rxg5+ { [%clk 0:00:51] } 35... Qg7 { [%clk 0:07:28] }
+36. Rxg7+ { [%clk 0:00:48] } 36... Kf8 { [%clk 0:07:25] }
+37. Qe5 { [%clk 0:00:35] } 37... Rxc2+ { [%clk 0:07:22] }
+38. Kh3 { [%clk 0:00:32] } 38... Rf2 { [%clk 0:07:19] }
+39. Qd6+ { [%clk 0:00:14] } 39... Kxg7 { [%clk 0:07:17] }
+40. Qd4+ { [%clk 0:00:03] } 40... Rf6 { [%clk 0:07:14] } { Black wins on time. } 0-1
+
+
