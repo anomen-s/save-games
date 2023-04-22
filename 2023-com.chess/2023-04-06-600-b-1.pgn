@@ -1,0 +1,13 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-04-06"]
+[White "Fabigi 600"]
+[Black "anomen_s"]
+[Result "0-1"]
+[Termination "anomen_s won by checkmate"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nc6 4. Qa4 Rb8 5. b4 b5 6. Rg1 bxa4 7. Bg5 f6 8. Bd2
+Nxd4 9. Nxd4 Qxd4 10. f4 Qxg1 11. a3 Qd4 12. Ra2 Bf5 13. Nc3 Rd8 14. g3 Nh6 15.
+Nd1 Ng4 16. Bg2 Nf2 17. Bf3 Nd3+ 18. Kf1 Bh3+ 19. Bg2 Bxg2+ 20. Kxg2 Qe4+ 21.
+Kh3 Rd5 22. g4 h5 23. Kg3 hxg4 24. Rc2 Nxf4 25. Bxf4 Qxc2 26. h4 Qxd1 27. Bxc7
+Qxe2 28. Kf4 Qf3# 0-1

@@ -1,0 +1,14 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-04-08"]
+[White "anomen_s"]
+[Black "Nelson 1300"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "Nelson won by resignation"]
+
+1. e4 e5 2. Nf3 Qf6 3. d4 Bb4+ 4. c3 Bd6 5. Bg5 Qg6 6. Qd2 Qxe4+ 7. Kd1 h6 8.
+Bd3 Qg4 9. dxe5 Bc5 10. h3 Qxg2 11. Bc4 Qxh1+ 12. Kc2 Qxf3 13. Qd5 Qf5+ 14. Kd1
+hxg5 15. Nd2 Qxf2 16. Kc2 c6 17. Qe4 d5 18. Bxd5 cxd5 19. Qxd5 Rxh3 20. e6 Bxe6
+21. Rf1 Bxd5 22. Rxf2 Bxf2 23. c4 Bc6 24. Kd1 a6 25. Ke2 Be3 26. Kd3 f5 27. Kc3
+a5 28. b4 Bxd2+ 29. Kxd2 Kd8 30. Kc2 axb4 31. a3 bxa3 32. c5 Kc7 0-1

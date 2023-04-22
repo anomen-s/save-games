@@ -1,0 +1,19 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-04-14"]
+[White "anomen_s"]
+[Black "Neeko 800"]
+[Result "1-0"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. c3 e5 2. Nf3 e4 3. Nd4 a5 4. e3 Bc5 5. b4 a4 6. bxc5 Nh6 7. d3 Qg5 8. f3 O-O
+9. fxe4 Kh8 10. Ba3 f5 11. exf5 Nxf5 12. Nxf5 Rxf5 13. e4 Rf8 14. c6 b5 15. Bxf8
+Qf4 16. Nd2 h6 17. Nf3 Qxf8 18. cxd7 Nxd7 19. d4 b4 20. Rb1 Qe8 21. Bc4 bxc3 22.
+O-O Qxe4 23. Ne5 Nf6 24. Nf7+ Kh7 25. Qe1 c6 26. Qxe4+ Nxe4 27. Rbe1 Nf6 28.
+Rxf6 gxf6 29. Bd3+ f5 30. Re7 Ra5 31. Nd6+ Kg8 32. Re8+ Kg7 33. Rxc8 Rd5 34.
+Nxf5+ Kg6 35. Rxc6+ Kg5 36. Nxh6 Kf4 37. Re6 a3 38. g4 Rd7 39. Re4+ Kf3 40. Re2
+Rxd4 41. Nf5 Rxd3 42. Rf2+ Kxg4 43. Nh6+ Kh5 44. Nf5 Rd5 45. Ne3 Rb5 46. Rf4 Ra5
+47. h4 Rc5 48. Kf2 Kg6 49. Rg4+ Kh5 50. Rg8 c2 51. Rh8+ Kg6 52. h5+ Kf6 53. Ng4+
+Kg7 54. Rh6 c1=Q 55. Rg6+ Kf8 56. Rf6+ Kg7 57. h6+ Kh7 58. Rf7+ Kg8 59. h7+ Kxf7
+60. h8=Q Rg5 61. Nh6+ Ke7 62. Qh7+ Kd8 63. Nf7+ Kc8 64. Nd6+ Kb8 65. Qb7# 1-0

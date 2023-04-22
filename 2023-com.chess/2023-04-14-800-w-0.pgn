@@ -1,0 +1,10 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-04-14"]
+[White "anomen_s"]
+[Black "Neeko 800"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "Neeko won by checkmate"]
+
+1. e4 e5 2. Nf3 Bc5 3. Nxe5 Qh4 4. Nf3 Qxf2# 0-1

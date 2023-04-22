@@ -1,0 +1,13 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-04-08"]
+[White "anomen_s"]
+[Black "Boshi 400"]
+[Result "1-0"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bg5 Ng8 6. Nc3 Nh6 7. Nd5 e6 8.
+Bb5+ Nd7 9. Bxd8 Kxd8 10. Nf4 Nc5 11. O-O Rb8 12. Nb3 g5 13. Nxc5 gxf4 14. Qd4
+Rg8 15. Qf6+ Be7 16. Qxh6 f3 17. Qxh7 Bf6 18. Qxg8+ Ke7 19. gxf3 a6 20. Nxe6
+Bxe6 21. Qxb8 Bxb2 22. Qxb7+ Kd8 23. Rad1 Bxa2 24. Qd7# 1-0
