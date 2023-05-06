@@ -1,0 +1,15 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-05-05"]
+[White "QTCinderella  900"]
+[Black "anomen_s"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. f4 e5 2. c4 Qh4+ 3. g3 Qg4 4. Qa4 Bc5 5. Qa5 b6 6. Qc3 exf4 7. a4 fxg3 8.
+hxg3 Nf6 9. b4 d5 10. bxc5 Ne4 11. cxd5 Nxc3 12. Nxc3 Qxg3+ 13. Kd1 Bg4 14. Bg2
+Qxg2 15. c6 Qxh1 16. Nb5 Qxg1+ 17. Kc2 Bxe2 18. Nxc7+ Kd8 19. Nb5 Bxb5 20. axb5
+Qd4 21. Bb2 Qxd5 22. Kd1 Re8 23. Ra4 Qb3+ 24. Kc1 Qxa4 25. Be5 Rxe5 26. Kb2
+Rxb5+ 27. Kc1 Qb3 28. d3 Qb1+ 29. Kd2 Rb2+ 30. Ke3 Qe1+ 31. Kf4 Qf1+ 32. Ke5
+Qf6+ 33. Ke4 Re2+ 34. Kd5 Qxc6+ 35. Kd4 Qc5# 0-1
