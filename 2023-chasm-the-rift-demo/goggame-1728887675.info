@@ -1,0 +1,30 @@
+{
+    "buildId": "56517257216299791",
+    "clientId": "55826877212253434",
+    "gameId": "1728887675",
+    "language": "English",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Chasm: The Rift Demo",
+    "osBitness": [
+        "64"
+    ],
+    "playTasks": [
+        {
+            "category": "game",
+            "isPrimary": true,
+            "languages": [
+                "en-US"
+            ],
+            "name": "Chasm: The Rift Demo",
+            "osBitness": [
+                "64"
+            ],
+            "path": "Chasm-Demo.exe",
+            "type": "FileTask"
+        }
+    ],
+    "rootGameId": "1728887675",
+    "version": 1
+}
