@@ -1,0 +1,20 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-05-16"]
+[White "Ludwig 1200"]
+[Black "anomen_s"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Be2 d5 5. O-O Bg4 6. exd5 Nb4 7. Nxe5 Bd6 8.
+Nxg4 Nxg4 9. Bxg4 Bxh2+ 10. Kxh2 Qd6+ 11. f4 Qh6+ 12. Bh3 O-O 13. a3 Na6 14. g3
+Rfe8 15. Qf3 Rad8 16. Kg2 g5 17. fxg5 Qxg5 18. Qxf7+ Kh8 19. Bd7 Rg8 20. Qf4
+Qxf4 21. Rxf4 Rxd7 22. b3 Rdg7 23. d4 Rxg3+ 24. Kf1 Rg1+ 25. Ke2 R8g2+ 26. Kf3
+Rxc2 27. Rh4 Rxc3+ 28. Ke4 Re1+ 29. Kf5 Rcxc1 30. Rxc1 Rxc1 31. Kf4 Kg7 32. Rh2
+Rf1+ 33. Ke4 Kg6 34. Rh4 h5 35. Rh2 Kg5 36. b4 Rf4+ 37. Ke5 Kg4 38. b5 Kg3 39.
+Rxh5 Nb8 40. Rh1 Kf3 41. Rh5 Re4+ 42. Kf6 Rxd4 43. Ke6 Ke4 44. Rg5 Kf4 45. Rg7
+Ra4 46. Rxc7 Rxa3 47. d6 Ra5 48. d7 Nxd7 49. Kxd7 Rxb5 50. Ke8 a6 51. Re7 a5 52.
+Re1 a4 53. Rg1 a3 54. Rg6 a2 55. Rg1 Rb1 56. Rg2 a1=Q 57. Rg8 Re1+ 58. Kd8 Qd4+
+59. Kc8 b6 60. Rg7 Qxg7 61. Kd8 Qg8+ 62. Kc7 b5 63. Kb6 b4 64. Kc6 b3 65. Kb7 b2
+66. Ka6 b1=Q 67. Ka7 Qgb8+ 68. Ka6 Qa8# 0-1

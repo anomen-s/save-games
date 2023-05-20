@@ -1,0 +1,15 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-05-19"]
+[White "Sven 1100"]
+[Black "anomen_s"]
+[Result "1-0"]
+[TimeControl "-"]
+[Termination "Sven won by checkmate"]
+
+1. c4 e5 2. Nc3 f5 3. e4 fxe4 4. Nxe4 c6 5. Qg4 d5 6. Qf3 dxe4 7. Qh5+ g6 8.
+Qxe5+ Be7 9. Qxh8 Kf7 10. b3 Bf6 11. Qxh7+ Bg7 12. Bb2 Nh6 13. Qxg7+ Ke6 14. c5
+Ng4 15. a3 e3 16. dxe3 Nd7 17. O-O-O Qf6 18. Bxf6 Ndxf6 19. Qxg6 Ne5 20. Qg7 Nh5
+21. Kc2 Nxg7 22. f4 Ng6 23. Kb2 Kf5 24. Bc4 b5 25. Rd2 bxc4 26. Rd6 Ne7 27. Rh6
+Ba6 28. Rd6 Rb8 29. b4 Nc8 30. Rh6 Ke4 31. Ne2 Kxe3 32. Rb1 Nf5 33. Re6+ Kf2 34.
+g4 Nd4 35. Ng1 Nb5 36. Re2# 1-0

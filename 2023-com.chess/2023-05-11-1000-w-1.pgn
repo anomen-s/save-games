@@ -1,0 +1,15 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-05-11"]
+[White "anomen_s"]
+[Black "Lauren 1000"]
+[Result "1-0"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Bb5 e5 5. Bxc6 dxc6 6. Bg5 f6 7. Bh4 Be6 8. c3
+Qd7 9. cxd4 Qd6 10. dxe5 Qb4+ 11. Nc3 Qc5 12. exf6 Nxf6 13. e5 Nd5 14. Nxd5 Bxd5
+15. Rc1 Qb5 16. Nd4 Bb4+ 17. Qd2 Bxd2+ 18. Kxd2 Bxg2 19. Rhe1 Be4 20. Nxb5 a5
+21. Nc7+ Kf7 22. Nxa8 Bd5 23. e6+ Kf8 24. e7+ Ke8 25. Nc7+ Kd7 26. Nxd5 cxd5 27.
+Rc5 b6 28. Rxd5+ Ke8 29. Rd6 Rg8 30. Rxb6 g5 31. Rb8+ Kd7 32. Rxg8 gxh4 33.
+e8=Q+ Kc7 34. Rc1+ Kd6 35. Qd8+ Ke5 36. Re1+ Kf5 37. Qf8# 1-0

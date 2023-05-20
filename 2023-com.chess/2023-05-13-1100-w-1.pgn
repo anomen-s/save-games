@@ -1,0 +1,17 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-05-13"]
+[White "anomen_s"]
+[Black "MrBeast 1100"]
+[Result "1-0"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. d4 Nf6 2. Nf3 g6 3. e4 Nxe4 4. Bd3 e6 5. Bxe4 Qe7 6. Bd3 h6 7. Nc3 a5 8. b3
+Qb4 9. Bd2 Nc6 10. Ne4 Qe7 11. b4 axb4 12. c4 Ra3 13. Qb1 Rxd3 14. Qxd3 d5 15.
+cxd5 exd5 16. Rc1 dxe4 17. Qe3 exf3 18. Qxe7+ Bxe7 19. d5 fxg2 20. Rg1 Nd4 21.
+Rxc7 Bd8 22. Rxc8 Kd7 23. Rc4 Bh4 24. Rxd4 Rd8 25. Rxg2 Be7 26. Bxh6 Bd6 27. Bf4
+Bxf4 28. Rxf4 Ra8 29. Rxb4 Rxa2 30. Rxb7+ Kd6 31. Rxf7 Kxd5 32. Rxg6 Rc2 33.
+Rg5+ Kd4 34. Kd1 Ra2 35. Rf4+ Kc3 36. Rf3+ Kd4 37. Rgg3 Kc5 38. Rc3+ Kb6 39.
+Rgf3 Ka5 40. Ra3+ Kb6 41. Rxa2 Kc5 42. Kd2 Kd4 43. Re3 Kd5 44. Rc2 Kd6 45. h3
+Kd5 46. h4 Kd6 47. h5 Kd5 48. h6 Kd6 49. h7 Kd5 50. h8=Q Kd6 51. Qd8# 1-0

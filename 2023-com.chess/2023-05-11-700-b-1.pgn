@@ -1,0 +1,15 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-05-11"]
+[White "Tectone 700"]
+[Black "anomen_s"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. Nh3 d5 2. g3 Nf6 3. f4 Nc6 4. d4 Bg4 5. c3 Ne4 6. Qa4 e6 7. a3 Qd7 8. Be3 e5
+9. Nf2 Nxf2 10. Bxf2 Bh3 11. fxe5 Bxf1 12. Kxf1 Qh3+ 13. Kg1 Qg4 14. e3 Rb8 15.
+b3 b5 16. Qa6 Qd1+ 17. Be1 Qxe1+ 18. Kg2 Qe2+ 19. Kg1 Qd1+ 20. Kg2 Qxb3 21. Rd1
+Qxd1 22. Qxc6+ Kd8 23. e4 Qc2+ 24. Kh3 Qxe4 25. Nd2 Qf5+ 26. Kg2 Be7 27. h3 Rb6
+28. Qa8+ Qc8 29. Re1 Qxa8 30. Rh1 Bg5 31. Nf3 Be3 32. Rh2 Qc6 33. Ng1 Bxg1 34.
+Kxg1 Qxc3 35. Rc2 Qxc2 36. Kf1 b4 37. Kg1 bxa3 38. h4 Rb1# 0-1

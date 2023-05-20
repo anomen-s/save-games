@@ -1,0 +1,13 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-05-08"]
+[White "Gavin 650"]
+[Black "anomen_s"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 c6 5. h3 e5 6. f3 Bb4 7. Bg2 O-O 8. Ne4
+Bf5 9. a4 Bxe4 10. fxe4 f5 11. Qc2 Ne3 12. h4 Nxc2+ 13. Kf1 Nxa1 14. e3 fxe4+
+15. Ke1 Qxd2+ 16. Bxd2 Bxd2+ 17. Ke2 Nd7 18. Bh3 Nc5 19. Kxd2 Nab3+ 20. Ke1 Rad8
+21. Rh2 Nd3+ 22. Kd1 Nf2+ 23. Ke1 Rd1+ 24. Ke2 Rfd8 25. Rxf2 R8d2# 0-1
