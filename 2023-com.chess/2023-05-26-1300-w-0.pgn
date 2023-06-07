@@ -1,0 +1,48 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-05-26"]
+[White "anomen_s"]
+[Black "Nelson 1300"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "Nelson won by checkmate"]
+
+1. d4 e5
+2. dxe5 Qh4
+3. Nf3 Qg4
+4. Nc3 Bc5
+5. h3 Qg6
+6. Na4 Bb4+
+7. c3 Be7
+8. Nh4 Bxh4
+9. Qd4 Be7
+10. Nc5 Qc2
+11. Qd2 Qg6
+12. e3 Bxc5
+13. Qd5 Bb6
+14. Bb5 Kf8
+15. b3 d6
+16. exd6 c6
+17. Qc4 cxb5
+18. Qxb5 { missed M2 } Qxg2
+19. Rf1 Qc6
+20. Qb4 Bxh3
+21. Rg1 g6
+22. Ba3 Bf5
+23. Rd1 Qf3
+24. Qa4 Bc2
+25. Rd2 Bb1
+26. d7+ Ne7
+27. d8=Q+ Bxd8
+28. Rxd8+ Kg7
+29. Rxh8 Kxh8
+30. Qe8+ Ng8
+31. Qe5+ f6
+32. Qc7 Bd3
+33. Qxh7+ Kxh7
+34. Rh1+ Qxh1+
+35. Kd2 Bb1
+36. Ke2 Nc6
+37. c4 Re8
+38. b4 Rd8
+39. b5 Qd1# 0-1

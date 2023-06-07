@@ -1,0 +1,22 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-05-25"]
+[White "anomen_s"]
+[Black "Nelson 1300"]
+[Result "1-0"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. d4 e6 2. e4 Qh4 3. Qe2 c5 4. g3 Qe7 5. dxc5 Qxc5 6. Be3 Qb4+ 7. Nc3 Qa5 8.
+Qc4 Nc6 9. Nf3 Bb4 10. a3 Be7 11. b4 Qc7 12. Nb5 Qb8 13. Bf4 d6 14. Nxd6+ Bxd6
+15. Bxd6 Qxd6 16. Rd1 Qc7 17. b5 Bd7 18. bxc6 Bxc6 19. Ne5 Qxe5 20. f4 Qxe4+ 21.
+Qxe4 Bxe4 22. Rg1 h6 23. Rd4 Bxc2 24. Kd2 Bh7 25. Bb5+ Ke7 26. Rd7+ Ke8 27. Rd1
+Nf6 28. Rxb7+ Kf8 29. Kc3 Bf5 30. Bc6 Rc8 31. Rxa7 Rxc6+ 32. Kb4 Rc2 33. Ra8+
+Ke7 34. Ra7+ Ke8 35. Ra8+ Ke7 36. Rxh8 Be4 37. Rhd8 Bd5 38. Rb8 Nd7 39. a4 Nxb8
+40. a5 Bc6 41. Kb3 Na6 42. Kxc2 Bb7 43. Rb1 Be4+ 44. Kb3 Bxb1 45. Ka4 Bf5 46.
+Kb5 Ke8 47. Kxa6 f6 48. Kb7 Ke7 49. a6 Kd6 50. a7 Kc5 51. a8=Q Kc4 52. Qg8 g5
+53. Qf7 Kc3 54. Qxf6+ Kd2 55. Qxh6 g4 56. Qf6 Ke2 57. Qd4 Bg6 58. Qg1 Kf3 59. h4
+gxh3 60. Qh2 Bf5 61. Qh1+ Kxg3 62. Qg1+ Kf3 63. Qf1+ Ke3 64. Kc6 Bd3 65. Qc1+
+Kf3 66. Kd6 Bf5 67. Ke5 Ke2 68. Qg1 Bd3 69. Kxe6 h2 70. Qxh2+ Ke3 71. Qg3+ Kd2
+72. f5 Kc3 73. f6 Kc4 74. f7 Bf5+ 75. Kxf5 Kb4 76. f8=Q+ Kc4 77. Ke5 Kb5 78. Qc3
+Kb6 79. Qfc5+ Kb7 80. Qb5+ Ka8 81. Qca5# 1-0

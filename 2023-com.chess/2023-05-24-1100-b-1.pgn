@@ -1,0 +1,11 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-05-24"]
+[White "Sven 1100"]
+[Black "anomen_s"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. d4 d5 2. c4 Nf6 3. Bf4 Nc6 4. Qd3 e5 5. dxe5 Ne4 6. cxd5 Bf5 7. dxc6 Bb4+ 8.
+Nc3 Nxc3 9. Qxf5 g6 10. cxb7 gxf5 11. h4 Nxa2+ 12. Bd2 Qxd2# 0-1

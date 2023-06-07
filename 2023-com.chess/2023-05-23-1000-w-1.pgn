@@ -1,0 +1,17 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-05-23"]
+[White "anomen_s"]
+[Black "Emir 1000"]
+[Result "1-0"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Nd5 e6 7. Nxf6+ Qxf6 8.
+c3 b5 9. b3 e5 10. Nf5 Bxf5 11. exf5 Qxf5 12. Qd5 Ra7 13. Qxb5+ axb5 14. Be3 Rb7
+15. O-O-O g6 16. Rd5 b4 17. Bb5+ Nd7 18. Bxd7+ Rxd7 19. cxb4 Rc7+ 20. Kd2 h5 21.
+Rc1 Rxc1 22. Kxc1 Kd8 23. Rb5 h4 24. Rb7 Bg7 25. Bb6+ Ke8 26. Rb8+ Ke7 27. Rb7+
+Kf6 28. b5 Qd3 29. Rc7 Qe2 30. Rc2 Qf1+ 31. Kb2 Qxb5 32. Be3 Qb8 33. b4 Qb7 34.
+Rc3 Qxg2 35. b5 Rb8 36. Ba7 Bh6 37. Bxb8 Ke7 38. b6 Ke6 39. b7 Kd7 40. Ba7 e4
+41. b8=Q Ke7 42. Rc7+ Ke6 43. Qh8 Qg4 44. Qxh6 Qg1 45. Qc1 g5 46. Qxg1 f6 47.
+Qg4+ f5 48. Qxg5 Kd5 49. Qxf5# 1-0

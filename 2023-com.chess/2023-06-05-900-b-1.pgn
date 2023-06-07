@@ -1,0 +1,14 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-06-05"]
+[White "The Green Pawn 900"]
+[Black "anomen_s"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. d4 Nxe4 6. Bd3 Nc5 7. dxc5 dxc5
+8. Qe2 Nc6 9. O-O Nd4 10. c3 Nxe2+ 11. Bxe2 Qe7 12. Rd1 Qxe2 13. Rf1 Bh3 14. b3
+Bxg2 15. Kxg2 Qe4+ 16. f3 Qe2+ 17. Kg1 Bd6 18. f4 Rhe8 19. Na3 Re4 20. Nc4 Bxf4
+21. Bxf4 Qg4+ 22. Bg3+ Kg6 23. Rac1 Rae8 24. Nd2 Re2 25. Nc4 Rxh2 26. Kxh2 Re2+
+27. Kh1 Qh3+ 28. Kg1 Rg2# 0-1
