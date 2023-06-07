@@ -1,0 +1,54 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/tDSYopgF"]
+[Date "2023.05.23"]
+[White "lichess AI level 3"]
+[Black "anomen"]
+[Result "1-0"]
+[UTCDate "2023.05.23"]
+[UTCTime "21:00:03"]
+[WhiteElo "?"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "1200+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Beyer Gambit"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:20:00] } 1... e5 { [%clk 0:20:00] }
+2. d4 { [%clk 0:19:56] } 2... d5 { [%clk 0:19:56] } { C20 King's Pawn Game: Beyer Gambit }
+3. Nf3 { [%clk 0:19:55] } 3... Nc6 { [%clk 0:19:51] }
+4. Nxe5 { [%clk 0:19:52] } 4... Nxe5 { [%clk 0:19:47] }
+5. dxe5 { [%clk 0:19:51] } 5... dxe4 { [%clk 0:19:36] }
+6. Qxd8+ { [%clk 0:19:45] } 6... Kxd8 { [%clk 0:19:34] }
+7. Nc3 { [%clk 0:19:39] } 7... f5 { [%clk 0:19:31] }
+8. a3 { [%clk 0:19:36] } 8... Be6 { [%clk 0:19:04] }
+9. h4 { [%clk 0:19:29] } 9... Ke8 { [%clk 0:17:31] }
+10. Bf4 { [%clk 0:19:23] } 10... Rd8 { [%clk 0:17:29] }
+11. Rd1 { [%clk 0:19:20] } 11... Be7 { [%clk 0:16:53] }
+12. b4 { [%clk 0:19:16] } 12... h6 { [%clk 0:16:42] }
+13. Be2 { [%clk 0:19:12] } 13... g5 { [%clk 0:16:41] }
+14. Bd2 { [%clk 0:19:05] } 14... Kf7 { [%clk 0:16:13] }
+15. Bh5+ { [%clk 0:18:59] } 15... Kg7 { [%clk 0:16:00] }
+16. Ne2 { [%clk 0:18:56] } 16... Rd5 { [%clk 0:15:47] }
+17. c4 { [%clk 0:18:49] } 17... Rxe5 { [%clk 0:15:42] }
+18. Bc3 { [%clk 0:18:43] } 18... Kf6 { [%clk 0:15:26] }
+19. f4 { [%clk 0:18:36] } 19... Bxc4 { [%clk 0:15:11] }
+20. hxg5+ { [%clk 0:18:33] } 20... hxg5 { [%clk 0:15:02] }
+21. Bxe5+ { [%clk 0:18:27] } 21... Ke6 { [%clk 0:14:48] }
+22. Bxh8 { [%clk 0:18:21] } 22... Nf6 { [%clk 0:14:18] }
+23. Nd4+ { [%clk 0:18:14] } 23... Kd5 { [%clk 0:14:10] }
+24. Bf7+ { [%clk 0:18:10] } 24... Kd6 { [%clk 0:14:01] }
+25. Nxf5+ { [%clk 0:18:06] } 25... Kc6 { [%clk 0:13:50] }
+26. Nxe7+ { [%clk 0:18:00] } 26... Kb5 { [%clk 0:13:32] }
+27. Bg6 { [%clk 0:17:56] } 27... Ng4 { [%clk 0:13:02] }
+28. fxg5 { [%clk 0:17:50] } 28... Ka4 { [%clk 0:12:46] }
+29. Ra1 { [%clk 0:17:47] } 29... e3 { [%clk 0:12:32] }
+30. Bb2 { [%clk 0:17:44] } 30... Kb3 { [%clk 0:12:20] }
+31. Bd4 { [%clk 0:17:41] } 31... b6 { [%clk 0:11:28] }
+32. g3 { [%clk 0:17:34] } 32... a5 { [%clk 0:11:09] }
+33. Bh5 { [%clk 0:17:30] } 33... Nf2 { [%clk 0:11:00] }
+34. Rg1 { [%clk 0:17:26] } 34... Nh3 { [%clk 0:10:33] }
+35. Bd1# { [%clk 0:17:21] } { White wins by checkmate. } 1-0
+
+
