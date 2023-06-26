@@ -12,10 +12,11 @@ do
    WON=0
  fi
  #FO=`echo "$FI" | sed 's/.txt$/.pgn/'`
- FO="${D}-${W_D}${B_D}-${IS_B}${IS_W}-$WON.pgn"
+ FN="${D}-${W_D}${B_D}-${IS_B}${IS_W}-${WON}"
+ FO="${FN}.pgn"
  if [ -e "$FO" ]
  then
-  FO="${FO}-$RANDOM"
+  FO="${FN}_${RANDOM}.pgn"
  fi
  echo "$FI -> $FO"
 
