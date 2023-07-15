@@ -1,0 +1,15 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-06-27"]
+[White "Deadlost 1300"]
+[Black "anomen_s"]
+[Result "1-0"]
+[TimeControl "-"]
+[Termination "Deadlost won by checkmate"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nb6 5. Qd3 Nc6 6. d5 Ne5 7. Qc3 Nbc4 8.
+Bxc4 Nxc4 9. Qxc4 e5 10. Nf3 f6 11. Be3 b6 12. O-O a5 13. Nc3 Ba6 14. Qc6+ Qd7
+15. Qxa8+ Bc8 16. h3 Qd8 17. Nb5 Bxh3 18. Qb7 Bg4 19. Nh2 h5 20. f3 Bh3 21. gxh3
+Rg8 22. Rac1 g5 23. Rxc7 Rg7 24. Rxg7 Bxg7 25. Qxg7 Qe7 26. Qg8+ Qf8 27. Qe6+
+Qe7 28. b3 Qxe6 29. dxe6 Ke7 30. Nc7 g4 31. hxg4 hxg4 32. fxg4 Kd6 33. Bxb6 Kc6
+34. Nd5 Kd6 35. e7 Kd7 36. Rxf6 Ke8 37. Rf8+ Kd7 38. e8=Q+ Kd6 39. Rf6# 1-0

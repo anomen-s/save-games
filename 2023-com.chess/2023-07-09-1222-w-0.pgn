@@ -1,0 +1,15 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-07-09"]
+[White "anomen_s"]
+[Black "Benji 1222"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "Benji won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nh6 5. d4 exd4 6. cxd4 Bd6 7. e5 Bb4+ 8.
+Bd2 a6 9. Bxb4 axb5 10. d5 Nxb4 11. Qb3 Qe7 12. O-O Qf8 13. Rd1 b6 14. Qe3 Bb7
+15. Nc3 Ra5 16. d6 c5 17. a3 Nc2 18. Qd3 Nxa1 19. Rxa1 b4 20. Nd5 Bxd5 21. Qxd5
+Ng4 22. Qa8+ Rxa8 23. h3 Nh6 24. Re1 bxa3 25. bxa3 Rxa3 26. Ng5 Ra4 27. e6 fxe6
+28. Nxe6 dxe6 29. Rxe6+ Kd8 30. Re7 c4 31. Rc7 Ra1+ 32. Kh2 Qxd6+ 33. g3 Kxc7
+34. f4 Qd2# 0-1

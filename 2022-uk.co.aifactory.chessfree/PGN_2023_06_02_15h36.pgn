@@ -1,0 +1,21 @@
+[Event "AI Factory's Chess"]
+[Site "Android Device"]
+[Date "2023.06.02"]
+[Round "1"]
+[White "You"]
+[Black "Cpu (3)"]
+[PlyCount "113"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nc3 e6 3. e4 d5 4. exd5 Nxd5 5. Nxd5 exd5 
+6. Bb5+ Nc6 7. Qe2+ Be6 8. Nf3 Be7 9. Ne5 Bf5 10. Nxc6 bxc6 
+11. Bxc6+ Kf8 12. Bxa8 Bb4+ 13. c3 Bxc3+ 14. bxc3 Qxa8 15. O-O Bg6 
+16. Re1 Qd8 17. Ba3+ c5 18. Bxc5+ Kg8 19. Be7 Qc7 20. Qe5 Qxe5 
+21. dxe5 h5 22. Ra1b1 Bxb1 23. e6 Bxa2 24. exf7+ Kxf7 25. Bc5 Kf6 
+26. Ra1 Bc4 27. Rxa7 Rc8 28. Bd4+ Kf5 29. Rxg7 Ra8 30. g4+ hxg4 
+31. Kg2 Bb5 32. Kg3 Rf8 33. Rxg4 Ke6 34. Bg7 Rg8 35. Rg6+ Kf7 
+36. Rb6 Rxg7+ 37. Kf4 Bc4 38. Ke5 Rh7 39. Rb7+ Kg6 40. Rxh7 Kxh7 
+41. Kf5 Ba6 42. f4 Kg7 43. Ke6 Bc4 44. f5 d4+ 45. Ke5 d3 
+46. f6+ Kg6 47. f7 Kxf7 48. Kd4 Kf6 49. Kxc4 Kf5 50. Kxd3 Kg4 
+51. Kd4 Kh3 52. c4 Kg2 53. c5 Kf3 54. c6 Kg4 55. c7 Kh4 
+56. c8=Q 
