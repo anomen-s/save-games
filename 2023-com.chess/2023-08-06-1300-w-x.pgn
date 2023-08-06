@@ -1,0 +1,74 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-08-06"]
+[White "anomen_s"]
+[Black "Nelson 1300"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "Nelson won by resignation"]
+
+1. e4 e6
+2. d4 Qh4
+3. Nf3 Qxe4+
+4. Be3 Bb4+
+5. c3 Be7
+6. Bd3 Qc6
+7. Ne5 Qxg2
+8. Kd2 Nc6
+9. Na3 d5
+10. Qf3 Qxf3
+11. Nxf3 a5
+12. Nb5 Kd8
+13. Rag1 g6
+14. Ne5 f6
+15. Nf7+ Kd7
+16. Nxh8 Ra6
+17. Nf7 e5
+18. dxe5 Nxe5
+19. Nxe5+ fxe5
+20. c4 Nf6
+21. cxd5 Nxd5
+22. Nc3 Rd6
+23. Nxd5 Rxd5
+24. Kc3 b5
+25. Bxb5+ Rxb5
+26. Kc4 Rxb2
+27. Rd1+ Ke8
+28. Rd5 Be6
+29. Kc3 Bxd5
+30. Kxb2 Bxh1
+31. Kb3 Bf3
+32. a3 Kf7
+33. Ka4 e4
+34. Kxa5 Bd6
+35. a4 Be5
+36. Ka6 Ke6
+37. a5 Bd6
+38. Kb7 c5
+39. a6 Kd5
+40. a7 h5
+41. a8=Q Bxh2
+42. Qa2+ c4
+43. Qd2+ Ke6
+44. Kc6 Kf5
+45. Qd5+ Kg4
+46. Qxc4 Be5
+47. Qe6+ Kh4
+48. Qxe5 Kg4
+49. Qe6+ Kh4
+50. Qxg6 Bg4
+51. Qg5+ Kh3
+52. f3 Bxf3
+53. Qxh5+ {blunder} Bxh5
+54. Kd5 Kg3
+55. Kxe4 {draw} Bf7
+56. Bd2 Kh3
+57. Kf4 Kg2
+58. Be1 Bg8
+59. Ke3 Kh2
+60. Kf3 Bb3
+61. Bg3+ Kh3
+62. Bf2 Be6 63. Kf4 Ba2 64. Kg5 Be6 65. Kh5 Bg8 66.
+Kg5 Bf7 67. Kf6 Be8 68. Ke7 Bg6 69. Kf6 Bh7 70. Kg7 Bb1 71. Kh6 Bd3 72. Kg5 Bc4
+73. Kf4 Be2 74. Ke3 Bf1 75. Kf3 Kh2 76. Kg4 Bd3 77. Bg3+ Kh1 78. Bf2 Bh7 79. Kg3
+Be4 80. Be1 Ba8 81. Kf2 Kh2 82. Kf1 Bd5 83. Bd2 Bb7 84. Bf4+ Kh1 0-1
