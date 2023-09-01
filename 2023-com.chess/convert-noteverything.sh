@@ -1,4 +1,7 @@
 #!/bin/sh
+
+# Extract from de.softxperience.android.noteverything
+
 for FI in *.txt
 do
  D=`sed -ne 's/\[Date \"\(.*\)\"\]/\1/p' "$FI"`
@@ -7,11 +10,15 @@ do
  W_D=`sed -ne 's/\[White \"[^0-9]*\([0-9]*\)"\]/\1/p' "$FI"`
  B_D=`sed -ne 's/\[Black \"[^0-9]*\([0-9]*\)"\]/\1/p' "$FI"`
  WON=`sed -ne 's/.*anomen.* won.*/1/p' "$FI"`
+ DRAW=`sed -ne 's/.*Termination .Draw.*/1/p' "$FI"`
  if [ -z "$WON" ]
  then
    WON=0
  fi
- #FO=`echo "$FI" | sed 's/.txt$/.pgn/'`
+ if [ -n "$DRAW" ]
+ then
+   WON=x
+ fi
  FN="${D}-${W_D}${B_D}-${IS_B}${IS_W}-${WON}"
  FO="${FN}.pgn"
  if [ -e "$FO" ]

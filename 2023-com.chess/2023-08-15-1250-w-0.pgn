@@ -1,0 +1,17 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-08-15"]
+[White "anomen_s"]
+[Black "Raphael 1250"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "Raphael won by checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. c3 Rc8 6. d4 a6 7. Nbd2 Rb8 8.
+O-O Nb6 9. dxc5 dxc5 10. b4 e6 11. bxc5 Bxc5 12. Nb3 Be7 13. Be3 Bf6 14. Bxb6
+Qxb6 15. Qd3 Rc8 16. Rad1 Rxc3 17. Qd7+ Kf8 18. e5 Be7 19. Rc1 Qc6 20. Qxc6 Rxc6
+21. Rxc6 bxc6 22. Na5 c5 23. Nc6 Ke8 24. Rd1 Kf8 25. Rd7 Ke8 26. Nb8 Nh6 27. Ra7
+Rg8 28. Rxa6 Bf8 29. Ng5 c4 30. Ra8 Be7 31. Nc6+ Kd7 32. Nxe7 Rxa8 33. Nxh7 Kxe7
+34. Ng5 Ra6 35. Ne4 Ra4 36. f4 Ng4 37. h3 Ne3 38. g3 Rxa2 39. Nc3 Rg2+ 40. Kh1
+Rxg3 41. Ne4 Rg2 42. h4 Re2 43. Ng3 Re1+ 44. Kh2 Rd1 45. Kh3 c3 46. Ne4 c2 47.
+h5 c1=Q 48. Kh4 Nd5 49. Ng5 Qxf4+ 50. Kh3 Qxg5 51. h6 Rh1# 0-1
