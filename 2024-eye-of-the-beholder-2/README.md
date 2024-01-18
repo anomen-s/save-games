@@ -8,3 +8,5 @@
 ## Walkthroughs
 * Cluebook.pdf
 * http://gamerwalkthroughs.com/eye-of-the-beholder-2/
+* https://www.lemonamiga.com/games/docs.php?id=591
+* https://gamefaqs.gamespot.com/pc/564792-eye-of-the-beholder-ii-the-legend-of-darkmoon/faqs
