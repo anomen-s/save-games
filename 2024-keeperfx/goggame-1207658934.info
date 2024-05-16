@@ -1,0 +1,66 @@
+{
+    "buildId": "52112442157406675",
+    "clientId": "49903590461361518",
+    "gameId": "1207658934",
+    "language": "English",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Dungeon Keeper Gold",
+    "playTasks": [
+        {
+            "arguments": "-conf \"..\\dosboxDK.conf\" -conf \"..\\dosboxDK_single.conf\" -noconsole -c \"exit\"",
+            "category": "game",
+            "isPrimary": true,
+            "languages": [
+                "*"
+            ],
+            "name": "Dungeon Keeper Gold",
+            "path": "DOSBOX\\dosbox.exe",
+            "type": "FileTask",
+            "workingDir": "DOSBOX"
+        },
+        {
+            "arguments": "1207658934",
+            "category": "tool",
+            "languages": [
+                "*"
+            ],
+            "name": "Graphic Mode Setup",
+            "path": "DOSBOX\\GOGDOSConfig.exe",
+            "type": "FileTask",
+            "workingDir": "DOSBOX"
+        },
+        {
+            "category": "document",
+            "languages": [
+                "*"
+            ],
+            "link": "http://www.gog.com/support/dungeon_keeper",
+            "name": "Support",
+            "type": "URLTask"
+        },
+        {
+            "arguments": "1207658934 NET",
+            "category": "tool",
+            "languages": [
+                "*"
+            ],
+            "name": "Run Multiplayer Game",
+            "path": "DOSBOX\\GOGDOSConfig.exe",
+            "type": "FileTask",
+            "workingDir": "DOSBOX"
+        },
+        {
+            "category": "document",
+            "languages": [
+                "*"
+            ],
+            "name": "Manual",
+            "path": "manual.pdf",
+            "type": "FileTask"
+        }
+    ],
+    "rootGameId": "1207658934",
+    "version": 1
+}
