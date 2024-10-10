@@ -26,7 +26,7 @@
 * if player has less than 15 imps, one vampire is killed and 3 imps spawned
 * 💀, ✅
 
-### The Death Clock
+### The Death Clock (00450)
 * complete room to get Vampire or Wizard
 * two hero gates
 * game timer starts after claiming 100 tiles
@@ -37,3 +37,28 @@
 * SE - graveyard - 1 tile
 * S - dungeon wih mistress, skeletons, bonuses
 * NE - Ressurect creature, speed monster
+
+### Shores of Battle (00456)
+* SW corner - diamonds and hero gate
+* NW, NE, SE - enemy Keepers
+* center - Hero heart and portals
+* N of Portal - cave with enemy Tentacles
+* lava with unclaimable hero bridges
+* ✅
+
+### Wetlands (00452)
+* neutral Ghosts in water around
+* E of Heart - neutral Deamon Spawns
+* S - portal
+* hero attacks soon
+* can wall off water from N
+* NW - small Temple and Troll 
+* N center - barracks, Hero portal
+* S - library with Wizards - defeaat them to get bridges
+* SW - prison with Warlocks
+* SE - passive enemy keeper with Bile Daemons
+* NE corner - hero cave, Mistress, Torture room
+* SE of portal - hero cave
+* sacrifice Mistress Trol, Bile Daemon
+* S center - walled of hero Heart
+* ✅

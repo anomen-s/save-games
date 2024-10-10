@@ -41,3 +41,11 @@
 * Hero castle beyond lava to south
 * temple and Heart in SW corner
 * huge number of low level monks spawned often (Bile Demons can handle them)
+
+## Single Example (00200)
+* SE - enemy
+* N - center - graveyard
+* NE - lava wwith some heroes
+* SW - Heroe castle, diamonds
+* ✅
+
