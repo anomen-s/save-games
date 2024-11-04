@@ -6,3 +6,8 @@
 # Campaigns and maps
 
 * see in subfolders
+
+# Cheat codes
+* command parameter -alex
+* in global map DKLVLSKP or DKND ? to skip level
+

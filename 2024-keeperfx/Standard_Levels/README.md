@@ -62,3 +62,7 @@
 * sacrifice Mistress Trol, Bile Daemon
 * S center - walled of hero Heart
 * ✅
+
+### Thug of War (00451)
+* NW - workshop
+* need to open dungeon not to be swept by several waves at once
