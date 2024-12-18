@@ -12,7 +12,7 @@ do
   do
    FO="${FI%.$FORMAT}.jpg"
    echo "$FI -> $FO"
-   convert "$FI" -quality "$Q" -scale "$W"x-1 "$FO"
+   magick "$FI" -quality "$Q" -scale "$W"x-1 "$FO"
    touch -r "$FI" "$FO"
    mv "$FI" "converted-$FI"
   done
