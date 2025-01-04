@@ -43,7 +43,8 @@
 * easter egg: mirror right from entrance to the chamber on the right side
 
 ## A messenger (wooden door)
-*
+* easter egg: monkey cage behind the waterfall to the right
+
 
 # World B
 * unlock: fan, recorder
@@ -53,7 +54,7 @@
 
 ## B2
 * easter egg: red receiver on the Moon
-* TODO: easter egg: telescope from chamber with fans
+* easter egg: key in far end corner in the chamber with fans and telescope reachable using right fan and jamping on the edge of wall and pillars
 * easter egg: bedroom left of entrance to the temple (jump over from sar area)
 * star: hidden passage on right side of door to the chamber The Tomb, need to use generator from other chamber
 * paint
@@ -91,7 +92,8 @@
 * easter egg: CRObar in ruins left of Wholle Lotta Jamming, then continue to hidden vault under statue
 
 ## B messenger (wooden door)
-*
+* underwater cave at the end of the river (close to portal)
+
 
 # World C
 * axe
@@ -101,17 +103,17 @@
 * compose LoL on puzzle to get an achievement
 
 ### C1
-* star: connector protected by gun (can be jammed from nearby chamber), receiver behind other room
+* star: connector protected by gun (can be jammed from nearby chamber), receiver behind other chamber
 * hole in path with 'backstage' room
 * terminal on the beach
 * easter egg: statue - 10 pieces - 3 nearby, 1 in water near, 2 on the beach to right, 2 to left (in direction to terminal), 1 near and 1 under the bridge
 * easter egg: in distant chamber jump up the roof using cubes (difficult) and continue right to the second tower
 
 ### C2
+* star: use recorder to get over fence to blue generator area
 * easter egg: fake red door
 * easter egg: key and telescope in Rapunzel (need to get platform and cube up the ladder)
 
 # Tower
-* star: in separate building
-* wooden door
-
+* TODO star: separate building
+* TODO wooden door
