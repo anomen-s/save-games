@@ -3,18 +3,25 @@
 
 # World A
 * unlock: box, connector
+* easter egg: beyond fake wall where A8 would be
 
 ## A1
 * star: hidden switch before chamber Only the Two of Us
 
 ## A2
 * star: locked gate and force field close to start (get keys from one of the chambers)
+* terminal on far end of the island
+* easter egg: bottle in water to the right from entrance to Hall of Windows
+* easter egg: bottle in water left from the second terminal
 
 ## A3
 * star: press buttons 7 and 20 in on the pillars in the center
 
 ## A4
 * star: hidden room in the first chamber on the right side, use connector on pillar
+* easter egg: Floppy disk on pillar close to start
+* easter egg: walkie-talkie - at the end of main path jump down and turn right
+* easter egg: easter egg - end of path behind first chamber on the right side
 
 ## A5
 * paint
@@ -23,17 +30,19 @@
 
 ## A6
 * star: box in the center, jump over the wall
+* easter egg: letter rocks in Mobile Minefield
 
 ## A7
 * star: in the left chamber, use connector from opposite chamber
-
-## A8
-* beyond fake wall
+* easter egg: SOS in sand - right side
+* easter egg: terminal with BSOD - left side
 
 ## A-star
-* axe
+* in center: axe, jammer and fan to complete left chamber
+* paint
+* easter egg: mirror right from entrance to the chamber on the right side
 
-## A-wooden door
+## A messenger (wooden door)
 *
 
 # World B
@@ -59,15 +68,18 @@
 * easter egg: cinema - green stamp in counsel board in left chamber, fake wall behing the portal
 * easter egg: dynamite - jump out from stairs at Wrap Around the Corner and use dynamite on Sphynx
 * paint
-* star: behind wall in chamber, put cube on buzzer and jump over the wall
-* blue generator on top of the pyramid
+* star 1: behind wall in chamber, put cube on buzzer and jump over the wall
+* star 2: use connector on blue generator on top of the pyramid and hidden receiver on sphynx
 
 ## B5
-* star: central pillar, need a box and connector from chamber with next to fenced room with fan
-* TODO easter eggs
+* star: central pillar, need a box and connector from chamber with next to fenced area with fan
+* terminal on far end of the island
+* easter egg: Statue of Liberty - use telescope and key below in water on left side
+* easter egg: The Dark Side Of The Moon cave - access (using cube) and activate fan in water in far end of the island
 
 ## B6
 * paint
+* easter egg: secret room - jump on top of the teleport room
 
 ## B7
 * terminal in desert
@@ -78,6 +90,28 @@
 * easter egg: dinosar bones behind chamber Bouncing side by side
 * easter egg: CRObar in ruins left of Wholle Lotta Jamming, then continue to hidden vault under statue
 
+## B messenger (wooden door)
+*
+
+# World C
+* axe
+* unlock: platform
+
+## C messenger (wooden door)
+* compose LoL on puzzle to get an achievement
+
+### C1
+* star: connector protected by gun (can be jammed from nearby chamber), receiver behind other room
+* hole in path with 'backstage' room
+* terminal on the beach
+* easter egg: statue - 10 pieces - 3 nearby, 1 in water near, 2 on the beach to right, 2 to left (in direction to terminal), 1 near and 1 under the bridge
+* easter egg: in distant chamber jump up the roof using cubes (difficult) and continue right to the second tower
+
+### C2
+* easter egg: fake red door
+* easter egg: key and telescope in Rapunzel (need to get platform and cube up the ladder)
+
 # Tower
-* star: separate building
+* star: in separate building
 * wooden door
+
