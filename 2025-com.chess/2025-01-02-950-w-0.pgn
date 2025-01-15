@@ -1,0 +1,15 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2025-01-02"]
+[White "anomen_s"]
+[Black "The Hustler"]
+[Result "0-1"]
+[WhiteElo "837"]
+[BlackElo "950"]
+[TimeControl "-"]
+[Termination "The Hustler won by checkmate"]
+
+1. d4 h5 2. e4 Nf6 3. f3 a5 4. e5 Nd5 5. c4 Nb6 6. c5 Nd5 7. Qb3 e6 8. g3 g5 9.
+Nh3 g4 10. fxg4 hxg4 11. Nf4 Nxf4 12. gxf4 Bxc5 13. dxc5 b6 14. cxb6 Qh4+ 15.
+Kd2 Qf2+ 16. Kd3 Nc6 17. Be3 Ba6+ 18. Kc3 Qxe3+ 19. Kc2 Nd4+ 20. Kd1 Nxb3 21.
+axb3 Bxf1 22. Rxf1 Rxh2 23. Re1 Qxb3+ 24. Kc1 Qc2# 0-1

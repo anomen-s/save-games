@@ -1,0 +1,23 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2024-12-31"]
+[White "Yeti"]
+[Black "anomen_s"]
+[Result "0-1"]
+[WhiteElo "450"]
+[BlackElo "837"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. d4 d5 2. c4 Nf6 3. Qd2 dxc4 4. f3 Nc6 5. Qd1 Nxd4 6. g3 Nc2+ 7. Qxc2 Qd6 8.
+Qxc4 Be6 9. Qf4 Qb4+ 10. Qxb4 Nd5 11. Qb5+ c6 12. e4 g6 13. Qc4 Rd8 14. Bh6 Bxh6
+15. Qb3 Ne3 16. Qc3 Rd1+ 17. Ke2 Bc4+ 18. Qxc4 Nxc4 19. Kxd1 O-O 20. f4 Rd8+ 21.
+Ke2 Rd2+ 22. Nxd2 Nxd2 23. Kxd2 g5 24. f5 g4+ 25. Kd1 c5 26. h3 gxh3 27. Rxh3
+Be3 28. Nf3 Kg7 29. a3 b5 30. Bd3 c4 31. Ke2 Bd4 32. Nxd4 cxd3+ 33. Kxd3 e5 34.
+f6+ Kxf6 35. Nf5 Ke6 36. Rxh7 a5 37. Rxf7 Kxf7 38. b3 Kg6 39. Ne7+ Kg5 40. Rh1
+Kg4 41. a4 bxa4 42. bxa4 Kxg3 43. Nc6 Kg2 44. Rh5 Kf3 45. Nxe5+ Kf4 46. Nf7 Kg4
+47. Nh6+ Kxh5 48. Ke3 Kxh6 49. Kd4 Kg6 50. Kc5 Kf6 51. Kd5 Ke7 52. Ke5 Kd7 53.
+Kf4 Kd6 54. Kf5 Kc5 55. Kg4 Kd4 56. Kg5 Kxe4 57. Kg4 Kd4 58. Kf5 Kc4 59. Ke4 Kb4
+60. Kd4 Kxa4 61. Kc4 Ka3 62. Kd5 a4 63. Ke6 Kb2 64. Ke5 a3 65. Kd5 a2 66. Kd4
+a1=Q 67. Ke4 Qb1+ 68. Kf3 Kc2 69. Ke4 Qb4+ 70. Kd5 Kc3 71. Kc6 Kc4 72. Kd7 Kd5
+73. Ke8 Ke6 74. Kd8 Qb8# 0-1

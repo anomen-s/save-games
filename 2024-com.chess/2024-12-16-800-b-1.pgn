@@ -1,0 +1,14 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2024-12-16"]
+[White "Gingerbread Man"]
+[Black "anomen_s"]
+[Result "0-1"]
+[WhiteElo "800"]
+[BlackElo "837"]
+[TimeControl "-"]
+[Termination "anomen_s won by checkmate"]
+
+1. f3 e5 2. e4 Nf6 3. h4 c6 4. Bc4 d5 5. Bb3 dxe4 6. Nc3 Bb4 7. Nxe4 Nxe4 8.
+fxe4 Qd4 9. Qe2 f5 10. Qh5+ g6 11. Qe2 fxe4 12. g3 Rf8 13. a3 Bg4 14. Qxg4 Qf2+
+15. Kd1 Qf1# 0-1
