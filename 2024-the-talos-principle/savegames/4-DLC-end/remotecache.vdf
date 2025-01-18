@@ -1,0 +1,29 @@
+"257510"
+{
+	"ChangeNumber"		"30"
+	"ostype"		"-203"
+	"PlayerProfile.dat"
+	{
+		"root"		"0"
+		"size"		"20455"
+		"localtime"		"1737156720"
+		"time"		"1737156734"
+		"remotetime"		"1737156734"
+		"sha"		"679f479b687195c30e8c955aa7ec3c37c666cb1f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"PlayerProfile.dat.bkp"
+	{
+		"root"		"0"
+		"size"		"20455"
+		"localtime"		"1737156720"
+		"time"		"1737156734"
+		"remotetime"		"1737156734"
+		"sha"		"009752206728b182eb106e86f6414cba0c9812a6"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

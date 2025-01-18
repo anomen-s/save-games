@@ -141,6 +141,7 @@
 
 ## C5
 * terminal
+* D0G's termination QR code outside of the map
 * star: jump on the second mine in Up Close And Jammed
 * star: walk on top of the wall from final room of Time Flies
 * star: red receiver next to stairs in Dumbwaiter, use red generator and connector in two other chambers
