@@ -19,8 +19,8 @@
 * easter egg Portal Turret: jump out of final area of Bunny Hop
 * star Cubedriver: use red beam from top of Haircut chamber
 * star Static Vexer: use blue and then red beam from Crater chamber
-* star Crater 1: (TODO)
-* star Crater 2: (TODO) retrieve both fans?
+* star Crater 1: get the second fan
+* star Crater 2: activate both fans and collide with cube, one connector can be taken into water in center to avoid beam crossing
 
 ## World 3
 * easter egg Bottles - Developer: sequence of bottles (first on the beach)
@@ -28,7 +28,7 @@
 * star: use fan on top of viaduct
 * star Harmony: use fan to get on top of the wall and bring connector to open force field
 * star Pendulum 1: carry connector out of the chamber over back wall to avoid buzzers
-* star Pendulum 2: stack cubes on third buzzer
+* star Pendulum 2: stack cubes on third buzzer and jump on the wall
 
 ## World 4
 ### Goliath
