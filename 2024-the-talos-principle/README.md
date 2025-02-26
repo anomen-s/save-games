@@ -65,7 +65,7 @@
 
 ## B2
 * easter egg Aperture: red receiver on the Moon
-* easter egg Telescope: key in far end corner in the chamber with fans and telescope reachable using right fan and jamping on the edge of wall and pillars
+* easter egg Telescope: key in far end corner in the chamber with fans and telescope reachable using right fan and jumping on the edge of the wall and pillars
 * easter egg Bedroom: left of entrance to the temple (jump over from sar area)
 * star: hidden passage on right side of door to the chamber The Tomb, need to use generator from other chamber
 * paint
@@ -77,7 +77,7 @@
 * another terminal in the center
 
 ## B4
-* easter egg Cinema: green stamp in counsel board in left chamber, fake wall behing the portal
+* easter egg Cinema: green stamp in counsel board in the left chamber, fake wall behing the portal
 * easter egg Dynamite: jump out from stairs at Wrap Around the Corner and use dynamite on Sphynx
 * paint
 * star 1: behind wall in chamber, put cube on buzzer and jump over the wall
@@ -106,7 +106,7 @@
 * digit for elevator code for L6
 
 ## B messenger (wooden door)
-* underwater cave at the end of the river (close to portal)
+* easter egg: underwater cave at the end of the river (close to portal)
 
 
 # World C
@@ -118,8 +118,8 @@
 * star: connector protected by gun (can be jammed from nearby chamber), receiver behind other chamber
 * hole in path with 'backstage' room
 * terminal on the beach
-* easter egg Flying statue: - 10 pieces - 3 nearby, 1 in water near, 2 on the beach to right, 2 to left (in direction to terminal), 1 near and 1 under the bridge
-* easter egg: in distant chamber jump up the roof using cubes (difficult) and continue right to the second tower
+* easter egg Flying statue: 10 pieces - 3 nearby, 1 in water near, 2 on the beach to right, 2 to left (in direction to terminal), 1 near the bridge and 1 under the bridge
+* easter egg: in the distant chamber jump up the roof using cubes and continue right (difficult) to the second tower
 
 ## C2
 * star: use recorder to get over fence to blue generator area
@@ -127,15 +127,15 @@
 * easter egg Telescope: in Rapunzel, key above the ladder, then get platform and cube up the ladder
 
 ## C3
-* star: use blue laser from another chamber connected through chamber Three Littl Connectors and Fan
-* easter egg Gandalf: far end of Weathertop
+* star: use blue laser from another chamber connected through chamber Three Little Connectors and Fan
+* easter egg Falling Gandalf: far end of Weathertop
 * easter egg Han Solo: small ledge behind jammer in the Weathertop
 * easter egg Jetpack: jump down right of blue generator in the chamber over the bridge
 * easter egg Frozen cave: cave under far end of the bridge
 * easter egg Snowman: behind and above Jammer in one of the chambers
 
 ## C4
-* star: chamber Throne Room - just from top of fan
+* star: chamber Throne Room - jump from top of the fan
 * star: chamber Oubliette - use recorder to jump over barrier
 * easter egg Photos: jump over wall from one of twoe statues
 
