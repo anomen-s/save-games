@@ -1,3 +1,8 @@
+# Notes
+* golden puzzles are inactive (cannot be finished until door opens)
+* stars in each level
+* ToDo: disable cloud saves and test
+
 # Simulation
 * easter egg Within Reach: broken terminal
 
@@ -11,14 +16,17 @@
 # East 1
 * object: RGB converter
 * achievement: tricycle - left of tower
-* prometheus spark: in front of puzzle 3
+* spark: in front of puzzle 3
+* spark: behind 6
 * star: follow particle swarm to statue
 * star: green beam from puzzle 8
+* easter egg: movie posters in W corner
 
 # East 2
 * object: Driller
 * NW - prometheus spark
-* prometheus spark: near center
+* spark: near center
+* spark: ?
 * puzzle 7 - cube can be brought out
 * puzzle Loop - cube and connector can be brought out
 * easter egg: gallery at the island between bridges
@@ -27,11 +35,11 @@
 
 # East 3
 * star: green beam from puzzle 3, trhrough puzzle 6 to Statue
-* star: switch close to terminal embraced by big statue, shown in the Engraving
-* prometheus spark: behind puzzle 6
-* behind puzzle 6 - elephant slide
-* N - ancient machine
-* in the maze - Engraving 3
+* star: switch close to terminal embraced by big statue, shown in the Engraving (in the maze)
+* spark: behind puzzle 6
+* spark: ?
+* artefact Elephant slide: behind puzzle 6
+* artefact Ancient machine: (N)
 * easter egg: Pink Floyd album cover statues
 
 # Mega structure
@@ -42,32 +50,33 @@
 * star: follow blue spark
 * star: A/C/T buttons behind puzzle 7 and lost puzzles
 * puzzle 1: can be reached from top
-* puzzle 3: connector can be brought out
-* puzzle 5: clone, platform or cube can be brought out
-* puzzle 7: connector can be brought out
-* lost puzzle: jammer can be brought out
+* out 3: connector
+* out 5: clone, platform or cube
+* out 7: connector
+* out lost puzzle: jammer
 * spark: behind gold puzzle
+* spark: ?
 * easter egg: snowmans behind puzzle 7
 * easter egg: rubber ducks in the sea
-* easter egg: ping bench behind fan on the shore
+* easter egg: pink bench behind fan on the shore
 * easter egg: guitar
 * easter egg: speakers
-* easter egg: TTP star
-* terminal - down to shore from puzzle 7
-* several fans for quck return from the shore
+* easter egg: star (TP1)
+* terminal: down to shore from puzzle 7
+* several fans for quick return from the shore
 
 # North 2 - Flooded Valley
 * objects: accumulator
 * star: three switches across islands
-* puzzle 2 - RGB converter, accumulator can be brought out
+* star: spark near puzzle 4
+* out 2: RGB converter, accumulator
 * terminal - close to puzzle 2
 * spark: close to puzzle 3
-* terminal: behind 4
-* star: spark near puzzle 4
-* artefact: anchor (SE island)
-* easter egg: behind 5: poster AAA
 * spark: jump over structure in water (SW)
+* terminal: behind 4
+* artefact: anchor (SE island)
 * artefact: satellite (SW)
+* easter egg: behind 5: poster AAA
 * easter egg: Football game behind the tower
 * easter egg: snowmans
 * easter egg: cat smiley behind pillar behind tower (unreachable)
@@ -79,6 +88,63 @@
 * star: near puzzle 3, use RGB converter on pillar with beams from puzzle 4 and connect through puzzle 3 (or use cube and connector with green beam from lost puzzle)
 * terminal: behind puzzle 3
 * terminal: near puzzle 2
-* puzzle 1: jammer, cube, fan can be brought out
-* puzzle 8: connector can be brought out using cube
+* out 1: jammer, cube, fan
+* out 8: connector, using cube
 * gold puzzle can be reached using cube
+
+# South 1 - Southern Coast
+* objects: teleporter
+* spark: near path above puzzle 1
+* spark: near puzzle 8
+* out 8: connector
+* out 7: cubes, teleporter or other objects
+* out 6: cube and teleporter, using two cubes from outside
+* star: green beam near puzzle 2, through puzzle 2 and place connector near puzzle 6
+* star: pillars behind puzzle 8
+* artefact: bomber below the bridge
+* artefact: van near puzzle 6
+* artefact: game near puzzle 8
+* easter egg: cannon - through water below a terminal
+* easter egg: sand castle behind puzzle 4
+
+# South 2
+* easter egg: TV behind puLe 3
+* artefact: washing machine (NE)
+* terminal (NE)
+* srark: behind puzzle 1
+* star: connectors behind puzzle 2, RGB converter and RB converter near monument high in the slopes
+* star: follow blue spark
+* out 5: connector and cube
+
+# South 3
+* star: switches: behind 1, behind golden 2, right back side of structure
+* star: use connector from  3 and generator in a puzzle down
+* spark: behind 2
+* spark: ?
+* terminal behind 1
+* out 3: connector, cube
+* out 7: connector, Inverter, Driller
+* easter egg: registration plate close to a lone tree behind lab
+* easter egg: cardboard Serious sam enemies behind monument with star
+
+# West 1
+* star: pattern behind 6
+* star: spark in 6
+* spark: behind golde puzzle
+* spark: behind lab
+* artefact: oil pump behind 4
+* easter egg: cap behind 2
+* out lost puzzle: connector
+
+# West 2
+* object: activator
+* artifact: car - in front of 4
+* easter egg: toy robot right of 8
+* easter egg: don't look down - behind 1
+* spark: right side on top of fans
+* spark: in front of 6
+* star: spark in center
+* star: behind 3, blue beam from 4, hidden room with driller in 4, activator behind the wall next to 6
+* out 7: jammer
+
+# West 3
