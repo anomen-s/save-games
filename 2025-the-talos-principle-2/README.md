@@ -1,4 +1,8 @@
 # Notes
+* steam ID: 835960
+* savegames: `c:\Users\%USERNAME%\AppData\Local\Talos2\Saved`
+* screenshots: `...\Steam\steamapps\common\The Talos Principle 2\Talos2\Screenshots`
+
 * golden puzzles are inactive (cannot be finished until door opens)
 * stars in each level
 * ToDo: disable cloud saves and test
