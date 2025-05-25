@@ -1,0 +1,14 @@
+[Event "AI Factory's Chess"]
+[Site "Android Device"]
+[Date "2022.12.09"]
+[Round "1"]
+[White "Cpu (3)"]
+[Black "You"]
+[PlyCount "42"]
+[Result "0-1"]
+
+1. e4 Nf6 2. e5 Nd5 3. e6 dxe6 4. d4 f6 5. Qh5+ g6 
+6. Qg4 f5 7. Qg3 Bh6 8. Bxh6 Nf6 9. Bg7 Rg8 10. Bxf6 exf6 
+11. Nc3 Qxd4 12. Qxc7 Nd7 13. Qxc8+ Rxc8 14. Rd1 Qb4 15. Bb5 Qxb2 
+16. Bxd7+ Ke7 17. Na4 Qe5+ 18. Kf1 Rxc2 19. Nf3 Qe2+ 20. Kg1 Qxd1+ 
+21. Ne1 Qxe1#  0-1
