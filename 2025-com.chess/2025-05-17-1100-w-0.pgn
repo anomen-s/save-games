@@ -1,0 +1,20 @@
+[Event "Play vs Bot"]
+[Site "Chess.com"]
+[Date "2025.05.17"]
+[Round "?"]
+[White "anomen_s"]
+[Black "Aerial-Powers-BOT"]
+[Result "0-1"]
+[TimeControl "-"]
+[WhiteElo "837"]
+[BlackElo "1100"]
+[Termination "Aerial-Powers-BOT won by checkmate"]
+[ECO "D02"]
+[EndDate "2025.05.17"]
+[Link "https://www.chess.com/game/computer/285275822?move=0"]
+
+1. d4 d5 2. Nf3 Nc6 3. Nc3 Nf6 4. Ng5 h6 5. Nxf7 Kxf7 6. e3 Rb8 7. Nxd5 Qxd5 8.
+c4 Qh5 9. Qxh5+ Nxh5 10. Be2 Nf6 11. f4 e6 12. Bd2 Nb4 13. a3 Nc2+ 14. Kf2 Ne4+
+15. Kf3 Nxd2+ 16. Kf2 Nxa1 17. Rxa1 Ne4+ 18. Kf3 Nd2+ 19. Kf2 b5 20. Ke1 Nxc4
+21. Bh5+ g6 22. Be2 Nxe3 23. Kf2 Nf5 24. Re1 c5 25. dxc5 Bxc5+ 26. Kf3 a5 27. g4
+Bb7# 0-1

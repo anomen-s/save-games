@@ -1,0 +1,22 @@
+[Event "Play vs Bot"]
+[Site "Chess.com"]
+[Date "2025.05.10"]
+[Round "?"]
+[White "anomen_s"]
+[Black "the-driver-BOT"]
+[Result "1-0"]
+[TimeControl "-"]
+[WhiteElo "837"]
+[BlackElo "850"]
+[Termination "anomen_s won by checkmate"]
+[ECO "B08"]
+[EndDate "2025.05.10"]
+[Link "https://www.chess.com/game/computer/279733856?move=0"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4 d6 5. e5 Kd7 6. Bb5+ c6 7. Bxc6+ bxc6 8.
+exf6 Bxf6 9. O-O e6 10. Re1 Rf8 11. b4 h5 12. h4 Ke8 13. Qd3 a5 14. b5 Ba6 15.
+bxa6 Qc7 16. Rb1 Nxa6 17. Qc4 Bg7 18. Nb5 cxb5 19. Qxb5+ Kd8 20. Qg5+ Kc8 21.
+Bd2 Rb8 22. Bxa5 Qa7 23. Bb6 Rxb6 24. Rxb6 Qxb6 25. Qe7 Qb5 26. Nd2 Bxd4 27. Rb1
+Qxb1+ 28. Nxb1 Bg7 29. Qxd6 Nc7 30. Nc3 Bh6 31. Qc6 Bc1 32. Nb5 Bf4 33. Na7+ Kb8
+34. Qb6+ Ka8 35. Nc6 Be3 36. Qxe3 Nb5 37. c4 e5 38. cxb5 Kb7 39. Nxe5 Re8 40.
+Qe4+ Kb8 41. Nc6+ Kc7 42. Qxe8 g5 43. Qd8+ Kb7 44. Qb8# 1-0
