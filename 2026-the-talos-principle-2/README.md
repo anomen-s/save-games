@@ -32,4 +32,10 @@
 * lost puzzle: connectors can be passed from one robot to another (with help)
 
 
-#
+# Abyss
+* easter egg: snowman behind puzzle 12
+* easter egg: gorilla behind puzzle 9
+* out 13: cube, connector, 2 inverters
+* in 14: using cube you can jump into room with blue laser
+* puzzle 9: carry connector and inverter to open barrier to the last room and use two RGB converters to access Alexandra recording
+* QR codes behind puzzles 11, 16
