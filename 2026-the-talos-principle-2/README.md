@@ -35,7 +35,27 @@
 # Abyss
 * easter egg: snowman behind puzzle 12
 * easter egg: gorilla behind puzzle 9
-* out 13: cube, connector, 2 inverters
-* in 14: using cube you can jump into room with blue laser
+* easter egg: guitar and katana behind 19
+* easter egg: table with hammers behind 24
+* puzzle 3: cheated with inverter from outside
+* in 5: cheated using cube from outside
 * puzzle 9: carry connector and inverter to open barrier to the last room and use two RGB converters to access Alexandra recording
-* QR codes behind puzzles 11, 16
+* in 10: everything, cheated using cube
+* out 10: RGB (using cube)
+* in 11: everything, cheated using cube
+* out 11: teleport, fan, connectors, inverter, RGB converter (using cube)
+* out 13: cube (!), connector, 2 inverters
+* in 14: using cube you can jump into room with blue laser
+* out 14: 3 inverters (using cube)
+* in 15: using cube, access through 14
+* puzzle 16: cheated using 2 inverters outside
+* puzzle 17: cheated using cube and inverter outside
+* puzzle 17: cheated using connector and inverter outside
+* puzzle 20: cheated using cube and inverter outside
+* in 21: cheated using cube
+* out 21: RGB converters (using cube)
+* puzzle 23: put connector behind left grate
+* in 24: cheated using cube
+* out 24: connector (using cube from outsid)
+* QR codes near or behind puzzles 11, 14, 16, 4, 24
+* terminal behind 4
