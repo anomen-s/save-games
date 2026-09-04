@@ -1,2 +1,0 @@
-## Screenshots
-* $HOME/.killingfloor/ScreenShots
